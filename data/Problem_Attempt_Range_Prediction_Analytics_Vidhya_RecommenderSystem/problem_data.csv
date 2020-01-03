@@ -1,0 +1,6545 @@
+problem_id,level_type,points,tags
+prob_3649,H,,
+prob_6191,A,,
+prob_2020,F,,
+prob_313,A,500.0,"greedy,implementation"
+prob_101,A,500.0,"constructive algorithms,greedy,math"
+prob_1479,E,,
+prob_2940,B,,
+prob_3059,B,5.0,brute force
+prob_1958,D,,
+prob_6154,C,,
+prob_4069,B,1000.0,"dfs and similar,dsu,graphs"
+prob_4926,A,500.0,implementation
+prob_3154,K,,
+prob_1538,A,,
+prob_3750,B,1000.0,math
+prob_4440,I,,
+prob_4569,A,,
+prob_4189,D,,
+prob_526,D,2000.0,"math,number theory"
+prob_5498,I,,
+prob_3216,F,,
+prob_1412,C,1500.0,"brute force,dp,number theory"
+prob_5088,B,,
+prob_5693,D,2000.0,"brute force,dfs and similar,graphs"
+prob_75,A,500.0,implementation
+prob_1035,I,,
+prob_2822,C,,"data structures,expression parsing,math"
+prob_3277,D,2000.0,"dfs and similar,greedy"
+prob_3284,,,
+prob_3714,D,,
+prob_1552,C,,
+prob_2092,E,,
+prob_4119,B,,
+prob_1397,B,1000.0,"bitmasks,brute force,dfs and similar,expression parsing,implementation"
+prob_5862,G,,"constructive algorithms,divide and conquer,implementation"
+prob_6212,A,500.0,"brute force,implementation,sortings"
+prob_5844,G,,
+prob_1095,A,,"greedy,shortest paths"
+prob_4395,E,,"combinatorics,constructive algorithms,dfs and similar,graphs"
+prob_1548,G,,
+prob_980,F,,
+prob_4968,,,
+prob_704,,,
+prob_5653,E,,
+prob_4911,C,1500.0,"brute force,math,strings"
+prob_1190,F,,
+prob_2543,A,,
+prob_4418,F,,
+prob_2735,E,2750.0,
+prob_4116,B,1000.0,implementation
+prob_2626,J,,
+prob_3110,C,1500.0,dfs and similar
+prob_1054,E,2000.0,"combinatorics,dp"
+prob_968,F,,
+prob_4666,C,,number theory
+prob_6396,D,,
+prob_5500,C,1500.0,"dfs and similar,dsu"
+prob_4871,D,,
+prob_2969,B,,
+prob_226,A,500.0,"brute force,implementation,sortings"
+prob_5867,C,1500.0,dp
+prob_2897,G,,
+prob_1613,B,,
+prob_2797,C,2000.0,"dfs and similar,graphs,implementation"
+prob_2610,E,,
+prob_1649,E,,
+prob_3508,A,500.0,implementation
+prob_6505,H,,
+prob_577,B,,
+prob_4590,B,1000.0,"data structures,dp,implementation"
+prob_4675,E,,"dp,games"
+prob_2952,A,500.0,implementation
+prob_4487,I,,
+prob_2836,C,1500.0,dp
+prob_445,E,,
+prob_2256,D,1750.0,"hashing,strings"
+prob_1123,J,,
+prob_2771,C,1500.0,implementation
+prob_5038,G,,
+prob_4040,I,,
+prob_5402,D,,
+prob_6481,E,2500.0,"combinatorics,dp,implementation,number theory"
+prob_5081,F,,data structures
+prob_4378,I,,
+prob_3364,B,,
+prob_4862,B,1000.0,"binary search,greedy"
+prob_811,C,,
+prob_832,B,,
+prob_145,,,
+prob_1740,A,1000.0,"constructive algorithms,dp,math"
+prob_6237,F,,implementation
+prob_3438,A,500.0,implementation
+prob_4101,B,,
+prob_2305,C,1750.0,"dp,greedy"
+prob_6003,B,1000.0,"brute force,math"
+prob_4785,,8.0,dp
+prob_1117,H,,
+prob_5767,B,,"greedy,two pointers"
+prob_5340,I,,
+prob_5275,A,500.0,implementation
+prob_4778,B,1000.0,"constructive algorithms,dfs and similar,dsu,trees"
+prob_825,J,,
+prob_2985,D,2000.0,"combinatorics,dp"
+prob_1125,F,,
+prob_5253,A,500.0,"constructive algorithms,sortings"
+prob_4989,A,,
+prob_2512,J,,
+prob_750,C,,
+prob_3580,B,750.0,"dfs and similar,dp,graphs,strings,trees"
+prob_2697,A,500.0,"binary search,bitmasks,brute force,greedy,implementation,strings"
+prob_4781,I,,
+prob_5218,B,,
+prob_6362,D,2000.0,"binary search,data structures,greedy,sortings"
+prob_4167,C,1750.0,"constructive algorithms,dfs and similar,trees"
+prob_1069,I,,
+prob_1535,,,
+prob_159,A,,
+prob_667,A,500.0,implementation
+prob_5605,B,,
+prob_4320,K,,
+prob_4343,B,1000.0,"expression parsing,implementation"
+prob_5047,B,500.0,math
+prob_1000,A,500.0,implementation
+prob_4906,A,,
+prob_5689,D,2250.0,"dp,probabilities,sortings"
+prob_4369,M,,
+prob_4100,D,2000.0,"bitmasks,brute force"
+prob_1490,D,2000.0,"binary search,greedy"
+prob_3431,C,1500.0,"brute force,constructive algorithms,implementation"
+prob_1308,C,,"implementation,sortings"
+prob_2463,B,1000.0,"greedy,implementation,strings"
+prob_2474,F,3000.0,"data structures,divide and conquer"
+prob_3377,K,,
+prob_6084,B,,
+prob_2964,E,2500.0,games
+prob_3881,C,1500.0,"brute force,sortings,two pointers"
+prob_5326,,1000.0,
+prob_2322,B,,
+prob_1647,D,2000.0,"math,ternary search"
+prob_1541,A,750.0,"brute force,implementation,math"
+prob_965,C,,
+prob_4420,C,1500.0,"brute force,constructive algorithms"
+prob_5176,B,,
+prob_1324,F,,flows
+prob_5339,D,1500.0,"data structures,greedy"
+prob_551,D,1500.0,"combinatorics,dfs and similar,graphs,trees"
+prob_4138,D,2000.0,"dp,greedy,math"
+prob_838,C,,
+prob_1833,B,,
+prob_409,F,,
+prob_221,A,500.0,implementation
+prob_4375,C,,"bitmasks,dp,math"
+prob_466,D,,
+prob_2328,D,,"greedy,meet-in-the-middle,sortings"
+prob_2050,L,,
+prob_3518,D,,
+prob_785,A,500.0,implementation
+prob_478,F,,
+prob_5529,D,2000.0,"brute force,dp,strings"
+prob_6170,D,2000.0,"bitmasks,constructive algorithms,dp,greedy"
+prob_3228,I,,
+prob_948,E,2000.0,"dp,games"
+prob_1609,D,,"*special,constructive algorithms,sortings"
+prob_2874,B,,"geometry,implementation"
+prob_685,A,,
+prob_5799,A,,
+prob_3795,D,2000.0,"data structures,strings"
+prob_320,D,,
+prob_841,B,,
+prob_1839,D,,
+prob_6348,A,500.0,implementation
+prob_333,C,1500.0,"flows,graph matchings"
+prob_6135,D,2000.0,"constructive algorithms,dsu,graphs,implementation,string suffix structures"
+prob_420,J,,
+prob_992,B,,
+prob_2978,A,500.0,math
+prob_557,B,,
+prob_2160,F,3000.0,"data structures,dsu,graphs,trees"
+prob_2255,H,,
+prob_3400,A,500.0,"binary search,math"
+prob_3766,C,1500.0,"geometry,implementation,sortings"
+prob_6072,A,500.0,implementation
+prob_642,E,,
+prob_6099,B,1250.0,"dp,greedy"
+prob_6234,J,,
+prob_1937,E,2500.0,"combinatorics,dp"
+prob_3004,J,,
+prob_579,B,,
+prob_1628,B,500.0,"binary search,data structures"
+prob_2590,B,,
+prob_6463,B,,
+prob_3491,A,500.0,"brute force,implementation"
+prob_5413,B,,
+prob_3046,E,,
+prob_3255,C,,
+prob_2281,B,1000.0,"greedy,implementation"
+prob_2767,K,,
+prob_760,E,,
+prob_1064,C,,
+prob_3268,,,*special
+prob_6347,F,,
+prob_5250,A,500.0,"geometry,math"
+prob_3302,C,1500.0,"combinatorics,dp,probabilities"
+prob_4458,A,,
+prob_2839,A,,
+prob_4937,E,2500.0,"dp,hashing,strings"
+prob_4706,B,,
+prob_5716,C,,
+prob_1052,K,,
+prob_6248,B,,
+prob_3511,D,,
+prob_1745,C,1500.0,"greedy,implementation"
+prob_6007,F,,"math,two pointers"
+prob_5019,A,,
+prob_3902,D,,"greedy,implementation"
+prob_2439,G,,flows
+prob_5629,J,,
+prob_3977,B,,
+prob_6254,C,1500.0,data structures
+prob_3722,E,2500.0,flows
+prob_3173,B,,"brute force,math"
+prob_1075,D,,
+prob_1986,F,,"dp,math,number theory"
+prob_2400,I,,
+prob_520,A,500.0,"implementation,strings"
+prob_1194,B,1000.0,"data structures,dp,implementation"
+prob_2540,C,1500.0,dp
+prob_1024,D,,
+prob_6126,C,,"*special,constructive algorithms,greedy"
+prob_5572,E,,
+prob_2684,C,1500.0,"greedy,sortings"
+prob_1856,D,500.0,implementation
+prob_3690,I,,
+prob_2364,B,500.0,"dfs and similar,greedy,implementation"
+prob_1339,C,1500.0,"constructive algorithms,greedy"
+prob_1390,B,1000.0,"data structures,two pointers"
+prob_6078,J,,
+prob_3297,D,2000.0,"dp,string suffix structures,strings,two pointers"
+prob_6102,D,,"dp,greedy,math"
+prob_680,C,2000.0,"binary search,data structures,probabilities,sortings"
+prob_5394,C,1500.0,"combinatorics,dp,math"
+prob_508,A,500.0,brute force
+prob_4114,F,,"*special,implementation"
+prob_1264,C,,
+prob_3643,G,,
+prob_5568,B,1000.0,brute force
+prob_2167,A,500.0,"brute force,implementation"
+prob_503,B,1000.0,"constructive algorithms,implementation,strings"
+prob_2846,E,,
+prob_2500,E,,"dfs and similar,divide and conquer,dsu"
+prob_2910,D,,
+prob_3249,F,,
+prob_6277,C,1500.0,"brute force,data structures,dp,greedy"
+prob_3542,B,1000.0,"greedy,implementation"
+prob_5588,C,1500.0,dp
+prob_5646,A,500.0,"implementation,sortings"
+prob_5586,G,,
+prob_2721,A,500.0,"implementation,strings"
+prob_5028,F,2500.0,"binary search,brute force,combinatorics,dp,implementation"
+prob_3476,C,,
+prob_3041,H,,
+prob_1523,I,,
+prob_451,D,,
+prob_2358,L,,implementation
+prob_205,E,2500.0,"dfs and similar,dp,graphs,shortest paths"
+prob_2261,K,,
+prob_5452,F,2750.0,"bitmasks,dp,greedy"
+prob_2890,G,,
+prob_6180,E,2500.0,"data structures,divide and conquer,trees"
+prob_5924,B,,
+prob_4092,B,,
+prob_943,A,,
+prob_567,F,,
+prob_1466,E,2500.0,"data structures,dsu,trees"
+prob_1162,H,,"combinatorics,number theory"
+prob_2883,E,,
+prob_5678,A,500.0,"implementation,math"
+prob_6489,B,,
+prob_4066,C,,
+prob_1042,F,,
+prob_5744,B,1000.0,implementation
+prob_6381,C,,
+prob_6500,A,500.0,implementation
+prob_3625,A,500.0,"constructive algorithms,data structures,implementation,two pointers"
+prob_4319,L,,
+prob_6204,D,2500.0,constructive algorithms
+prob_1275,C,1500.0,dfs and similar
+prob_5682,E,3000.0,"dp,fft,probabilities"
+prob_1172,D,2000.0,"binary search,data structures,sortings"
+prob_1978,A,1000.0,math
+prob_3259,H,,
+prob_2074,D,,
+prob_1450,B,,
+prob_1033,C,1500.0,"string suffix structures,strings"
+prob_763,B,1000.0,two pointers
+prob_6069,B,,
+prob_148,C,1500.0,"combinatorics,dp"
+prob_1329,D,,
+prob_3417,F,,
+prob_5930,A,,
+prob_1842,I,,
+prob_5780,A,500.0,sortings
+prob_3878,C,,
+prob_413,I,,
+prob_4195,C,,
+prob_6118,C,,two pointers
+prob_2639,A,500.0,brute force
+prob_5177,I,,
+prob_2690,F,,
+prob_739,H,,
+prob_4315,C,,
+prob_613,L,,"greedy,math"
+prob_4852,,,
+prob_343,F,2500.0,data structures
+prob_855,H,,
+prob_6305,I,,
+prob_4976,E,,
+prob_4390,J,,
+prob_3732,G,,
+prob_1954,D,,
+prob_5184,B,,
+prob_1497,B,1000.0,"implementation,math"
+prob_4912,G,,
+prob_4016,E,,
+prob_5259,A,,
+prob_5484,A,500.0,brute force
+prob_209,C,,
+prob_729,A,500.0,"greedy,math"
+prob_5733,D,2000.0,"binary search,data structures,geometry,sortings,two pointers"
+prob_6068,B,1500.0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+prob_6264,G,,
+prob_1270,B,500.0,"brute force,constructive algorithms,math,number theory"
+prob_6129,E,,
+prob_149,A,,
+prob_6108,E,2500.0,"data structures,dsu"
+prob_1484,C,1500.0,"math,sortings"
+prob_1294,K,,
+prob_1809,E,2500.0,"graphs,greedy,shortest paths"
+prob_971,F,,
+prob_2647,D,,
+prob_1249,F,,
+prob_4709,D,2000.0,"combinatorics,dp"
+prob_462,D,2000.0,games
+prob_2110,C,1500.0,"brute force,constructive algorithms,dp,implementation,strings"
+prob_1529,F,2500.0,"binary search,two pointers"
+prob_519,D,,
+prob_818,B,,
+prob_5225,E,2500.0,"data structures,dp"
+prob_976,B,1000.0,implementation
+prob_2915,A,500.0,implementation
+prob_845,B,,"dp,matrices"
+prob_4838,F,,
+prob_1739,D,,
+prob_4299,C,1250.0,"data structures,sortings"
+prob_2547,,,
+prob_2817,A,1750.0,"dfs and similar,strings,trees"
+prob_171,C,1500.0,data structures
+prob_3202,C,,games
+prob_4325,A,,
+prob_2665,E,2500.0,"binary search,bitmasks,brute force,dp"
+prob_5280,C,1500.0,"combinatorics,dsu,graphs"
+prob_4237,C,1500.0,"greedy,math"
+prob_2180,B,1000.0,"bitmasks,brute force,dfs and similar,greedy"
+prob_5840,B,,
+prob_354,G,,flows
+prob_5281,L,,
+prob_3120,J,,
+prob_3843,F,,
+prob_3957,L,,
+prob_4009,E,,
+prob_5195,D,,"constructive algorithms,greedy"
+prob_1903,G,,
+prob_5234,A,,
+prob_4146,E,2500.0,"brute force,data structures"
+prob_5463,A,,"implementation,strings"
+prob_3305,D,2000.0,"brute force,dfs and similar,graphs"
+prob_4436,K,,
+prob_4884,A,500.0,greedy
+prob_6098,K,,
+prob_2546,B,1000.0,"dfs and similar,dsu,graphs"
+prob_3199,J,,
+prob_4495,G,,
+prob_3924,E,2500.0,math
+prob_1286,E,,
+prob_3799,D,2000.0,"constructive algorithms,greedy,math"
+prob_2493,A,,implementation
+prob_5735,J,,
+prob_4053,D,2000.0,"dfs and similar,dp,trees"
+prob_4936,J,,
+prob_4232,G,2500.0,"bitmasks,graphs,math,trees"
+prob_1067,B,1500.0,"dfs and similar,implementation"
+prob_3961,H,,
+prob_2000,G,,
+prob_4144,B,,
+prob_1763,F,,
+prob_2100,B,1000.0,"data structures,graphs,shortest paths"
+prob_5477,K,,
+prob_3836,A,500.0,implementation
+prob_6176,D,,
+prob_1617,,,"constructive algorithms,hashing,trees"
+prob_1633,C,1000.0,"brute force,greedy"
+prob_2061,F,,
+prob_3725,E,2500.0,"data structures,divide and conquer,implementation,trees"
+prob_5511,A,,
+prob_3598,A,,
+prob_4213,C,1500.0,math
+prob_6165,K,,
+prob_5900,B,1000.0,"combinatorics,math"
+prob_6049,A,500.0,"brute force,data structures,implementation"
+prob_1511,C,,
+prob_2739,B,,
+prob_1502,C,1500.0,"constructive algorithms,flows,graphs"
+prob_5133,E,,
+prob_6482,D,,
+prob_2309,C,1500.0,"greedy,implementation"
+prob_6276,C,,"dp,greedy,implementation"
+prob_3428,A,500.0,"brute force,two pointers"
+prob_3381,C,1500.0,"data structures,implementation,sortings"
+prob_3936,D,,
+prob_6401,B,1000.0,"dp,strings"
+prob_2158,G,,
+prob_969,D,1500.0,implementation
+prob_681,F,,*special
+prob_3191,F,,
+prob_5382,B,1000.0,strings
+prob_5254,A,,
+prob_3064,E,2500.0,"dp,math"
+prob_2810,H,,
+prob_4117,D,1750.0,"combinatorics,dp,flows,graphs"
+prob_1285,A,,
+prob_656,C,,
+prob_4206,H,,
+prob_2589,H,,
+prob_326,C,1500.0,"data structures,dp"
+prob_4011,F,,
+prob_3054,D,3000.0,"data structures,greedy"
+prob_1566,B,,
+prob_6368,B,,
+prob_2761,K,,
+prob_2504,B,1000.0,"brute force,probabilities"
+prob_3359,D,2000.0,"data structures,dfs and similar,dp,dsu"
+prob_1199,A,,graphs
+prob_2539,D,2250.0,
+prob_474,E,,"data structures,dfs and similar,dsu,graphs,trees"
+prob_4372,B,1000.0,geometry
+prob_4854,B,,
+prob_4535,C,1500.0,"combinatorics,dp"
+prob_3737,I,,
+prob_4599,J,,
+prob_5412,F,,
+prob_252,A,,*special
+prob_5129,A,,
+prob_4411,E,,
+prob_1185,E,2500.0,"combinatorics,dfs and similar,dsu,greedy"
+prob_6510,E,,
+prob_1867,F,,
+prob_3871,A,,"brute force,implementation,math"
+prob_2582,B,1000.0,"hashing,implementation"
+prob_5757,B,1000.0,implementation
+prob_1785,C,,
+prob_682,B,1000.0,
+prob_697,A,500.0,"brute force,math"
+prob_5330,H,,
+prob_898,B,,
+prob_5427,C,1500.0,"brute force,math,number theory,sortings,two pointers"
+prob_3706,E,,
+prob_3475,E,3000.0,
+prob_5143,A,,
+prob_2628,B,1000.0,"brute force,implementation"
+prob_4374,A,,
+prob_3139,I,,
+prob_4962,I,,
+prob_2428,B,,
+prob_3322,D,,
+prob_3937,C,,
+prob_6274,B,1000.0,greedy
+prob_5204,B,,
+prob_2503,A,3000.0,"flows,graphs"
+prob_448,D,,
+prob_3884,C,1000.0,"binary search,sortings"
+prob_3817,H,,
+prob_4334,J,,
+prob_3527,C,1500.0,"greedy,implementation,math,number theory"
+prob_2977,C,1500.0,"dfs and similar,dp,two pointers"
+prob_4834,,,
+prob_1378,G,,
+prob_2076,C,1500.0,"binary search,data structures,greedy"
+prob_3214,B,1000.0,"brute force,dfs and similar,math,number theory"
+prob_2483,E,2000.0,brute force
+prob_2035,B,,
+prob_2283,E,,
+prob_532,E,,"divide and conquer,dp,fft"
+prob_837,G,,
+prob_5017,H,,
+prob_6416,B,1000.0,"greedy,math"
+prob_5782,H,,
+prob_1240,D,,
+prob_5819,F,,
+prob_1688,A,500.0,implementation
+prob_1672,A,500.0,"dfs and similar,implementation"
+prob_2108,E,2500.0,"divide and conquer,two pointers"
+prob_418,B,,implementation
+prob_5775,B,,sortings
+prob_283,C,1500.0,"geometry,implementation"
+prob_531,E,,
+prob_336,D,,"bitmasks,trees"
+prob_630,D,2000.0,"binary search,bitmasks,combinatorics,dp,math"
+prob_2043,F,,
+prob_498,A,,
+prob_44,E,2500.0,"binary search,dsu,trees"
+prob_1214,G,,
+prob_3523,J,,*special
+prob_5265,A,500.0,"constructive algorithms,implementation"
+prob_2536,B,1000.0,"implementation,sortings"
+prob_1970,D,,*special
+prob_4620,D,2000.0,"binary search,data structures,dp"
+prob_5338,D,2000.0,"bitmasks,brute force,fft"
+prob_1389,B,,"brute force,implementation"
+prob_1527,C,1000.0,"greedy,math,sortings"
+prob_2288,A,500.0,implementation
+prob_1976,D,2000.0,"bitmasks,brute force,combinatorics,dp,number theory"
+prob_1233,,,
+prob_663,B,,"brute force,implementation"
+prob_2352,B,1000.0,"constructive algorithms,strings"
+prob_4293,H,1500.0,"binary search,math"
+prob_4693,F,,
+prob_5117,C,1750.0,binary search
+prob_978,C,1500.0,"data structures,sortings"
+prob_3109,F,,
+prob_3756,I,,
+prob_4758,G,,
+prob_699,A,750.0,greedy
+prob_5293,E,2500.0,"dfs and similar,graphs"
+prob_892,A,500.0,implementation
+prob_4847,,,
+prob_3578,B,1000.0,"constructive algorithms,greedy,implementation,math"
+prob_6093,C,1500.0,"data structures,trees"
+prob_815,C,,
+prob_1481,B,1000.0,"brute force,implementation"
+prob_3213,B,10.0,
+prob_2679,A,,
+prob_3420,A,500.0,"brute force,geometry,math"
+prob_1039,G,,
+prob_6331,K,,
+prob_1315,G,,
+prob_5530,D,2500.0,"brute force,dp,probabilities"
+prob_4918,H,,constructive algorithms
+prob_2391,C,,
+prob_3009,E,,
+prob_3415,H,,
+prob_4638,D,,
+prob_2438,E,,
+prob_4384,D,2000.0,graph matchings
+prob_2987,I,,
+prob_5031,B,-1.0,
+prob_158,A,500.0,probabilities
+prob_2514,D,2250.0,dp
+prob_5994,C,1500.0,"brute force,constructive algorithms,greedy"
+prob_3647,D,1750.0,"brute force,dp,greedy,math,number theory"
+prob_3275,D,2000.0,"divide and conquer,math"
+prob_25,,,
+prob_2523,D,2000.0,"binary search,implementation,two pointers"
+prob_4538,B,1000.0,"dfs and similar,number theory,trees"
+prob_5108,D,,
+prob_3088,F,,"*special,brute force,implementation,number theory"
+prob_426,C,,
+prob_2353,A,,
+prob_1167,A,250.0,"brute force,math"
+prob_3372,E,,
+prob_5524,A,,
+prob_628,,,
+prob_5962,M,,
+prob_1963,D,,
+prob_1292,C,,
+prob_3233,C,1000.0,"constructive algorithms,greedy,implementation,math"
+prob_3052,E,2500.0,"geometry,sortings"
+prob_1433,A,500.0,implementation
+prob_2071,C,1500.0,"bitmasks,divide and conquer,math"
+prob_3130,F,,
+prob_1164,A,,
+prob_1418,C,1750.0,binary search
+prob_57,I,,
+prob_1146,A,500.0,implementation
+prob_1370,H,,
+prob_3326,,,
+prob_3658,C,,"brute force,dp"
+prob_2541,K,,
+prob_487,D,,
+prob_411,B,,
+prob_2270,A,,
+prob_991,,,
+prob_6517,K,,
+prob_1968,B,750.0,math
+prob_361,D,1750.0,"dfs and similar,dp,geometry,greedy,trees"
+prob_711,E,2500.0,"graphs,shortest paths"
+prob_2415,A,500.0,"binary search,implementation,sortings"
+prob_6519,C,1500.0,binary search
+prob_5984,A,500.0,"implementation,math"
+prob_4515,D,,
+prob_942,F,,
+prob_3098,E,,binary search
+prob_6432,E,2500.0,data structures
+prob_3809,E,,"data structures,implementation"
+prob_124,A,,"hashing,implementation"
+prob_3697,A,500.0,"combinatorics,data structures,implementation"
+prob_1876,A,,implementation
+prob_4731,B,1000.0,"brute force,geometry"
+prob_444,E,,
+prob_3113,C,,
+prob_1500,C,2000.0,"brute force,implementation"
+prob_2934,B,1000.0,"implementation,number theory"
+prob_3969,E,,
+prob_3273,D,2000.0,"binary search,data structures,dp"
+prob_3908,C,,
+prob_4757,H,,
+prob_6371,A,500.0,"implementation,sortings"
+prob_4738,D,2000.0,"combinatorics,math,matrices,number theory"
+prob_3671,E,,"binary search,implementation,math"
+prob_1952,D,2000.0,"dfs and similar,graphs"
+prob_4714,A,,
+prob_1191,E,,"binary search,data structures,dsu,trees,two pointers"
+prob_6308,A,,
+prob_5260,A,500.0,"greedy,strings"
+prob_395,E,,
+prob_5651,B,,
+prob_2818,C,1500.0,"bitmasks,dp,dsu"
+prob_6324,,,
+prob_5210,C,1500.0,"dfs and similar,trees"
+prob_6316,A,,
+prob_4274,A,500.0,"brute force,constructive algorithms,implementation,number theory"
+prob_1441,F,,
+prob_3470,D,,"data structures,sortings"
+prob_5971,D,2250.0,"data structures,graphs"
+prob_3378,E,,"implementation,math,number theory"
+prob_5652,B,,
+prob_4253,J,,
+prob_4044,E,2500.0,
+prob_4467,C,1000.0,"dfs and similar,dsu,graphs"
+prob_4534,B,,implementation
+prob_2324,B,,
+prob_696,B,1000.0,"implementation,strings"
+prob_5615,C,,
+prob_260,A,,
+prob_1043,C,1250.0,"brute force,dfs and similar"
+prob_5156,E,5000.0,"binary search,graphs"
+prob_5579,E,2500.0,"data structures,dp"
+prob_6314,C,,
+prob_4161,L,,
+prob_1866,B,1000.0,implementation
+prob_5704,A,,
+prob_366,H,,
+prob_190,B,1000.0,"geometry,math"
+prob_425,A,500.0,implementation
+prob_1749,B,1000.0,"constructive algorithms,implementation"
+prob_595,C,,
+prob_2781,F,3000.0,
+prob_5097,A,500.0,geometry
+prob_3887,B,,
+prob_6290,H,,
+prob_1558,H,,
+prob_3586,A,500.0,implementation
+prob_649,D,3000.0,"dfs and similar,dp,dsu,trees,two pointers"
+prob_4953,B,,
+prob_5784,D,,
+prob_776,E,,
+prob_1829,B,,"implementation,sortings"
+prob_755,B,,
+prob_297,E,,
+prob_6319,C,,
+prob_4431,G,,number theory
+prob_240,F,,
+prob_5921,B,1000.0,"binary search,brute force,implementation"
+prob_671,C,,
+prob_1421,C,1500.0,"data structures,dp"
+prob_5166,C,3000.0,"constructive algorithms,math"
+prob_3678,H,,
+prob_3063,J,,
+prob_3860,E,,"hashing,strings"
+prob_5565,B,750.0,greedy
+prob_1728,A,,
+prob_1894,A,250.0,brute force
+prob_5863,B,1000.0,"dp,greedy,implementation"
+prob_5381,A,,
+prob_2408,E,,
+prob_3746,E,,
+prob_3981,A,500.0,
+prob_1380,L,,
+prob_2340,B,1000.0,graphs
+prob_3892,H,,
+prob_1922,B,1250.0,"brute force,greedy"
+prob_6446,A,500.0,"implementation,math"
+prob_2749,D,2000.0,"binary search,sortings,ternary search,two pointers"
+prob_2392,E,500.0,"constructive algorithms,dp,greedy,hashing,strings,two pointers"
+prob_5843,D,,
+prob_339,G,,
+prob_5390,B,1000.0,brute force
+prob_2357,F,3250.0,data structures
+prob_3661,D,,
+prob_424,A,500.0,"brute force,implementation"
+prob_2075,B,,
+prob_3735,E,,
+prob_4415,C,,
+prob_1477,F,,
+prob_3997,A,500.0,"brute force,greedy,implementation"
+prob_2030,C,1500.0,"combinatorics,dp"
+prob_5346,C,,
+prob_4855,B,,
+prob_1254,B,1000.0,"bitmasks,brute force,dfs and similar"
+prob_2671,B,1000.0,math
+prob_805,E,3000.0,"math,number theory"
+prob_2583,B,1000.0,"binary search,brute force,math"
+prob_1026,A,500.0,"greedy,implementation"
+prob_1702,A,,"greedy,implementation"
+prob_4043,J,,
+prob_974,E,2500.0,"combinatorics,dfs and similar,dp"
+prob_1771,D,2000.0,"binary search,brute force"
+prob_4214,C,,
+prob_6419,G,,
+prob_3745,A,500.0,"brute force,constructive algorithms,math"
+prob_6414,H,,dfs and similar
+prob_4527,B,750.0,"bitmasks,brute force"
+prob_5341,D,3000.0,"dfs and similar,graphs,implementation,trees"
+prob_4259,J,,
+prob_1012,G,,
+prob_2214,C,,"dp,games"
+prob_6247,B,,
+prob_5977,B,1000.0,"brute force,constructive algorithms,implementation"
+prob_5356,G,,
+prob_6227,E,,"dfs and similar,graphs,trees"
+prob_3900,K,,
+prob_3551,G,,
+prob_276,C,,
+prob_1581,A,,
+prob_1902,C,8.0,"bitmasks,probabilities"
+prob_4224,I,,
+prob_4137,C,,
+prob_510,C,,"constructive algorithms,data structures,dp,greedy,sortings,strings"
+prob_3575,D,2000.0,"brute force,combinatorics,dp,string suffix structures"
+prob_1914,C,1500.0,"dsu,graphs,greedy"
+prob_3500,H,,
+prob_4974,A,,
+prob_4672,A,500.0,implementation
+prob_903,E,,dp
+prob_843,C,,
+prob_3262,K,,
+prob_1458,D,,
+prob_4348,D,3000.0,"brute force,constructive algorithms,implementation"
+prob_6497,C,1500.0,"data structures,hashing,sortings,strings"
+prob_5865,H,,
+prob_4387,A,,
+prob_2715,G,,
+prob_1101,C,,
+prob_4779,C,,
+prob_806,B,1500.0,"brute force,combinatorics"
+prob_4503,B,1000.0,"implementation,math"
+prob_5626,D,1500.0,"brute force,constructive algorithms,implementation"
+prob_4283,C,,"data structures,greedy,sortings"
+prob_1073,H,,
+prob_4261,E,2500.0,"data structures,string suffix structures,strings"
+prob_3168,E,,
+prob_1696,E,2250.0,"brute force,dp,greedy"
+prob_6455,A,,
+prob_3907,E,,
+prob_2420,D,,
+prob_6199,B,,
+prob_659,B,,
+prob_2450,C,1500.0,greedy
+prob_6143,J,,
+prob_4153,F,,
+prob_5022,B,,implementation
+prob_1631,H,,
+prob_6315,H,,
+prob_4886,C,1500.0,"binary search,implementation,math"
+prob_5770,C,1000.0,"data structures,dsu"
+prob_3360,C,1500.0,"constructive algorithms,divide and conquer,dp,graphs,shortest paths"
+prob_390,C,1500.0,"expression parsing,implementation"
+prob_3390,J,,
+prob_3187,A,500.0,brute force
+prob_5705,K,,
+prob_203,H,,
+prob_3662,D,,
+prob_1230,B,1000.0,"implementation,sortings"
+prob_2402,H,,
+prob_744,A,,
+prob_5190,E,2500.0,
+prob_1459,B,1000.0,"data structures,greedy,implementation"
+prob_592,B,1000.0,strings
+prob_2759,C,1250.0,"dp,probabilities"
+prob_5539,G,,
+prob_5535,A,500.0,"games,greedy"
+prob_1981,A,500.0,"brute force,implementation"
+prob_3680,H,,
+prob_4654,E,2500.0,"constructive algorithms,greedy,hashing,implementation"
+prob_4459,D,,
+prob_6075,I,,
+prob_5937,E,2500.0,"bitmasks,dp"
+prob_2409,D,,
+prob_3524,C,1000.0,
+prob_4103,B,,
+prob_1021,E,2500.0,"binary search,data structures"
+prob_2598,,,
+prob_2533,A,,
+prob_385,D,,
+prob_6009,,40.0,"data structures,math"
+prob_4201,G,,
+prob_951,E,,
+prob_6080,F,,
+prob_5795,F,,
+prob_4166,C,,
+prob_2901,B,,
+prob_5666,J,,
+prob_4763,B,1000.0,implementation
+prob_1482,B,1000.0,"brute force,greedy"
+prob_6340,B,1000.0,"brute force,implementation,strings"
+prob_6159,F,,
+prob_6424,F,,
+prob_1944,D,2000.0,"geometry,implementation,math"
+prob_6544,A,,
+prob_5417,H,,
+prob_5063,C,,
+prob_5738,C,1500.0,expression parsing
+prob_4645,F,,
+prob_4324,K,,
+prob_5194,L,,
+prob_4445,B,750.0,dfs and similar
+prob_3024,B,1000.0,"expression parsing,implementation"
+prob_2838,D,,
+prob_3242,K,,
+prob_3827,B,500.0,"data structures,dsu,strings"
+prob_6313,C,1500.0,"greedy,math"
+prob_3541,D,,brute force
+prob_4933,D,2000.0,"data structures,trees"
+prob_4250,C,1500.0,"implementation,math,probabilities,trees"
+prob_6139,A,500.0,"binary search,dp"
+prob_3588,D,,
+prob_2843,D,2000.0,"graphs,shortest paths"
+prob_1857,B,1000.0,brute force
+prob_1549,J,,
+prob_5420,E,2500.0,"data structures,geometry"
+prob_3664,I,,
+prob_4160,F,,
+prob_4710,L,,
+prob_4896,C,1000.0,"greedy,implementation,sortings"
+prob_6144,F,,"dp,greedy,trees"
+prob_1103,B,,
+prob_4194,A,,
+prob_3074,M,,
+prob_2861,D,,
+prob_537,A,500.0,implementation
+prob_3231,K,,
+prob_1201,C,,
+prob_5436,C,1500.0,data structures
+prob_6100,A,,
+prob_5188,C,,
+prob_2004,F,,
+prob_4311,A,,
+prob_1089,M,,
+prob_4414,A,500.0,"constructive algorithms,greedy"
+prob_2608,K,,
+prob_4898,F,3000.0,"data structures,greedy,two pointers"
+prob_2125,B,1000.0,graphs
+prob_2880,A,,
+prob_4917,E,2500.0,"brute force,graphs"
+prob_2714,E,,
+prob_4481,C,,
+prob_1007,D,2000.0,"data structures,divide and conquer,greedy"
+prob_4025,B,500.0,"implementation,sortings"
+prob_2625,E,2500.0,"data structures,implementation,string suffix structures,two pointers"
+prob_1775,I,,
+prob_1773,B,1500.0,"brute force,constructive algorithms"
+prob_1083,F,2500.0,math
+prob_3198,E,2500.0,data structures
+prob_2417,B,,
+prob_3441,B,,
+prob_1830,C,1500.0,"dp,games"
+prob_1472,,1000.0,
+prob_3082,I,,"*special,sortings"
+prob_3196,G,,
+prob_3991,B,1000.0,implementation
+prob_5076,E,,
+prob_5159,C,,
+prob_6521,G,,
+prob_5026,A,500.0,math
+prob_4338,G,,
+prob_6430,A,,
+prob_5314,F,,
+prob_2130,E,,
+prob_3852,E,2500.0,data structures
+prob_1489,B,,
+prob_3636,F,,
+prob_5445,A,500.0,implementation
+prob_994,A,,
+prob_5594,C,1500.0,"dp,greedy,implementation"
+prob_3829,E,2500.0,"brute force,combinatorics,dp,number theory"
+prob_6312,E,,
+prob_3663,I,,
+prob_5334,D,2000.0,"binary search,brute force,constructive algorithms,greedy,sortings"
+prob_4159,A,500.0,"implementation,math"
+prob_3992,B,750.0,implementation
+prob_2538,D,1750.0,"dfs and similar,graphs"
+prob_4309,D,2000.0,"constructive algorithms,divide and conquer"
+prob_5695,A,500.0,"binary search,greedy,sortings"
+prob_264,F,,
+prob_3056,E,2500.0,"flows,graph matchings"
+prob_3879,E,2500.0,geometry
+prob_3972,C,1000.0,"data structures,implementation"
+prob_2711,D,,
+prob_1102,,,
+prob_5669,F,,
+prob_618,F,,
+prob_4300,A,500.0,"greedy,implementation,sortings"
+prob_2510,D,,
+prob_1134,G,,
+prob_2229,E,3000.0,"dfs and similar,dp,probabilities"
+prob_5956,C,,
+prob_1835,F,,
+prob_1811,C,1500.0,"brute force,greedy"
+prob_5332,D,2000.0,"dp,greedy"
+prob_6029,H,,
+prob_3229,B,,
+prob_70,D,2000.0,"dfs and similar,dp,trees"
+prob_2588,F,,
+prob_6288,B,,*special
+prob_2153,D,,dp
+prob_3751,C,,
+prob_5287,E,,
+prob_4202,A,500.0,"dp,graphs,greedy,implementation"
+prob_6107,E,,
+prob_347,A,,
+prob_322,B,1000.0,"dp,graphs,shortest paths"
+prob_3062,D,,
+prob_3003,A,500.0,sortings
+prob_1391,C,,
+prob_5946,,,
+prob_2151,D,,
+prob_5457,C,2000.0,"brute force,math"
+prob_5809,E,2500.0,"data structures,geometry,sortings"
+prob_4143,A,500.0,number theory
+prob_890,D,,
+prob_5692,H,,
+prob_5428,D,1500.0,"greedy,implementation"
+prob_6317,E,2500.0,greedy
+prob_1823,G,,
+prob_80,E,2250.0,"data structures,divide and conquer,dp"
+prob_5543,,,
+prob_2140,D,2000.0,dp
+prob_4052,A,,
+prob_863,D,2000.0,"dsu,sortings"
+prob_4835,B,750.0,implementation
+prob_2068,A,500.0,math
+prob_1778,G,,
+prob_1753,H,,
+prob_1767,D,2000.0,data structures
+prob_286,G,,
+prob_3877,A,,
+prob_181,,,
+prob_5640,J,,
+prob_1563,B,1500.0,"constructive algorithms,divide and conquer"
+prob_4549,D,2000.0,"bitmasks,graph matchings,graphs"
+prob_1984,A,500.0,implementation
+prob_2199,D,2000.0,"data structures,trees"
+prob_4865,I,,
+prob_5181,J,,
+prob_2138,D,2000.0,"brute force,data structures,math"
+prob_1679,A,500.0,implementation
+prob_3870,K,,
+prob_85,I,,
+prob_1151,B,1000.0,combinatorics
+prob_4931,C,,"*special,implementation"
+prob_3177,I,,
+prob_993,C,,
+prob_2567,D,,*special
+prob_5370,E,,
+prob_1085,B,,
+prob_1353,B,1000.0,"brute force,implementation,schedules"
+prob_4682,E,2500.0,"data structures,dsu,graphs,hashing,sortings"
+prob_103,G,,
+prob_2922,C,,
+prob_3482,L,,
+prob_4901,C,,
+prob_2187,G,,
+prob_550,I,,
+prob_1821,C,,
+prob_5889,H,,
+prob_4442,C,1500.0,"constructive algorithms,games,greedy"
+prob_1596,C,,
+prob_3979,B,,
+prob_1515,B,3000.0,"geometry,sortings"
+prob_5496,I,,
+prob_2513,F,,
+prob_5172,B,,
+prob_4113,D,2000.0,"dp,math,number theory"
+prob_5354,C,,
+prob_4692,F,,
+prob_2604,G,,
+prob_2144,A,,
+prob_3166,C,,
+prob_1046,L,,
+prob_6036,K,,
+prob_3794,C,1500.0,"combinatorics,math,matrices"
+prob_5515,,,
+prob_2367,G,,
+prob_1953,A,,
+prob_18,B,,
+prob_5607,D,,
+prob_2498,C,,
+prob_2070,G,,
+prob_513,C,1500.0,dfs and similar
+prob_4353,A,,*special
+prob_2366,E,2500.0,"greedy,implementation,ternary search"
+prob_22,J,,
+prob_1540,B,1000.0,"constructive algorithms,data structures,implementation"
+prob_2067,A,,
+prob_809,B,1000.0,"brute force,implementation"
+prob_87,D,,
+prob_2912,C,1500.0,"greedy,hashing,implementation"
+prob_4842,H,,
+prob_1732,C,,
+prob_4026,C,1500.0,"binary search,two pointers"
+prob_6156,K,,
+prob_77,C,1250.0,"dp,implementation"
+prob_4975,G,,
+prob_714,C,1500.0,sortings
+prob_188,G,2500.0,"combinatorics,dp"
+prob_6294,,,
+prob_2143,E,2500.0,"binary search,greedy"
+prob_4954,B,1000.0,"greedy,sortings"
+prob_4819,B,1000.0,implementation
+prob_5032,C,,
+prob_3211,D,,
+prob_6498,A,,
+prob_3897,E,,
+prob_392,C,,
+prob_5520,B,1000.0,"greedy,implementation"
+prob_6027,E,2500.0,"constructive algorithms,data structures"
+prob_5848,B,1000.0,"2-sat,dfs and similar,dsu,graph matchings,greedy"
+prob_5075,B,1000.0,math
+prob_1374,E,,
+prob_3021,J,,
+prob_5729,A,500.0,"games,math"
+prob_1192,C,,
+prob_5446,J,,
+prob_315,C,,
+prob_3698,C,1000.0,dp
+prob_5833,G,,
+prob_4498,I,,
+prob_3823,C,,
+prob_5805,A,,
+prob_3314,D,2500.0,"data structures,geometry,two pointers"
+prob_4492,G,,
+prob_1209,,,
+prob_2078,A,500.0,implementation
+prob_501,G,,
+prob_6423,H,,
+prob_4029,B,1000.0,"brute force,strings"
+prob_2492,,,
+prob_3294,E,,
+prob_1994,B,,
+prob_3472,G,,
+prob_2136,D,2000.0,data structures
+prob_572,,,
+prob_865,D,,
+prob_6201,H,,
+prob_5145,F,,
+prob_5685,B,,
+prob_142,B,,"data structures,greedy"
+prob_219,C,,
+prob_905,E,,
+prob_2426,C,,
+prob_2295,B,1000.0,"brute force,math"
+prob_4904,E,2500.0,"constructive algorithms,data structures,dsu,greedy"
+prob_3724,I,,
+prob_2385,C,1500.0,"data structures,dfs and similar,dp,greedy,trees"
+prob_5065,G,,
+prob_1247,B,,constructive algorithms
+prob_1791,A,10.0,
+prob_5099,D,2000.0,"2-sat,dfs and similar,dsu,graphs"
+prob_3447,D,2500.0,brute force
+prob_3768,B,,implementation
+prob_4190,C,,
+prob_4321,D,2000.0,"dfs and similar,dsu,greedy"
+prob_2654,C,2000.0,"binary search,hashing,string suffix structures,strings"
+prob_6244,D,,
+prob_4806,D,2000.0,dp
+prob_4747,B,,
+prob_3484,A,,
+prob_1658,A,500.0,
+prob_5415,C,,
+prob_1924,G,,
+prob_2120,E,3000.0,"dp,greedy,implementation"
+prob_5935,D,,
+prob_4827,D,,
+prob_5717,B,1000.0,"data structures,dp,greedy,sortings"
+prob_6243,,,
+prob_2724,J,,
+prob_5917,H,,
+prob_4186,F,3000.0,"binary search,dp,greedy"
+prob_2519,E,2500.0,"dp,math"
+prob_2532,F,,
+prob_1780,C,,flows
+prob_3369,B,,
+prob_4490,E,,"data structures,dp"
+prob_182,E,2500.0,geometry
+prob_5694,B,,
+prob_4873,D,2000.0,
+prob_4540,C,1500.0,"greedy,math"
+prob_3158,B,,
+prob_289,A,,
+prob_580,A,500.0,implementation
+prob_5124,C,1500.0,dfs and similar
+prob_4288,F,2500.0,"binary search,implementation"
+prob_417,E,2500.0,dp
+prob_1060,F,,
+prob_759,B,1000.0,"implementation,sortings"
+prob_1668,J,,
+prob_6229,F,,
+prob_5110,A,,
+prob_2558,,,
+prob_1761,E,,
+prob_4444,E,,"brute force,data structures,dp"
+prob_5749,D,,
+prob_1351,D,,"dp,flows"
+prob_5845,,,
+prob_738,G,,
+prob_1159,C,,
+prob_4920,H,,
+prob_4972,J,,
+prob_3031,L,,
+prob_5637,E,2500.0,"constructive algorithms,dfs and similar,dp,trees"
+prob_6018,F,,
+prob_1560,B,750.0,greedy
+prob_3669,C,,
+prob_3837,E,1000.0,"dp,math,matrices"
+prob_5155,D,,math
+prob_1427,B,500.0,"brute force,greedy,sortings"
+prob_812,A,500.0,"math,number theory"
+prob_483,D,,
+prob_3822,,,
+prob_6384,,,
+prob_4289,B,,
+prob_5349,C,1500.0,"dp,greedy,number theory"
+prob_4337,G,,
+prob_3589,,,
+prob_4900,A,1000.0,"brute force,dp,implementation,strings"
+prob_4407,B,750.0,"brute force,implementation"
+prob_5686,A,,
+prob_2116,C,1500.0,"math,probabilities"
+prob_1544,F,,
+prob_1928,D,,
+prob_4072,E,,
+prob_3040,B,1000.0,binary search
+prob_3300,,60.0,dp
+prob_2112,H,,
+prob_3111,A,,
+prob_1666,I,,
+prob_3543,A,500.0,implementation
+prob_5949,G,3500.0,"binary search,data structures,geometry"
+prob_5084,F,,
+prob_456,G,,
+prob_2300,D,2000.0,"data structures,dfs and similar,trees"
+prob_4760,A,500.0,implementation
+prob_2751,C,,
+prob_1845,F,,
+prob_2699,A,250.0,"combinatorics,dp,math"
+prob_2442,B,,"implementation,strings"
+prob_3325,E,2500.0,"geometry,trees"
+prob_3007,L,,
+prob_3148,C,1000.0,greedy
+prob_5317,E,2500.0,"brute force,dfs and similar,trees"
+prob_1119,J,,
+prob_5261,B,1000.0,"dfs and similar,dp,games,implementation,strings,trees"
+prob_1884,,,
+prob_4565,,,
+prob_2338,A,,
+prob_5688,A,,
+prob_662,B,,
+prob_6506,B,,
+prob_1624,E,2500.0,data structures
+prob_3293,F,,
+prob_4298,H,,
+prob_4042,E,2000.0,
+prob_4529,F,,
+prob_3604,I,,
+prob_783,A,500.0,"brute force,math"
+prob_3505,F,,
+prob_2495,D,,*special
+prob_5490,F,,
+prob_4363,D,,
+prob_4588,C,,
+prob_1170,A,,constructive algorithms
+prob_6378,B,1000.0,"implementation,strings"
+prob_703,A,500.0,"brute force,implementation"
+prob_3707,H,,
+prob_3424,D,,
+prob_862,B,1000.0,
+prob_1283,A,,
+prob_4893,J,,
+prob_2909,C,1500.0,"dfs and similar,dp,dsu,ternary search,trees"
+prob_317,D,,"binary search,data structures,implementation"
+prob_5392,E,1500.0,"math,number theory"
+prob_4698,C,1500.0,math
+prob_4673,C,,
+prob_4826,C,,
+prob_4563,F,2250.0,"dfs and similar,dp,graphs,trees"
+prob_2932,I,,*special
+prob_2225,H,,
+prob_414,B,,math
+prob_1352,D,3000.0,hashing
+prob_1966,B,750.0,"implementation,strings"
+prob_3851,D,,
+prob_391,J,,
+prob_1053,E,2500.0,"dfs and similar,graphs"
+prob_1742,D,3000.0,"binary search,sortings"
+prob_2032,D,,
+prob_1091,F,,
+prob_2713,A,,
+prob_1735,E,,
+prob_4024,B,,
+prob_365,D,2000.0,"binary search,data structures"
+prob_4305,G,,
+prob_273,C,,
+prob_1403,D,,
+prob_1440,G,1500.0,"greedy,sortings"
+prob_4791,A,500.0,"greedy,implementation,math"
+prob_2262,J,,
+prob_4396,A,,"implementation,schedules"
+prob_6480,A,,
+prob_5199,K,,
+prob_6380,E,,
+prob_3676,A,500.0,"greedy,implementation"
+prob_5304,E,2500.0,dp
+prob_1256,C,1500.0,"constructive algorithms,number theory"
+prob_3716,D,2000.0,dsu
+prob_899,H,,
+prob_6269,G,,
+prob_6043,E,,combinatorics
+prob_1251,H,,
+prob_4267,E,,
+prob_5130,B,1000.0,"implementation,math"
+prob_3840,B,,
+prob_3138,K,,
+prob_2411,K,,
+prob_2776,D,2000.0,"dfs and similar,graphs"
+prob_3029,B,,
+prob_860,B,1000.0,"games,greedy"
+prob_4800,H,,
+prob_1827,A,500.0,implementation
+prob_2728,B,,
+prob_5980,C,1500.0,"brute force,data structures,shortest paths"
+prob_627,A,500.0,"brute force,constructive algorithms,implementation"
+prob_3603,C,1500.0,"implementation,strings"
+prob_2196,D,,
+prob_5255,A,,
+prob_4421,F,,"string suffix structures,strings"
+prob_5602,F,,
+prob_3911,A,,"*special,implementation"
+prob_5294,L,,
+prob_1661,E,2500.0,"binary search,bitmasks,data structures"
+prob_6458,D,,
+prob_2891,I,,
+prob_1305,J,,"*special,dp"
+prob_1155,E,,
+prob_211,B,1000.0,"data structures,implementation"
+prob_3349,A,500.0,"brute force,dp,implementation"
+prob_1332,E,,
+prob_2975,E,,
+prob_5999,D,,"binary search,two pointers"
+prob_2680,C,,
+prob_4086,A,,
+prob_5793,B,1000.0,"greedy,implementation"
+prob_781,G,,
+prob_5067,D,2000.0,"math,number theory"
+prob_3090,D,,
+prob_4262,E,,"binary search,data structures"
+prob_3189,D,2000.0,"constructive algorithms,sortings"
+prob_5842,L,,
+prob_180,F,,
+prob_1241,A,500.0,implementation
+prob_534,B,1000.0,"implementation,strings"
+prob_5873,,,
+prob_2637,A,,
+prob_5989,E,,
+prob_2135,D,,
+prob_6321,A,,"implementation,math"
+prob_3061,K,,
+prob_4915,F,3000.0,"constructive algorithms,geometry,graphs,trees"
+prob_5883,C,2000.0,implementation
+prob_4659,I,,
+prob_4633,D,,
+prob_5057,F,2000.0,"dfs and similar,dsu,graphs,sortings"
+prob_86,A,,
+prob_5942,I,,
+prob_6420,M,,
+prob_3591,M,,
+prob_4981,C,2500.0,"data structures,dp,implementation,math"
+prob_2581,A,,
+prob_433,M,,
+prob_3515,F,,
+prob_4667,A,500.0,"greedy,implementation,sortings,strings"
+prob_1401,E,2500.0,data structures
+prob_6246,F,,
+prob_2834,A,,
+prob_746,I,,
+prob_6289,D,2000.0,"brute force,math,probabilities"
+prob_3928,F,,
+prob_852,D,2000.0,"greedy,sortings"
+prob_2929,I,,
+prob_4564,C,1500.0,"greedy,math"
+prob_6198,D,2000.0,data structures
+prob_6024,A,500.0,"greedy,math"
+prob_2252,C,,
+prob_3178,D,1500.0,"binary search,math"
+prob_5761,D,,implementation
+prob_1417,D,,math
+prob_2183,H,,
+prob_2907,D,,
+prob_338,A,500.0,implementation
+prob_3407,E,3000.0,"constructive algorithms,dfs and similar,greedy"
+prob_2858,F,3000.0,"data structures,divide and conquer"
+prob_6222,C,,
+prob_4788,F,,
+prob_59,A,,
+prob_4630,A,,"implementation,number theory"
+prob_4443,I,,
+prob_4111,H,,
+prob_1774,K,,
+prob_1757,J,,
+prob_5486,B,,
+prob_3270,F,,
+prob_6302,C,1500.0,implementation
+prob_2736,B,,
+prob_3780,B,,
+prob_4223,G,,
+prob_163,D,,
+prob_2502,K,,
+prob_3095,G,,
+prob_6226,C,1000.0,"data structures,math,probabilities"
+prob_316,F,,
+prob_5675,B,,
+prob_405,A,,
+prob_5636,A,,*special
+prob_2181,D,3000.0,"dp,graph matchings,greedy,sortings,two pointers"
+prob_179,G,,
+prob_1494,A,500.0,implementation
+prob_3355,A,500.0,"brute force,greedy,implementation"
+prob_5963,H,,
+prob_658,E,,
+prob_3083,D,2000.0,"constructive algorithms,greedy"
+prob_895,C,,
+prob_1783,J,,
+prob_4316,B,750.0,"greedy,implementation"
+prob_5336,D,1500.0,"dfs and similar,graphs,greedy"
+prob_3430,B,500.0,"implementation,math,number theory"
+prob_2451,B,1000.0,"brute force,dp,implementation"
+prob_999,E,2500.0,"data structures,dp,sortings"
+prob_1279,C,1500.0,"binary search,dp,implementation,two pointers"
+prob_3002,E,2000.0,"binary search,math,ternary search"
+prob_1361,D,,
+prob_6048,B,1000.0,"binary search,math"
+prob_1171,D,1500.0,"brute force,number theory"
+prob_5435,A,500.0,sortings
+prob_4493,F,,
+prob_1414,K,,
+prob_1493,C,1500.0,math
+prob_164,A,500.0,"brute force,constructive algorithms,math"
+prob_5952,B,1000.0,"constructive algorithms,greedy,strings"
+prob_5591,I,,
+prob_5585,A,500.0,implementation
+prob_2808,B,1000.0,greedy
+prob_1200,J,,
+prob_4265,C,,
+prob_5506,B,,
+prob_2664,C,,
+prob_1792,C,1750.0,"dp,strings"
+prob_6492,D,,
+prob_3261,A,500.0,"games,number theory"
+prob_4136,C,1500.0,"dfs and similar,greedy,shortest paths"
+prob_1634,E,,
+prob_655,D,2250.0,"data structures,greedy"
+prob_3537,A,500.0,"greedy,math"
+prob_3668,A,500.0,"implementation,math"
+prob_2615,B,,
+prob_6268,F,,
+prob_2096,D,,
+prob_1948,F,,
+prob_1587,M,,
+prob_5157,C,1500.0,dp
+prob_5290,H,,
+prob_1705,B,1000.0,constructive algorithms
+prob_3865,D,,
+prob_1975,B,1000.0,"dp,greedy,sortings"
+prob_4124,,3.0,brute force
+prob_4647,A,,
+prob_5807,C,1500.0,"dfs and similar,hashing,shortest paths"
+prob_594,G,,
+prob_1246,H,,
+prob_5891,H,,
+prob_1010,A,250.0,"brute force,math"
+prob_868,B,,
+prob_108,B,,
+prob_5978,E,,
+prob_6433,D,,
+prob_2652,I,,
+prob_702,D,1500.0,"constructive algorithms,games"
+prob_1755,B,1000.0,implementation
+prob_5697,E,2500.0,dp
+prob_5464,J,,
+prob_1379,B,,"data structures,dfs and similar,trees"
+prob_4892,I,,
+prob_3702,A,,
+prob_3460,D,2000.0,"data structures,dp"
+prob_1635,E,,
+prob_3237,A,,*special
+prob_1644,L,,
+prob_4722,A,500.0,geometry
+prob_3239,B,500.0,"brute force,greedy"
+prob_2039,A,,implementation
+prob_370,D,,
+prob_4805,E,,*special
+prob_4150,C,,
+prob_6311,C,250.0,"games,greedy,implementation,math"
+prob_2614,B,1000.0,"binary search,implementation"
+prob_1364,A,,
+prob_3295,D,,
+prob_5396,C,,
+prob_2799,D,,"hashing,strings"
+prob_5667,A,,
+prob_3506,G,,
+prob_4187,D,2000.0,"dp,games"
+prob_1910,F,2500.0,dp
+prob_5820,D,2000.0,"data structures,dfs and similar,hashing,strings,trees"
+prob_197,D,,"games,matrices,probabilities"
+prob_2965,D,,
+prob_434,C,,
+prob_6235,B,,
+prob_5609,A,500.0,implementation
+prob_683,F,3000.0,"data structures,divide and conquer,trees"
+prob_4080,D,,
+prob_1136,D,,
+prob_3392,F,,graphs
+prob_2238,G,,
+prob_2102,D,,
+prob_4841,C,,
+prob_752,L,,
+prob_5923,A,500.0,"brute force,math"
+prob_2904,F,,
+prob_271,D,2000.0,dp
+prob_3974,E,3000.0,"geometry,two pointers"
+prob_3408,F,3000.0,"brute force,data structures"
+prob_2572,G,,
+prob_2595,B,,
+prob_3517,N,,
+prob_4715,D,,
+prob_3875,B,750.0,implementation
+prob_287,A,,
+prob_94,B,,
+prob_3885,C,,
+prob_4520,H,,
+prob_4170,H,,
+prob_2460,B,1000.0,greedy
+prob_3490,B,1000.0,"brute force,implementation"
+prob_6360,B,500.0,"constructive algorithms,math"
+prob_2642,C,,
+prob_5059,A,,
+prob_6253,B,1000.0,"greedy,sortings"
+prob_3311,A,500.0,"geometry,implementation,sortings"
+prob_6461,C,,
+prob_4454,G,,
+prob_4228,D,,
+prob_787,E,,
+prob_2398,C,,
+prob_4774,A,500.0,strings
+prob_2321,B,750.0,
+prob_396,H,3500.0,"dfs and similar,dsu,graphs"
+prob_730,F,,"brute force,dp,number theory"
+prob_134,D,,
+prob_5472,D,,
+prob_721,M,,
+prob_3244,H,,
+prob_3282,I,,
+prob_1987,B,,
+prob_1257,M,,
+prob_4857,E,1750.0,"fft,math"
+prob_5778,A,500.0,"math,number theory"
+prob_3560,J,,
+prob_4392,K,,
+prob_2081,F,,
+prob_4500,A,,
+prob_5041,B,1000.0,
+prob_4019,C,1500.0,"binary search,dp,sortings"
+prob_132,I,,
+prob_3821,E,,
+prob_4801,C,,
+prob_4008,G,3000.0,
+prob_4566,C,,
+prob_1371,J,,
+prob_4376,A,500.0,"graphs,shortest paths"
+prob_172,A,500.0,"greedy,math"
+prob_4473,D,2000.0,"constructive algorithms,math,number theory"
+prob_2575,E,,
+prob_3432,A,,
+prob_1037,A,500.0,"implementation,sortings"
+prob_6509,L,,
+prob_2024,A,,
+prob_3953,B,1000.0,"constructive algorithms,greedy,sortings"
+prob_5237,E,3000.0,"combinatorics,dp,number theory"
+prob_3712,A,500.0,"brute force,implementation"
+prob_3212,C,,
+prob_1112,A,500.0,"greedy,implementation"
+prob_5514,H,,
+prob_5087,A,500.0,"constructive algorithms,math"
+prob_2621,G,,
+prob_4754,G,,
+prob_6460,C,,
+prob_3232,F,,
+prob_2475,B,,
+prob_522,A,500.0,"implementation,math,number theory"
+prob_3089,B,1000.0,"greedy,implementation"
+prob_5616,C,,
+prob_3461,E,,
+prob_5187,A,500.0,"brute force,implementation,math"
+prob_5561,H,3500.0,"constructive algorithms,flows"
+prob_5180,A,500.0,"implementation,number theory"
+prob_2481,B,1000.0,implementation
+prob_4940,F,,
+prob_410,E,,
+prob_78,F,,
+prob_5829,F,,
+prob_1406,D,,
+prob_677,A,500.0,"geometry,implementation,math"
+prob_2706,L,,
+prob_2207,G,,"dfs and similar,trees"
+prob_2712,E,2000.0,"dfs and similar,dp,trees"
+prob_614,G,500.0,
+prob_64,G,,
+prob_1104,C,,
+prob_3434,E,2500.0,
+prob_2149,F,,"binary search,brute force,implementation,strings"
+prob_1870,I,,
+prob_1654,B,1000.0,implementation
+prob_4818,B,1000.0,implementation
+prob_6140,C,,
+prob_5787,K,,
+prob_5267,B,1000.0,"constructive algorithms,greedy,implementation"
+prob_2921,C,1500.0,"constructive algorithms,greedy,implementation"
+prob_3519,D,,"greedy,implementation"
+prob_3066,D,2000.0,"dp,graphs,shortest paths"
+prob_1667,E,2500.0,"dp,games,math,probabilities"
+prob_5803,H,,
+prob_647,D,,"data structures,divide and conquer,dsu,sortings"
+prob_4013,I,,
+prob_3477,K,,
+prob_2399,E,,"greedy,math"
+prob_1512,A,,
+prob_5021,C,,
+prob_5380,B,,
+prob_5090,B,,
+prob_2584,G,,
+prob_2885,I,,
+prob_123,A,,
+prob_1951,E,2500.0,data structures
+prob_308,I,,
+prob_5123,G,,implementation
+prob_2745,B,1000.0,"dfs and similar,dsu"
+prob_380,B,1500.0,"bitmasks,greedy,implementation,sortings"
+prob_1810,D,2000.0,"geometry,math"
+prob_957,A,,
+prob_644,J,,
+prob_493,C,2000.0,divide and conquer
+prob_89,C,,
+prob_1721,H,,
+prob_4821,F,,
+prob_3204,A,500.0,"greedy,math"
+prob_1995,B,,
+prob_5034,B,,
+prob_5476,D,,
+prob_530,E,,
+prob_4528,C,2000.0,"binary search,graphs,math,shortest paths"
+prob_288,A,500.0,greedy
+prob_2165,C,1500.0,"constructive algorithms,graphs,greedy"
+prob_4817,B,1250.0,"binary search,sortings,two pointers"
+prob_2244,H,,
+prob_3410,B,,
+prob_5634,E,,
+prob_3954,B,,
+prob_539,D,,
+prob_2373,E,2500.0,
+prob_1148,D,,
+prob_42,J,,
+prob_6286,F,,
+prob_4484,F,,
+prob_5324,D,2000.0,"binary search,sortings,two pointers"
+prob_5940,C,1250.0,"data structures,greedy,implementation,sortings,two pointers"
+prob_2106,D,,
+prob_4691,I,,
+prob_4596,D,,
+prob_3207,H,,
+prob_1530,B,,"*special,binary search,sortings,two pointers"
+prob_4241,D,2250.0,"graphs,shortest paths"
+prob_5649,D,2000.0,"combinatorics,math,probabilities"
+prob_554,E,2500.0,"dp,graphs,shortest paths"
+prob_1782,E,,"dfs and similar,dsu,graphs"
+prob_1388,J,,
+prob_4615,D,2250.0,"data structures,greedy"
+prob_6283,F,,
+prob_4522,D,2250.0,
+prob_1464,H,,
+prob_1663,C,1500.0,"data structures,trees"
+prob_3963,A,1000.0,"implementation,math,matrices"
+prob_3103,C,,
+prob_3465,A,500.0,"implementation,sortings,strings"
+prob_3254,D,,
+prob_1625,A,500.0,"constructive algorithms,strings"
+prob_6534,B,,
+prob_861,D,2000.0,"dfs and similar,dsu,graphs,sortings"
+prob_5888,F,,
+prob_5815,C,,"greedy,math"
+prob_2326,C,1500.0,"constructive algorithms,implementation"
+prob_2829,E,,
+prob_636,B,,
+prob_3086,G,,
+prob_5165,D,,
+prob_3116,A,,
+prob_1314,F,,
+prob_605,A,500.0,"constructive algorithms,implementation"
+prob_3606,A,,
+prob_944,C,1500.0,geometry
+prob_2694,D,,
+prob_2487,D,,sortings
+prob_3323,M,,
+prob_2241,J,,
+prob_6369,E,,
+prob_6236,B,1000.0,"implementation,strings"
+prob_6057,B,1000.0,"binary search,data structures"
+prob_5742,J,,"dfs and similar,implementation"
+prob_4980,D,2000.0,"dp,games"
+prob_3413,A,500.0,"brute force,implementation"
+prob_2812,G,,
+prob_4151,D,2000.0,data structures
+prob_2190,B,,
+prob_5964,L,,
+prob_1859,,20.0,
+prob_4741,C,1500.0,geometry
+prob_723,A,,
+prob_1854,E,2000.0,"dfs and similar,expression parsing"
+prob_5213,C,1250.0,math
+prob_6335,K,,
+prob_3705,A,500.0,implementation
+prob_1528,I,,
+prob_1442,C,,"binary search,dfs and similar"
+prob_2186,G,3250.0,"bitmasks,brute force,combinatorics,dp"
+prob_6450,D,,
+prob_2379,B,1000.0,implementation
+prob_2047,J,,
+prob_471,I,,
+prob_1139,I,,
+prob_3427,G,,
+prob_2938,B,1000.0,
+prob_1031,,4.0,"bitmasks,divide and conquer,math"
+prob_5756,A,,implementation
+prob_2337,E,2500.0,"combinatorics,dp,math,number theory"
+prob_3429,H,,
+prob_1355,C,1500.0,implementation
+prob_603,E,,
+prob_3080,F,3500.0,"combinatorics,divide and conquer,dp,fft,math,number theory"
+prob_1759,E,2500.0,"data structures,strings"
+prob_3132,A,500.0,"implementation,math"
+prob_4770,A,500.0,"implementation,strings"
+prob_6091,A,,
+prob_12,D,2000.0,"dfs and similar,graphs"
+prob_2154,C,1000.0,"implementation,math,number theory"
+prob_4585,C,,
+prob_6309,E,,
+prob_6258,A,500.0,"implementation,strings"
+prob_4996,D,,
+prob_1602,F,,
+prob_3385,H,,
+prob_634,D,,"brute force,dp"
+prob_2867,E,,
+prob_3653,A,500.0,"implementation,math"
+prob_3265,E,2500.0,"dp,trees"
+prob_1897,G,,
+prob_4346,I,,
+prob_2311,E,,
+prob_2666,J,,
+prob_5209,J,,
+prob_5431,D,,
+prob_2179,E,,
+prob_3238,A,500.0,implementation
+prob_5783,E,,
+prob_3006,A,500.0,implementation
+prob_1423,E,2500.0,matrices
+prob_3247,B,,
+prob_4290,B,1000.0,greedy
+prob_1015,I,,
+prob_6301,I,,
+prob_1208,H,,
+prob_1599,B,,greedy
+prob_799,A,,
+prob_3034,B,1000.0,implementation
+prob_1467,E,2500.0,"binary search,data structures,dfs and similar,dp,sortings"
+prob_2416,A,,"*special,implementation"
+prob_1080,E,,
+prob_5335,F,3000.0,"constructive algorithms,implementation,trees"
+prob_28,B,,
+prob_3351,C,1000.0,"constructive algorithms,data structures,dp,trees"
+prob_3632,A,,
+prob_4721,A,500.0,"constructive algorithms,greedy"
+prob_5758,C,,"constructive algorithms,sortings"
+prob_3433,C,1500.0,"geometry,ternary search"
+prob_5466,E,,
+prob_724,A,,"math,probabilities"
+prob_261,D,2000.0,"combinatorics,dp"
+prob_373,C,1500.0,"brute force,greedy,implementation,number theory"
+prob_3457,G,,
+prob_1309,,,
+prob_6400,J,,
+prob_1368,C,,
+prob_5791,B,,
+prob_1641,B,1000.0,"implementation,sortings"
+prob_5183,E,2500.0,greedy
+prob_2881,B,,
+prob_1141,C,1000.0,"combinatorics,math,probabilities"
+prob_4336,D,1500.0,"constructive algorithms,shortest paths,trees"
+prob_2633,G,,
+prob_3549,F,3000.0,"data structures,hashing,string suffix structures,strings"
+prob_1074,G,,
+prob_5706,B,1000.0,"graphs,shortest paths"
+prob_4391,E,3000.0,"bitmasks,combinatorics,constructive algorithms,dp,meet-in-the-middle"
+prob_6445,I,,
+prob_265,A,500.0,implementation
+prob_3443,A,500.0,"dp,implementation"
+prob_1898,H,,
+prob_1431,A,500.0,math
+prob_3564,B,,
+prob_2507,A,500.0,"brute force,implementation"
+prob_3861,D,,"binary search,flows,graph matchings,shortest paths"
+prob_2673,,,
+prob_3701,A,500.0,implementation
+prob_836,E,2000.0,"greedy,sortings"
+prob_1837,A,,
+prob_4613,C,1500.0,"combinatorics,number theory"
+prob_2777,B,1000.0,"brute force,data structures,geometry,math"
+prob_349,I,,
+prob_4211,I,,
+prob_987,F,,
+prob_2009,D,2000.0,"binary search,data structures"
+prob_328,I,,
+prob_3740,C,,
+prob_1962,E,,
+prob_5563,E,2500.0,"dp,geometry"
+prob_2052,A,500.0,math
+prob_920,C,,
+prob_6155,A,500.0,"dfs and similar,greedy,implementation"
+prob_5449,C,,
+prob_2790,J,,
+prob_2787,D,,
+prob_1147,C,,"greedy,hashing,string suffix structures"
+prob_1636,B,1000.0,"constructive algorithms,graphs"
+prob_3128,B,,"brute force,dp"
+prob_4107,B,1000.0,"dp,greedy,math"
+prob_5509,D,1750.0,constructive algorithms
+prob_900,D,,
+prob_2168,A,,
+prob_2974,,,
+prob_3479,C,1500.0,"binary search,implementation"
+prob_4256,D,2250.0,data structures
+prob_1079,C,1500.0,"implementation,math"
+prob_4382,A,500.0,
+prob_6349,A,,
+prob_6298,D,2000.0,"dfs and similar,strings"
+prob_5679,I,,
+prob_5683,E,2500.0,"dfs and similar,dp,implementation,trees"
+prob_2865,E,2500.0,dp
+prob_1061,B,1000.0,"implementation,strings"
+prob_4441,A,500.0,"implementation,math"
+prob_1669,B,1000.0,"constructive algorithms,greedy"
+prob_440,E,2500.0,"data structures,dp,geometry"
+prob_5523,,,
+prob_2446,B,,
+prob_1373,B,1000.0,implementation
+prob_1547,B,1000.0,greedy
+prob_4845,E,2500.0,"bitmasks,dp,probabilities"
+prob_5131,C,2000.0,"binary search,brute force,implementation,sortings,two pointers"
+prob_1223,A,500.0,"binary search,brute force,math"
+prob_570,B,,
+prob_3045,H,,
+prob_5831,G,,
+prob_5405,A,500.0,"constructive algorithms,greedy,sortings"
+prob_5291,B,,
+prob_1357,E,2000.0,"data structures,dsu"
+prob_5460,A,250.0,greedy
+prob_5286,J,,
+prob_2571,C,,
+prob_1961,A,500.0,implementation
+prob_6058,B,1000.0,"brute force,implementation"
+prob_3171,D,2000.0,"combinatorics,dfs and similar,trees"
+prob_5879,I,,
+prob_3340,C,,
+prob_4745,C,,
+prob_4523,F,,
+prob_5768,,,
+prob_352,E,,
+prob_1718,C,,
+prob_247,F,,
+prob_2998,A,500.0,implementation
+prob_324,C,1500.0,"data structures,dp"
+prob_709,B,1000.0,"brute force,implementation,math"
+prob_2393,E,2500.0,"combinatorics,geometry"
+prob_914,D,,
+prob_55,D,1500.0,"binary search,data structures,greedy,two pointers"
+prob_1677,C,,"greedy,two pointers"
+prob_2757,F,,
+prob_2649,H,,
+prob_3097,A,500.0,"math,number theory"
+prob_6456,B,1000.0,sortings
+prob_5541,D,,
+prob_4879,L,,
+prob_2841,,,
+prob_3318,A,,
+prob_3328,I,,
+prob_687,J,,
+prob_5284,H,,
+prob_1268,H,,
+prob_4403,B,1000.0,dp
+prob_1997,G,,
+prob_3225,C,,
+prob_1758,D,2000.0,"bitmasks,brute force,implementation"
+prob_516,C,1500.0,constructive algorithms
+prob_3236,J,,
+prob_1109,J,,
+prob_99,H,,
+prob_66,D,,
+prob_604,C,,
+prob_2917,K,,
+prob_3976,D,2000.0,"binary search,greedy,implementation,strings"
+prob_1768,D,2000.0,"dfs and similar,dp,trees"
+prob_4793,G,,
+prob_3346,C,1250.0,"data structures,math,matrices"
+prob_5763,A,,
+prob_1402,B,,
+prob_6055,C,,
+prob_5835,C,1500.0,geometry
+prob_1160,B,1000.0,"greedy,implementation"
+prob_1765,B,1000.0,"implementation,sortings"
+prob_1001,D,,
+prob_3782,N,,
+prob_126,D,,
+prob_1278,C,750.0,ternary search
+prob_4749,D,,
+prob_6214,A,500.0,math
+prob_2999,C,,
+prob_3101,C,,
+prob_3448,C,1500.0,implementation
+prob_2758,C,1500.0,"brute force,dp,implementation"
+prob_3353,B,1000.0,"binary search,greedy,number theory"
+prob_2882,D,2250.0,"combinatorics,dp"
+prob_2162,B,,
+prob_2722,C,2000.0,"dp,sortings"
+prob_5960,B,,
+prob_4435,A,500.0,implementation
+prob_4110,H,,
+prob_916,B,1000.0,"binary search,dp"
+prob_3585,G,,
+prob_6125,G,,
+prob_2585,E,,
+prob_3334,B,1000.0,number theory
+prob_6149,C,,
+prob_3516,A,,
+prob_1890,H,,
+prob_6475,C,1000.0,implementation
+prob_496,G,,
+prob_3967,E,,
+prob_329,L,,
+prob_5869,B,1000.0,"dfs and similar,dp,greedy,trees"
+prob_5203,A,500.0,implementation
+prob_2351,D,2000.0,"brute force,constructive algorithms"
+prob_3703,L,,
+prob_460,B,500.0,"greedy,math"
+prob_4089,D,1500.0,"brute force,data structures,dfs and similar,dp,implementation"
+prob_1632,C,1500.0,math
+prob_1756,D,2000.0,"binary search,graphs"
+prob_26,E,2500.0,"dp,math"
+prob_2085,E,,"dp,greedy,ternary search"
+prob_3846,L,,
+prob_1711,H,,
+prob_3243,D,2000.0,"combinatorics,dp,math,number theory"
+prob_6296,J,,
+prob_2780,,500.0,binary search
+prob_3696,H,,
+prob_4878,K,,
+prob_6535,,30.0,
+prob_83,C,1500.0,greedy
+prob_4176,A,500.0,"dfs and similar,dsu"
+prob_2084,D,2000.0,"dfs and similar,trees"
+prob_1356,J,,
+prob_2953,,,
+prob_4216,A,,"implementation,sortings"
+prob_4349,A,,
+prob_4703,L,,
+prob_2559,D,,
+prob_5954,A,500.0,"implementation,number theory"
+prob_2794,B,,
+prob_4957,A,,
+prob_2221,A,500.0,"binary search,combinatorics,dp"
+prob_5875,C,,
+prob_2396,E,,geometry
+prob_897,B,1000.0,"constructive algorithms,data structures,graphs"
+prob_524,B,1000.0,
+prob_2369,H,,graph matchings
+prob_2370,E,2500.0,brute force
+prob_2831,B,,"implementation,math"
+prob_3713,E,,
+prob_4934,B,1000.0,"brute force,sortings"
+prob_3039,A,,
+prob_1384,A,,"brute force,math,number theory"
+prob_1703,D,2000.0,"data structures,divide and conquer,sortings"
+prob_3973,D,,
+prob_4277,C,,"implementation,math"
+prob_6438,A,,
+prob_3267,C,1500.0,"brute force,greedy"
+prob_5847,D,2250.0,constructive algorithms
+prob_1050,F,,
+prob_3352,D,2000.0,"data structures,probabilities"
+prob_1770,C,,
+prob_97,D,2000.0,"combinatorics,dp,math"
+prob_485,G,,
+prob_346,A,500.0,implementation
+prob_1248,A,,
+prob_5911,G,,
+prob_3762,A,,
+prob_2862,B,1000.0,dp
+prob_4386,E,2250.0,
+prob_3634,J,,
+prob_3137,D,,
+prob_5587,F,,
+prob_4982,B,1000.0,"implementation,sortings"
+prob_3856,K,,
+prob_96,D,1500.0,"combinatorics,dp"
+prob_4108,C,1500.0,constructive algorithms
+prob_2471,A,,brute force
+prob_6531,F,,
+prob_3357,C,1500.0,probabilities
+prob_3498,F,,
+prob_6524,K,,
+prob_6372,J,,
+prob_5453,D,,"dsu,graphs,trees"
+prob_367,D,,
+prob_2046,J,,
+prob_4175,B,,implementation
+prob_5423,I,,
+prob_3581,D,,
+prob_4840,A,500.0,math
+prob_2448,C,1500.0,"constructive algorithms,implementation,math"
+prob_3329,,,
+prob_4134,K,,
+prob_2972,A,,
+prob_2683,F,,
+prob_4643,F,2750.0,"bitmasks,constructive algorithms,implementation,math"
+prob_819,J,,
+prob_5122,H,,
+prob_2350,E,2500.0,geometry
+prob_1988,C,,
+prob_5996,C,1500.0,"binary search,data structures,dp"
+prob_5447,C,,
+prob_2461,E,,
+prob_3945,C,1500.0,"brute force,data structures"
+prob_3026,A,500.0,"implementation,sortings,strings"
+prob_6052,,40.0,dp
+prob_2773,C,1250.0,"brute force,constructive algorithms,dfs and similar,graphs,trees"
+prob_582,D,,
+prob_1699,A,500.0,greedy
+prob_2592,A,,
+prob_249,B,,"brute force,implementation"
+prob_4619,A,500.0,"bitmasks,math,matrices,probabilities"
+prob_6097,C,,
+prob_2936,B,1000.0,"constructive algorithms,math"
+prob_3502,A,750.0,"dfs and similar,dp,games"
+prob_3749,C,1500.0,"dfs and similar,dsu,implementation"
+prob_4541,M,,
+prob_3386,C,,
+prob_4958,I,,
+prob_270,I,,
+prob_1582,G,,
+prob_237,I,,
+prob_5152,B,1000.0,"greedy,math"
+prob_4308,F,2500.0,"data structures,dfs and similar,dp,trees"
+prob_1597,D,,"implementation,math"
+prob_6263,B,,
+prob_3144,E,2500.0,"binary search,data structures,trees"
+prob_4850,H,,
+prob_4606,C,,
+prob_3425,H,,
+prob_2928,D,2000.0,"constructive algorithms,data structures,greedy"
+prob_6001,I,,
+prob_4820,J,,
+prob_626,B,1500.0,"binary search,data structures,dp,two pointers"
+prob_1395,D,2000.0,"data structures,dfs and similar,dsu,hashing,trees"
+prob_21,E,2250.0,data structures
+prob_2857,F,3000.0,"data structures,graphs,implementation,shortest paths"
+prob_1692,E,,"dp,graphs"
+prob_1799,F,,
+prob_4133,A,,"dsu,graphs,sortings,trees"
+prob_3804,E,2500.0,"bitmasks,brute force,dfs and similar,dp"
+prob_5048,B,1000.0,"binary search,math,sortings"
+prob_653,D,,
+prob_2872,A,500.0,implementation
+prob_4302,A,500.0,math
+prob_982,D,2000.0,"2-sat,dfs and similar,dsu,graphs"
+prob_4777,C,,
+prob_1543,A,500.0,"binary search,greedy,sortings,two pointers"
+prob_3993,C,,
+prob_6113,F,,
+prob_1822,C,,*special
+prob_5740,D,,
+prob_1140,A,500.0,"brute force,math"
+prob_4867,D,2000.0,"data structures,dp,number theory"
+prob_5058,B,1000.0,"brute force,combinatorics,dp"
+prob_3866,C,,implementation
+prob_4736,B,1000.0,implementation
+prob_234,A,500.0,implementation
+prob_177,J,,
+prob_6104,F,,
+prob_4832,L,,
+prob_4537,,,
+prob_3342,B,1000.0,"binary search,implementation"
+prob_6147,D,2000.0,"brute force,data structures,dsu,sortings"
+prob_4576,J,,
+prob_2566,I,,
+prob_1716,A,500.0,implementation
+prob_4331,D,2250.0,"data structures,divide and conquer,dp"
+prob_169,C,1750.0,"dp,greedy,strings,trees"
+prob_6208,B,,
+prob_6074,C,1500.0,"constructive algorithms,dfs and similar,graphs,greedy"
+prob_245,D,2000.0,"binary search,greedy,sortings,two pointers"
+prob_4410,B,,
+prob_1571,B,3000.0,"brute force,geometry"
+prob_4597,A,,
+prob_2412,B,1000.0,"dp,implementation"
+prob_2962,I,,
+prob_1507,E,2250.0,"binary search,trees"
+prob_515,M,,
+prob_672,B,1000.0,implementation
+prob_3047,J,,
+prob_6121,A,500.0,"implementation,math"
+prob_4028,A,500.0,"brute force,math"
+prob_2325,D,,
+prob_810,D,2000.0,"constructive algorithms,dfs and similar,trees"
+prob_5918,F,,
+prob_3084,J,,
+prob_3112,E,,"data structures,graphs"
+prob_268,E,,
+prob_5365,A,,
+prob_6323,K,,
+prob_2005,D,2000.0,flows
+prob_4326,F,3000.0,"dfs and similar,dp,graphs,trees"
+prob_3717,E,,
+prob_2556,A,500.0,implementation
+prob_1573,I,,
+prob_4322,B,,implementation
+prob_2920,A,500.0,"brute force,implementation"
+prob_2562,B,1000.0,implementation
+prob_6209,B,1000.0,"implementation,math"
+prob_4723,F,,
+prob_5920,C,1500.0,"constructive algorithms,math,number theory"
+prob_1474,C,1500.0,"brute force,math,number theory"
+prob_3184,D,2000.0,sortings
+prob_2139,E,,"bitmasks,data structures,trees"
+prob_2459,F,,
+prob_5797,A,,
+prob_323,L,,
+prob_1400,C,1500.0,math
+prob_691,F,,
+prob_1205,C,1500.0,dp
+prob_2128,D,,
+prob_4181,F,3000.0,"dsu,graphs,greedy,implementation"
+prob_2042,J,,
+prob_5886,A,,"*special,implementation"
+prob_4470,B,1000.0,"implementation,math"
+prob_5311,J,,
+prob_5817,A,,
+prob_5100,A,500.0,implementation
+prob_6153,A,500.0,"implementation,math"
+prob_1659,E,2500.0,"bitmasks,constructive algorithms,data structures,dfs and similar,dp,trees"
+prob_4380,C,1500.0,"binary search,math"
+prob_4049,D,,
+prob_442,B,,
+prob_2314,E,,
+prob_654,E,,
+prob_4822,B,,
+prob_904,A,500.0,implementation
+prob_3929,C,1500.0,"constructive algorithms,dfs and similar,divide and conquer,greedy,trees"
+prob_4240,H,,
+prob_4236,E,,
+prob_816,G,,
+prob_1096,B,1000.0,"implementation,strings"
+prob_1299,A,500.0,"combinatorics,number theory"
+prob_1542,J,,
+prob_4350,D,1750.0,"dp,graphs,greedy,math"
+prob_93,B,,
+prob_4685,K,,
+prob_6186,F,2500.0,"combinatorics,dp"
+prob_1059,F,,
+prob_2260,K,,
+prob_5258,B,1000.0,"greedy,sortings"
+prob_6523,J,,
+prob_5938,E,2250.0,"math,number theory"
+prob_4665,A,,
+prob_4601,G,,"dp,strings"
+prob_5898,E,,
+prob_5004,E,2500.0,"data structures,hashing,strings"
+prob_664,D,,
+prob_3622,G,,
+prob_4120,B,250.0,"brute force,implementation"
+prob_3175,D,2000.0,dp
+prob_131,A,500.0,implementation
+prob_4804,D,,"data structures,dfs and similar"
+prob_1460,B,1000.0,"greedy,sortings"
+prob_2742,K,,
+prob_5700,J,,"dfs and similar,trees"
+prob_2192,H,,
+prob_2331,E,2500.0,"constructive algorithms,dfs and similar,dp"
+prob_5975,C,1500.0,"combinatorics,math"
+prob_6394,H,,
+prob_1077,A,,
+prob_3659,D,,
+prob_4914,A,,
+prob_374,C,1500.0,"greedy,implementation,sortings"
+prob_1569,E,,
+prob_1449,C,,
+prob_1706,D,,
+prob_3899,E,2500.0,math
+prob_1179,D,,"*special,brute force"
+prob_151,F,3000.0,"brute force,data structures,implementation,number theory"
+prob_4521,C,,
+prob_4318,A,500.0,
+prob_2552,E,2500.0,"brute force,dp,flows,sortings"
+prob_3520,J,,
+prob_4351,E,2500.0,"binary search,data structures,implementation,sortings"
+prob_5663,A,500.0,math
+prob_256,K,,
+prob_2988,E,3000.0,
+prob_1801,J,,
+prob_5216,I,,*special
+prob_1812,B,1000.0,math
+prob_6417,C,1500.0,"dfs and similar,dp,greedy,trees"
+prob_5035,F,,
+prob_4657,A,,
+prob_6436,F,3000.0,"data structures,number theory"
+prob_2114,E,,"dp,sortings"
+prob_1180,C,,"implementation,sortings"
+prob_4796,B,500.0,implementation
+prob_2525,G,,
+prob_2578,F,2500.0,"dp,shortest paths"
+prob_1182,F,,"*special,expression parsing"
+prob_5439,B,1000.0,"brute force,implementation"
+prob_3332,A,,
+prob_2037,C,,
+prob_5751,F,3000.0,"combinatorics,math,number theory"
+prob_1588,C,,
+prob_2798,J,,
+prob_5901,A,500.0,"brute force,implementation"
+prob_3266,C,,
+prob_2161,A,500.0,implementation
+prob_4742,G,,
+prob_318,A,500.0,implementation
+prob_3162,B,1000.0,combinatorics
+prob_5574,E,2000.0,graphs
+prob_4634,D,,math
+prob_2569,A,500.0,"greedy,implementation,sortings"
+prob_3522,C,2500.0,"constructive algorithms,greedy,math"
+prob_3800,E,2500.0,"games,implementation,math"
+prob_2421,C,1750.0,"binary search,greedy"
+prob_5824,J,,
+prob_2762,D,2000.0,"data structures,hashing"
+prob_906,E,,
+prob_826,E,,
+prob_3946,G,,
+prob_1853,E,,
+prob_5730,B,,constructive algorithms
+prob_3421,D,2500.0,constructive algorithms
+prob_207,A,,
+prob_5135,B,1000.0,"dp,probabilities"
+prob_5299,C,1500.0,"data structures,greedy"
+prob_1145,A,,
+prob_821,B,1000.0,"binary search,dp,hashing,string suffix structures,strings"
+prob_1184,K,,
+prob_6496,G,,
+prob_4985,I,,
+prob_5709,F,,
+prob_1818,B,,
+prob_6203,H,,
+prob_5968,B,1000.0,"implementation,math"
+prob_5569,F,,
+prob_1733,B,1000.0,"implementation,number theory"
+prob_4168,F,,
+prob_1615,D,,
+prob_1008,I,,
+prob_2345,,12.0,dp
+prob_2240,B,1000.0,"combinatorics,constructive algorithms,greedy,math"
+prob_4553,E,,data structures
+prob_1326,E,2500.0,"brute force,dp,two pointers"
+prob_4303,F,,
+prob_4312,C,,
+prob_3910,E,,
+prob_3435,A,,
+prob_244,B,,"dp,math"
+prob_2453,C,1500.0,"graphs,greedy,sortings"
+prob_5878,E,,
+prob_1504,,50.0,
+prob_5570,I,,
+prob_4035,B,,
+prob_6169,C,,
+prob_4690,A,,
+prob_1798,C,1500.0,"binary search,data structures,sortings,strings"
+prob_5644,H,,
+prob_2809,B,1000.0,probabilities
+prob_3186,A,1000.0,"binary search,brute force,greedy,two pointers"
+prob_2753,B,500.0,"brute force,implementation,sortings"
+prob_3960,G,3000.0,"data structures,greedy"
+prob_3654,B,1000.0,"math,number theory"
+prob_6405,E,2500.0,"constructive algorithms,fft,math"
+prob_477,A,500.0,"implementation,math"
+prob_6530,A,,"constructive algorithms,implementation,math"
+prob_2550,C,1500.0,"implementation,math"
+prob_5366,B,500.0,"brute force,greedy,implementation"
+prob_5053,D,,
+prob_3188,B,1000.0,"binary search,geometry,math"
+prob_2580,J,,
+prob_2775,A,500.0,implementation
+prob_1651,H,,
+prob_1930,B,,
+prob_3042,E,2500.0,data structures
+prob_610,B,,
+prob_5554,D,,
+prob_3874,I,,
+prob_6081,B,1000.0,math
+prob_248,G,,
+prob_4063,A,500.0,"greedy,implementation,sortings"
+prob_4041,D,,
+prob_3258,A,,
+prob_269,B,1000.0,"implementation,math"
+prob_1879,D,1750.0,"math,number theory"
+prob_2447,E,,
+prob_1130,F,,
+prob_2815,E,,
+prob_6200,E,,
+prob_2933,K,,
+prob_609,A,,
+prob_357,L,,
+prob_1153,B,1000.0,"binary search,greedy"
+prob_4163,A,500.0,strings
+prob_4270,F,,
+prob_4149,K,,
+prob_5025,B,1000.0,"binary search,bitmasks,brute force"
+prob_4679,E,,*special
+prob_5981,A,,
+prob_2545,A,,
+prob_5808,K,,
+prob_4455,B,1000.0,constructive algorithms
+prob_6031,E,,
+prob_1483,F,,
+prob_2783,C,2000.0,"constructive algorithms,dp,greedy,two pointers"
+prob_38,D,2000.0,"combinatorics,math"
+prob_2718,B,1000.0,"graphs,shortest paths"
+prob_1843,D,2000.0,"bitmasks,dp"
+prob_6474,A,500.0,implementation
+prob_3886,D,,
+prob_1555,E,2500.0,"dfs and similar,dp,implementation,trees"
+prob_6067,C,1500.0,constructive algorithms
+prob_4726,A,,
+prob_3692,E,,
+prob_1135,I,,
+prob_56,C,1500.0,"combinatorics,constructive algorithms,math"
+prob_2725,D,2000.0,brute force
+prob_4602,B,1000.0,"implementation,sortings"
+prob_3455,A,,number theory
+prob_4465,F,,
+prob_1470,I,,
+prob_4091,F,3500.0,"data structures,string suffix structures"
+prob_817,E,,
+prob_4575,F,2500.0,"constructive algorithms,math"
+prob_5214,C,,"geometry,sortings"
+prob_790,C,,"dp,greedy,strings"
+prob_5383,A,500.0,math
+prob_3744,F,,
+prob_3883,A,,
+prob_3289,J,,
+prob_633,D,2000.0,data structures
+prob_6000,A,,
+prob_2769,F,,"data structures,dsu,graphs"
+prob_4860,G,,
+prob_3356,,,
+prob_1793,A,500.0,"constructive algorithms,implementation,math"
+prob_4948,D,,
+prob_2306,B,1000.0,"implementation,math"
+prob_1989,M,,
+prob_5926,B,1000.0,"greedy,sortings"
+prob_3395,C,,
+prob_6327,D,,
+prob_2228,C,,"geometry,math"
+prob_2007,G,,
+prob_4079,A,500.0,implementation
+prob_1674,E,2500.0,"geometry,math"
+prob_6053,H,,
+prob_3704,F,,"combinatorics,graphs,trees"
+prob_5292,B,1000.0,"dp,implementation"
+prob_6439,E,2500.0,"data structures,dfs and similar,dp,graphs,trees"
+prob_3771,B,1000.0,sortings
+prob_5163,K,,
+prob_2877,C,1500.0,"implementation,sortings"
+prob_3583,E,2500.0,number theory
+prob_1014,I,,
+prob_1642,B,1000.0,greedy
+prob_2847,A,500.0,"greedy,implementation,sortings"
+prob_3483,E,2500.0,
+prob_2064,A,,
+prob_6435,D,,
+prob_5242,B,,
+prob_2524,D,,
+prob_3459,I,,
+prob_4530,B,1000.0,"math,number theory"
+prob_5372,B,,
+prob_3844,A,500.0,brute force
+prob_2662,D,,
+prob_4618,A,500.0,"brute force,implementation,strings"
+prob_1891,B,1000.0,
+prob_5912,A,500.0,"brute force,greedy,math"
+prob_4603,F,,
+prob_4301,A,500.0,math
+prob_1036,A,,
+prob_3903,H,,probabilities
+prob_3182,H,,
+prob_4557,I,,
+prob_4341,D,,
+prob_6231,D,,
+prob_5119,G,,
+prob_5013,A,,
+prob_536,E,,
+prob_6224,B,,
+prob_1204,D,2000.0,"dp,graphs,implementation,shortest paths"
+prob_2027,E,,
+prob_1222,K,,
+prob_1003,B,1000.0,greedy
+prob_598,D,,
+prob_2619,E,,
+prob_3927,D,,
+prob_869,D,2000.0,"data structures,trees"
+prob_5909,H,,
+prob_1665,I,,
+prob_4098,B,,
+prob_2884,L,,
+prob_5553,E,,"math,strings"
+prob_6004,B,1000.0,two pointers
+prob_3317,B,,"implementation,strings"
+prob_479,B,1000.0,"implementation,sortings"
+prob_5167,A,500.0,"brute force,implementation"
+prob_3136,G,,
+prob_6205,A,,
+prob_5707,D,,
+prob_1295,D,,
+prob_5368,D,,
+prob_2993,B,1000.0,"brute force,dfs and similar,dp,strings"
+prob_6395,D,,"combinatorics,divide and conquer,dp"
+prob_5642,A,750.0,"brute force,dp,implementation"
+prob_258,G,,
+prob_1181,B,1000.0,"constructive algorithms,greedy"
+prob_30,G,,
+prob_5296,B,1000.0,"brute force,implementation"
+prob_2667,K,,
+prob_2250,C,1750.0,constructive algorithms
+prob_6501,F,,
+prob_3416,A,,
+prob_46,D,2000.0,brute force
+prob_585,A,,
+prob_3805,G,,
+prob_4959,C,1500.0,"bitmasks,shortest paths"
+prob_1921,E,2500.0,"brute force,math,matrices"
+prob_1957,C,1500.0,data structures
+prob_1476,K,,
+prob_3778,G,,
+prob_6116,E,2000.0,
+prob_2730,B,1000.0,"constructive algorithms,graph matchings,greedy,math"
+prob_4536,B,1000.0,"brute force,implementation,two pointers"
+prob_5359,J,,
+prob_2038,J,,
+prob_215,D,,math
+prob_2129,M,,
+prob_4508,B,1000.0,"dfs and similar,dsu,math,number theory"
+prob_514,A,500.0,implementation
+prob_117,B,,
+prob_5039,E,500.0,"dfs and similar,dp,trees"
+prob_2914,F,,
+prob_1931,E,2500.0,"data structures,geometry"
+prob_4479,A,500.0,"brute force,constructive algorithms,implementation"
+prob_1850,E,3000.0,"data structures,divide and conquer,dsu,trees"
+prob_423,A,,
+prob_2616,A,,
+prob_5648,C,1500.0,"graphs,hashing,sortings"
+prob_2111,F,,"binary search,flows,graphs"
+prob_5153,F,,
+prob_4222,A,500.0,implementation
+prob_6282,A,500.0,"implementation,math"
+prob_5074,A,500.0,"brute force,implementation"
+prob_6388,B,,"*special,implementation"
+prob_4799,J,,
+prob_5191,B,1000.0,"brute force,greedy,implementation"
+prob_1899,C,1500.0,"data structures,trees"
+prob_4504,E,,
+prob_6033,B,1000.0,"implementation,math"
+prob_6163,E,,"dfs and similar,greedy"
+prob_1110,D,,
+prob_828,D,2000.0,math
+prob_4676,A,500.0,implementation
+prob_2894,F,,
+prob_3060,J,,
+prob_4123,B,,
+prob_4427,G,3500.0,
+prob_4707,A,,
+prob_822,H,,
+prob_2318,B,750.0,"brute force,implementation"
+prob_6082,A,,
+prob_4235,B,,
+prob_4727,F,,
+prob_2386,I,,
+prob_1363,A,,"brute force,greedy"
+prob_6429,L,,
+prob_3638,B,1000.0,"bitmasks,greedy"
+prob_3383,E,2500.0,"dp,greedy,strings"
+prob_2121,B,1000.0,"brute force,constructive algorithms,geometry"
+prob_5244,D,2250.0,"data structures,divide and conquer,implementation,trees"
+prob_1342,G,3500.0,"flows,graph matchings"
+prob_2600,G,,
+prob_5313,F,,
+prob_74,A,500.0,math
+prob_878,A,,
+prob_3555,B,,
+prob_5228,D,,
+prob_720,C,,
+prob_3709,B,1000.0,implementation
+prob_152,B,1000.0,brute force
+prob_1454,B,,
+prob_4582,A,,
+prob_5240,G,,
+prob_3015,A,,
+prob_3639,I,,
+prob_4251,A,,
+prob_1766,D,2000.0,dp
+prob_5516,E,2000.0,"dfs and similar,expression parsing"
+prob_4641,F,,
+prob_2017,K,,
+prob_3525,B,,"brute force,sortings"
+prob_3367,D,3000.0,"dp,fft"
+prob_597,B,,
+prob_3036,E,2500.0,
+prob_6398,E,,
+prob_2215,A,,
+prob_1437,G,3500.0,
+prob_4766,C,,
+prob_6285,E,,
+prob_40,A,500.0,implementation
+prob_5510,C,1500.0,"binary search,data structures,greedy"
+prob_292,K,,
+prob_5703,D,,
+prob_3944,L,,
+prob_6448,B,,
+prob_767,A,500.0,implementation
+prob_2563,D,,
+prob_1983,,,
+prob_3106,J,,
+prob_24,E,2500.0,"math,probabilities,sortings"
+prob_2443,B,1000.0,"greedy,sortings"
+prob_472,B,,
+prob_3813,B,,
+prob_3077,E,,
+prob_1855,D,,
+prob_955,J,,
+prob_3000,D,,
+prob_952,A,500.0,
+prob_3412,,,
+prob_3893,E,2750.0,"data structures,math,two pointers"
+prob_399,C,1750.0,"dp,probabilities"
+prob_2660,C,,
+prob_5418,B,,implementation
+prob_1923,A,500.0,"binary search,math,two pointers"
+prob_4677,G,,
+prob_49,I,,implementation
+prob_5528,C,1500.0,"dp,implementation"
+prob_3093,C,1500.0,"data structures,greedy,trees"
+prob_1495,B,1500.0,implementation
+prob_5116,G,,
+prob_5497,A,500.0,"greedy,sortings"
+prob_2851,D,2500.0,"dp,greedy"
+prob_2734,,1000.0,
+prob_4070,C,,
+prob_591,D,2000.0,"dsu,implementation"
+prob_2220,C,1500.0,"implementation,math"
+prob_5329,A,,
+prob_6543,E,,dp
+prob_4905,I,,
+prob_2685,B,1000.0,"constructive algorithms,dp,greedy,implementation"
+prob_4198,B,,
+prob_678,H,,
+prob_2090,A,500.0,"brute force,greedy"
+prob_279,C,,
+prob_1013,A,500.0,"implementation,two pointers"
+prob_3365,E,2500.0,dsu
+prob_6115,,70.0,data structures
+prob_1114,G,,
+prob_5596,C,1500.0,"binary search,greedy,implementation,math,sortings"
+prob_3917,K,,
+prob_388,E,2500.0,"bitmasks,games"
+prob_6338,A,500.0,brute force
+prob_2444,D,,
+prob_3463,K,,
+prob_2087,D,,"*special,implementation"
+prob_3376,H,,
+prob_2956,M,,shortest paths
+prob_5583,E,2500.0,"data structures,dp,greedy"
+prob_4317,C,1500.0,"constructive algorithms,data structures,greedy,sortings,trees"
+prob_2813,I,,
+prob_4323,G,,
+prob_2098,A,,
+prob_2355,D,,
+prob_2272,D,2000.0,"brute force,probabilities"
+prob_4604,G,,
+prob_4997,B,1500.0,"constructive algorithms,geometry"
+prob_1359,C,,
+prob_4065,B,1000.0,"dfs and similar,dp,graph matchings,greedy,sortings,two pointers"
+prob_716,F,,
+prob_5992,B,,
+prob_5571,A,,
+prob_2434,N,,
+prob_4816,H,,
+prob_4449,H,,
+prob_5274,B,1000.0,"brute force,greedy,implementation"
+prob_5089,H,,
+prob_4987,A,,
+prob_6454,E,,dp
+prob_4927,,70.0,"data structures,sortings"
+prob_1129,C,1500.0,"implementation,math,sortings"
+prob_69,D,2000.0,"chinese remainder theorem,math,number theory"
+prob_1443,C,2000.0,combinatorics
+prob_5474,E,2500.0,"math,two pointers"
+prob_4510,D,2000.0,"brute force,greedy,math"
+prob_989,E,,"binary search,data structures,number theory,two pointers"
+prob_4910,D,,
+prob_1319,E,,
+prob_6041,B,,
+prob_2957,B,,"binary search,sortings,two pointers"
+prob_1691,D,2000.0,"binary search,implementation,math"
+prob_4518,E,,
+prob_5928,A,,
+prob_587,E,,
+prob_6094,C,,
+prob_1847,B,,
+prob_5608,I,,
+prob_1971,H,,
+prob_3940,C,,
+prob_5406,A,500.0,"brute force,math"
+prob_2488,A,,
+prob_2097,D,2000.0,"data structures,divide and conquer,dp"
+prob_4964,D,,
+prob_2648,I,,
+prob_5289,F,,
+prob_5507,I,,
+prob_213,G,,
+prob_1503,F,,
+prob_4684,A,,
+prob_3096,B,,
+prob_4669,F,,
+prob_4725,E,2500.0,"greedy,implementation,math,ternary search"
+prob_5846,D,,
+prob_189,D,2000.0,binary search
+prob_741,F,,
+prob_6515,G,,
+prob_4903,A,500.0,"brute force,geometry,implementation"
+prob_6352,F,,
+prob_5557,D,2000.0,dp
+prob_3576,D,,
+prob_1122,D,2000.0,"constructive algorithms,dfs and similar,graphs"
+prob_565,E,,
+prob_2892,K,,
+prob_6195,G,,
+prob_5288,I,,
+prob_5972,J,,
+prob_1142,C,1500.0,constructive algorithms
+prob_5927,A,,
+prob_4496,A,500.0,"greedy,implementation,two pointers"
+prob_6494,C,1500.0,"greedy,sortings"
+prob_1068,,,geometry
+prob_4609,I,,
+prob_3681,C,,
+prob_6484,L,,
+prob_1188,A,,
+prob_36,C,,
+prob_4200,G,,
+prob_76,F,,
+prob_2530,E,,
+prob_1265,C,1250.0,implementation
+prob_2219,G,,
+prob_4413,A,500.0,"dp,greedy,math"
+prob_3708,E,2500.0,
+prob_4877,E,,
+prob_620,A,500.0,"dfs and similar,graphs,implementation"
+prob_1381,F,,
+prob_1392,D,2000.0,"dp,probabilities"
+prob_547,B,,
+prob_5310,D,2250.0,"combinatorics,dp,trees"
+prob_1009,E,,
+prob_4811,B,1000.0,"data structures,dp,greedy"
+prob_1022,E,2500.0,"binary search,dfs and similar,divide and conquer,trees"
+prob_3487,H,,
+prob_2384,G,,
+prob_2489,F,,
+prob_3700,A,,
+prob_5327,B,,
+prob_384,C,,
+prob_2613,B,,
+prob_616,C,1000.0,"hashing,implementation,math"
+prob_3975,E,,"*special,brute force,number theory"
+prob_5342,G,,
+prob_3274,K,,
+prob_3601,A,,
+prob_5193,E,,
+prob_6427,B,,
+prob_4340,J,,
+prob_4505,F,500.0,"dp,math,number theory"
+prob_232,B,,implementation
+prob_408,F,3250.0,greedy
+prob_6239,I,,
+prob_447,K,,
+prob_3370,H,,
+prob_3485,,,
+prob_1439,A,,
+prob_14,A,,
+prob_846,D,,
+prob_736,J,,
+prob_1048,D,,
+prob_1250,F,,
+prob_1120,B,1000.0,"constructive algorithms,geometry"
+prob_2549,E,,
+prob_4952,J,,
+prob_4543,C,1500.0,greedy
+prob_3571,C,1500.0,"implementation,number theory,sortings"
+prob_6363,A,,"math,number theory"
+prob_1947,,6.0,flows
+prob_4209,H,,
+prob_5029,A,750.0,"implementation,math"
+prob_443,I,,
+prob_902,C,1500.0,"constructive algorithms,greedy"
+prob_3496,I,,
+prob_5613,E,2500.0,"data structures,divide and conquer,trees"
+prob_5126,E,,
+prob_5584,L,,
+prob_4584,I,,
+prob_3611,A,,
+prob_1889,B,,
+prob_871,C,1500.0,data structures
+prob_5902,B,1000.0,"constructive algorithms,implementation,math"
+prob_4247,C,,"combinatorics,dp,math"
+prob_459,,,
+prob_3569,,50.0,greedy
+prob_5606,I,,
+prob_2848,C,1500.0,geometry
+prob_6275,I,,
+prob_5732,D,,
+prob_2653,E,,
+prob_1712,I,,
+prob_4468,A,,
+prob_5495,G,,
+prob_5638,B,,
+prob_4591,K,,
+prob_4461,C,1500.0,"brute force,dp,greedy,math,meet-in-the-middle"
+prob_1429,C,1500.0,"binary search,greedy"
+prob_2693,B,1000.0,"dfs and similar,graphs"
+prob_6273,D,,
+prob_2284,A,500.0,"dp,graph matchings,greedy"
+prob_1724,H,,
+prob_4347,B,,
+prob_5186,B,1000.0,"dfs and similar,divide and conquer,dp,trees"
+prob_3350,A,,brute force
+prob_5746,F,,
+prob_2249,E,2500.0,strings
+prob_325,E,2500.0,"math,matrices"
+prob_2982,D,2500.0,dfs and similar
+prob_4542,G,,
+prob_2966,B,,
+prob_4140,A,,
+prob_1306,A,500.0,"implementation,math"
+prob_1640,A,500.0,"geometry,math"
+prob_6026,D,2000.0,"brute force,greedy"
+prob_3348,C,1750.0,
+prob_2860,C,,
+prob_2405,K,,
+prob_2254,A,,
+prob_5068,B,1000.0,
+prob_1410,D,1000.0,"data structures,dsu"
+prob_1144,E,2500.0,"brute force,implementation,math"
+prob_5419,L,,
+prob_3923,B,1000.0,"brute force,greedy,implementation"
+prob_2013,E,2250.0,math
+prob_5501,,30.0,flows
+prob_1786,,,geometry
+prob_6103,C,1500.0,"binary search,dp,two pointers"
+prob_3528,A,500.0,implementation
+prob_2310,D,,dp
+prob_3890,F,,
+prob_4345,B,,
+prob_2266,H,,
+prob_2553,A,500.0,brute force
+prob_4922,E,2500.0,"string suffix structures,strings"
+prob_5107,A,,
+prob_584,A,500.0,brute force
+prob_757,C,1500.0,dfs and similar
+prob_2332,E,,"dfs and similar,graphs,greedy"
+prob_3565,D,,
+prob_6259,B,1000.0,implementation
+prob_307,B,1000.0,greedy
+prob_5351,,,
+prob_4849,C,,
+prob_71,C,1500.0,dp
+prob_601,C,1500.0,sortings
+prob_915,B,,
+prob_2095,A,500.0,"greedy,implementation"
+prob_6242,L,,
+prob_1589,D,2000.0,"dp,strings"
+prob_2518,B,,"implementation,strings"
+prob_5828,A,,
+prob_4688,J,,
+prob_2674,H,,
+prob_2800,I,,
+prob_1300,H,,
+prob_1974,I,,
+prob_4212,A,750.0,"combinatorics,implementation,math"
+prob_5990,B,,
+prob_5772,D,1500.0,"binary search,graphs,greedy"
+prob_2429,L,,
+prob_4833,D,2000.0,"dfs and similar,dsu,shortest paths,trees"
+prob_3667,A,,
+prob_228,J,,
+prob_4798,F,,
+prob_6272,G,,
+prob_2919,D,2500.0,dp
+prob_4371,D,,
+prob_4370,H,,
+prob_2803,E,2500.0,greedy
+prob_255,B,1000.0,"binary search,graphs,shortest paths"
+prob_1553,H,,
+prob_5140,A,,
+prob_184,E,,
+prob_2786,B,,
+prob_5769,C,1500.0,"brute force,geometry"
+prob_4839,A,,
+prob_917,F,,
+prob_4514,F,,
+prob_463,C,1500.0,"constructive algorithms,greedy"
+prob_6245,E,2500.0,"dfs and similar,dp,probabilities,trees"
+prob_3280,B,,
+prob_1619,B,,sortings
+prob_5246,B,,
+prob_4702,A,500.0,implementation
+prob_1537,A,500.0,"greedy,implementation,math,number theory"
+prob_1480,B,1000.0,
+prob_4365,B,,
+prob_6387,E,3000.0,"combinatorics,dp"
+prob_5590,I,,
+prob_1595,C,,
+prob_2040,E,2500.0,"brute force,dfs and similar,divide and conquer,flows,greedy"
+prob_2691,C,1500.0,"binary search,brute force,data structures,dp,implementation,math,number theory"
+prob_839,D,1250.0,"geometry,implementation,math"
+prob_1152,A,500.0,"brute force,constructive algorithms"
+prob_5178,C,,
+prob_1525,D,,
+prob_1239,E,1750.0,data structures
+prob_1432,J,,
+prob_3142,D,,
+prob_2159,F,,"constructive algorithms,implementation,math"
+prob_4947,F,,
+prob_1419,D,2000.0,"constructive algorithms,implementation"
+prob_2203,E,,
+prob_6174,D,2000.0,"dfs and similar,divide and conquer,dp,trees"
+prob_5575,F,,"binary search,data structures,geometry,ternary search"
+prob_1281,C,1500.0,"combinatorics,graphs,matrices"
+prob_1367,,,
+prob_334,A,500.0,"binary search,brute force,implementation,math"
+prob_2015,E,2500.0,"constructive algorithms,data structures,graphs,sortings"
+prob_5478,A,500.0,strings
+prob_726,F,,
+prob_3602,A,,
+prob_617,C,1000.0,"binary search,greedy,math"
+prob_4485,I,,
+prob_2177,B,1000.0,implementation
+prob_3363,G,,
+prob_1331,D,2000.0,"data structures,dp,matrices,strings"
+prob_4586,C,2000.0,"combinatorics,constructive algorithms,math"
+prob_5522,D,2000.0,"binary search,data structures,hashing"
+prob_1463,F,,math
+prob_4579,B,,
+prob_5306,C,1500.0,"greedy,implementation"
+prob_3210,H,,
+prob_1258,G,,*special
+prob_5425,D,2000.0,"bitmasks,brute force,constructive algorithms,implementation,math"
+prob_4970,A,,
+prob_2789,B,1000.0,greedy
+prob_5832,C,1750.0,"bitmasks,number theory"
+prob_2586,I,,
+prob_4275,K,,
+prob_4358,E,3000.0,"brute force,dfs and similar,implementation,number theory"
+prob_3068,G,,
+prob_1019,A,500.0,"brute force,implementation,math"
+prob_2294,B,,
+prob_3165,B,1000.0,"dfs and similar,dsu,greedy"
+prob_6114,E,3000.0,"combinatorics,divide and conquer,fft,number theory"
+prob_692,C,1500.0,"brute force,geometry"
+prob_419,F,2500.0,"dfs and similar,trees"
+prob_4881,E,,
+prob_432,D,,
+prob_467,D,,
+prob_4899,D,,
+prob_5559,F,,
+prob_1518,E,2500.0,"data structures,math,probabilities"
+prob_718,D,2000.0,"dfs and similar,dp,dsu"
+prob_290,J,,
+prob_4208,F,1000.0,"dp,greedy"
+prob_227,C,1500.0,"brute force,implementation"
+prob_5320,D,2000.0,"dfs and similar,divide and conquer,graphs,sortings,trees"
+prob_1137,E,,
+prob_1416,A,500.0,"brute force,implementation"
+prob_67,G,,
+prob_238,E,2750.0,"data structures,dp,dsu"
+prob_5444,E,,
+prob_5437,C,,
+prob_910,G,,
+prob_3774,G,,
+prob_6095,D,,greedy
+prob_3757,A,500.0,"constructive algorithms,number theory"
+prob_5378,B,1000.0,"data structures,implementation"
+prob_210,C,,
+prob_2916,D,,constructive algorithms
+prob_5955,C,,
+prob_1955,A,750.0,constructive algorithms
+prob_3677,C,,
+prob_5610,H,,
+prob_5262,C,1500.0,"brute force,dfs and similar,shortest paths"
+prob_518,I,,
+prob_5753,G,,
+prob_1082,C,1500.0,constructive algorithms
+prob_5196,A,500.0,"binary search,math"
+prob_3343,H,,
+prob_4238,A,,implementation
+prob_6021,E,,
+prob_2954,D,,"math,number theory"
+prob_3025,A,500.0,"dp,implementation,math"
+prob_5245,G,3500.0,"dp,matrices,probabilities"
+prob_3371,D,,
+prob_4991,D,,
+prob_3857,J,,
+prob_1695,C,1500.0,"greedy,shortest paths"
+prob_4831,A,,
+prob_5042,A,,
+prob_1195,B,1000.0,"brute force,math"
+prob_1202,E,2500.0,"data structures,dfs and similar,dp,strings,trees"
+prob_6434,A,500.0,"brute force,constructive algorithms,strings"
+prob_1411,C,1500.0,"constructive algorithms,implementation"
+prob_4034,G,,
+prob_1593,F,,
+prob_1115,C,,
+prob_2875,J,,
+prob_4174,D,,
+prob_985,E,,
+prob_5760,,,
+prob_5802,D,,
+prob_4617,D,,"dfs and similar,dp,graphs,shortest paths,trees,two pointers"
+prob_1453,C,3000.0,"data structures,greedy,sortings"
+prob_4768,D,2000.0,"brute force,combinatorics,implementation"
+prob_831,C,,"graphs,shortest paths"
+prob_6462,C,1500.0,"dp,math,number theory"
+prob_6336,E,2500.0,
+prob_4073,E,2500.0,"binary search,combinatorics"
+prob_1340,G,,
+prob_5855,A,500.0,implementation
+prob_2213,E,,
+prob_6106,A,500.0,"brute force,implementation"
+prob_27,C,1500.0,"implementation,strings"
+prob_640,G,,
+prob_5389,A,,
+prob_2172,D,2000.0,"brute force,geometry"
+prob_235,B,,
+prob_4397,E,2500.0,"brute force,dp,two pointers"
+prob_5426,C,1500.0,dp
+prob_6542,H,,
+prob_3016,I,,string suffix structures
+prob_6038,G,,
+prob_376,B,,
+prob_646,,,
+prob_2234,F,,
+prob_5811,C,,
+prob_3304,D,2000.0,"data structures,dp,greedy"
+prob_2741,E,,
+prob_589,D,,
+prob_2672,E,2500.0,"data structures,dfs and similar,dsu,trees"
+prob_2105,D,2250.0,"data structures,implementation,sortings"
+prob_675,B,1000.0,"dfs and similar,dp,graphs,trees"
+prob_641,E,2500.0,"constructive algorithms,greedy"
+prob_6533,C,,
+prob_4516,B,,
+prob_5745,E,2500.0,"dp,hashing,implementation,string suffix structures,strings"
+prob_3558,B,,
+prob_922,D,2000.0,combinatorics
+prob_2312,B,1000.0,"combinatorics,greedy"
+prob_1325,C,,
+prob_2682,D,,
+prob_4447,C,,
+prob_6337,E,,*special
+prob_5922,G,,
+prob_1407,D,,
+prob_4062,C,,
+prob_5762,C,1500.0,"games,math,number theory"
+prob_2802,B,,
+prob_882,A,,
+prob_63,E,,
+prob_3437,I,,
+prob_2658,D,,
+prob_5837,A,500.0,"data structures,implementation"
+prob_1646,C,,
+prob_4639,F,,"brute force,data structures,hashing,string suffix structures,strings"
+prob_3679,A,500.0,implementation
+prob_2045,E,,
+prob_2194,C,1500.0,"brute force,constructive algorithms,implementation"
+prob_5503,E,,"binary search,dp,two pointers"
+prob_4379,F,,
+prob_6465,F,,
+prob_4015,A,500.0,"implementation,strings"
+prob_3123,K,,
+prob_1506,B,1000.0,"combinatorics,dp,probabilities"
+prob_2646,E,2500.0,"data structures,implementation"
+prob_3336,K,,
+prob_183,J,,
+prob_2233,F,3000.0,"dp,games,greedy,trees"
+prob_3331,A,500.0,"binary search,brute force,implementation"
+prob_5711,A,,
+prob_128,A,,
+prob_6065,J,,
+prob_113,B,1000.0,"constructive algorithms,hashing,implementation"
+prob_5759,E,,
+prob_350,E,,dfs and similar
+prob_2057,G,,
+prob_3858,E,,
+prob_749,E,,
+prob_98,D,,
+prob_2768,D,2000.0,"data structures,dfs and similar,trees"
+prob_1886,D,2000.0,"data structures,divide and conquer,dp,probabilities"
+prob_4059,A,,
+prob_4733,C,,
+prob_5708,C,1500.0,"dp,implementation,trees"
+prob_2224,F,,
+prob_1713,E,3000.0,"combinatorics,math"
+prob_382,A,1000.0,greedy
+prob_3014,F,,
+prob_5743,L,,
+prob_2401,A,,*special
+prob_5532,M,,
+prob_2766,H,,
+prob_146,A,500.0,implementation
+prob_2924,E,2500.0,math
+prob_3513,H,,
+prob_6403,B,,
+prob_1919,A,,
+prob_5681,C,1500.0,"data structures,implementation"
+prob_1253,J,,
+prob_2906,I,,
+prob_4357,D,2000.0,"dfs and similar,graphs,hashing"
+prob_5957,E,2500.0,"dsu,graphs,greedy"
+prob_666,B,,"constructive algorithms,graphs,implementation"
+prob_4367,A,,
+prob_5540,B,1000.0,"dp,two pointers"
+prob_4233,D,2000.0,"binary search,bitmasks,brute force,implementation,sortings"
+prob_3288,G,,
+prob_6130,K,,
+prob_3695,F,,
+prob_4651,B,1000.0,"greedy,two pointers"
+prob_1824,C,1500.0,"data structures,schedules"
+prob_6182,C,,"math,number theory"
+prob_3986,D,,
+prob_1143,E,2500.0,"binary search,data structures,sortings"
+prob_1177,E,,"brute force,dp"
+prob_2778,F,2750.0,"constructive algorithms,two pointers"
+prob_465,C,750.0,"constructive algorithms,graphs,math"
+prob_5085,F,2500.0,dfs and similar
+prob_927,G,,
+prob_807,L,,
+prob_1825,E,3000.0,"bitmasks,dp"
+prob_569,C,,
+prob_6183,D,2500.0,bitmasks
+prob_4885,A,,math
+prob_4883,F,2750.0,
+prob_1298,A,,implementation
+prob_4018,B,,
+prob_3493,E,,
+prob_561,A,,
+prob_2991,C,1500.0,"dp,matrices"
+prob_5,C,1500.0,greedy
+prob_3209,B,1000.0,"constructive algorithms,implementation"
+prob_6504,A,,
+prob_3107,B,1000.0,"data structures,dp"
+prob_4773,E,,
+prob_2945,G,,
+prob_2743,F,,data structures
+prob_5357,D,,
+prob_281,C,1000.0,
+prob_3942,B,500.0,"implementation,strings"
+prob_4426,B,,
+prob_1235,G,,
+prob_3174,C,1500.0,"binary search,data structures,implementation"
+prob_4629,D,,
+prob_4965,A,,
+prob_1273,B,,"dp,greedy"
+prob_2360,E,2500.0,"constructive algorithms,dfs and similar,greedy,trees"
+prob_4751,A,500.0,"binary search,math,sortings"
+prob_3458,C,1500.0,"constructive algorithms,number theory"
+prob_3738,A,,
+prob_6410,F,,
+prob_5348,C,,
+prob_5915,E,,
+prob_808,A,,
+prob_1714,C,1500.0,"constructive algorithms,math"
+prob_1055,D,1750.0,"data structures,dfs and similar,graphs,trees"
+prob_3464,D,2000.0,dp
+prob_3635,A,,
+prob_5008,B,1000.0,"binary search,data structures"
+prob_6478,A,,
+prob_2698,B,,
+prob_3022,B,1000.0,"implementation,math"
+prob_2059,C,1250.0,"dp,implementation"
+prob_127,A,500.0,implementation
+prob_3038,A,500.0,implementation
+prob_502,D,2000.0,"binary search,greedy"
+prob_1045,D,,
+prob_5534,B,,
+prob_1568,I,,
+prob_2931,A,,
+prob_2744,I,,
+prob_1217,G,,
+prob_2764,D,,
+prob_464,E,2500.0,"dp,games"
+prob_4355,B,1000.0,"2-sat,brute force,graph matchings,greedy,implementation"
+prob_4,D,,"*special,implementation"
+prob_6364,F,2500.0,combinatorics
+prob_3426,E,3000.0,"dp,graph matchings,greedy"
+prob_2840,E,2500.0,"dfs and similar,graphs"
+prob_4064,E,2500.0,"constructive algorithms,dfs and similar,flows,graphs,greedy"
+prob_11,B,1000.0,"implementation,math"
+prob_5853,D,,
+prob_157,C,1500.0,"brute force,constructive algorithms"
+prob_2601,E,2500.0,"data structures,divide and conquer"
+prob_4115,C,,
+prob_4491,E,,
+prob_5442,A,500.0,dp
+prob_2805,B,1000.0,"graphs,sortings"
+prob_4433,F,,
+prob_6189,D,2000.0,"brute force,combinatorics,dfs and similar,math"
+prob_4497,F,,
+prob_4451,I,,
+prob_4939,C,1750.0,binary search
+prob_3824,I,,
+prob_2099,D,2500.0,"constructive algorithms,graphs,greedy"
+prob_4269,K,,
+prob_1360,C,,
+prob_2218,B,1250.0,"data structures,dfs and similar,trees"
+prob_1942,C,1500.0,"dp,greedy,number theory"
+prob_786,C,1500.0,"brute force,dp,strings"
+prob_2995,D,2500.0,"combinatorics,graphs"
+prob_6265,A,500.0,constructive algorithms
+prob_1066,C,1000.0,data structures
+prob_887,A,500.0,"constructive algorithms,greedy"
+prob_1138,,30.0,greedy
+prob_6193,J,,
+prob_1536,D,2000.0,"data structures,dfs and similar,graphs,shortest paths"
+prob_5171,A,,
+prob_3440,A,500.0,"implementation,math"
+prob_6536,D,2000.0,"binary search,greedy,sortings"
+prob_6109,C,,"combinatorics,math"
+prob_6255,D,2000.0,"combinatorics,probabilities"
+prob_2782,F,,
+prob_2479,B,,
+prob_523,B,1000.0,sortings
+prob_690,B,,"constructive algorithms,greedy,implementation"
+prob_3230,F,,"data structures,divide and conquer,geometry"
+prob_3071,E,,
+prob_1154,B,,"data structures,math"
+prob_3466,H,,
+prob_6148,F,1500.0,"hashing,string suffix structures,strings"
+prob_311,D,2000.0,"greedy,implementation,math"
+prob_1648,B,,implementation
+prob_3403,B,1000.0,"greedy,math"
+prob_2770,C,,
+prob_224,C,,"data structures,implementation"
+prob_2793,A,,
+prob_5834,G,,
+prob_4183,C,,
+prob_3043,J,,"divide and conquer,geometry,sortings"
+prob_4752,D,1750.0,meet-in-the-middle
+prob_3568,A,500.0,implementation
+prob_1521,J,,
+prob_2182,A,,
+prob_6006,J,,
+prob_2455,A,500.0,"brute force,implementation"
+prob_983,J,,
+prob_5226,D,,
+prob_879,A,500.0,"dfs and similar,dp,graphs,trees"
+prob_4419,D,,
+prob_5868,A,,
+prob_5680,D,,
+prob_3683,B,1000.0,"dp,greedy"
+prob_5948,B,,dp
+prob_4429,C,1500.0,"data structures,dp,math"
+prob_2025,D,2000.0,"constructive algorithms,dp,greedy"
+prob_4030,D,,
+prob_5850,C,2000.0,games
+prob_4191,I,,
+prob_1163,A,,
+prob_4218,F,,
+prob_5788,D,2000.0,"dp,greedy,probabilities"
+prob_6385,D,2000.0,"dfs and similar,dp,trees"
+prob_1591,F,,
+prob_3451,E,,
+prob_5263,K,,
+prob_693,C,1500.0,"dp,implementation,two pointers"
+prob_4993,C,1500.0,dp
+prob_2476,B,,
+prob_4220,C,1500.0,implementation
+prob_4430,E,2500.0,
+prob_5079,D,,
+prob_5696,D,2000.0,
+prob_2948,C,,"sortings,strings"
+prob_5080,A,500.0,"data structures,greedy"
+prob_2574,E,,
+prob_4969,M,,
+prob_2086,B,,
+prob_4946,C,1500.0,"dfs and similar,graphs,sortings"
+prob_1819,J,,
+prob_4178,A,,
+prob_5147,J,,
+prob_2852,G,,"binary search,data structures"
+prob_1813,L,,
+prob_4851,A,,
+prob_3509,L,,
+prob_4104,B,1000.0,expression parsing
+prob_622,C,,
+prob_302,D,2250.0,"dfs and similar,dp,hashing,math,number theory"
+prob_4131,E,,
+prob_5527,D,3000.0,"data structures,trees"
+prob_600,D,2000.0,"brute force,combinatorics,dfs and similar,graphs"
+prob_2983,E,2500.0,"combinatorics,dp"
+prob_4199,J,,
+prob_5525,K,,
+prob_2926,F,,
+prob_5548,G,,
+prob_2006,D,2000.0,"graphs,greedy"
+prob_1960,A,500.0,"greedy,implementation"
+prob_5904,A,500.0,implementation
+prob_3889,B,1000.0,greedy
+prob_2320,B,1000.0,"brute force,implementation"
+prob_3867,A,500.0,"implementation,strings"
+prob_5489,E,3000.0,"binary search,data structures,dfs and similar,trees"
+prob_3330,H,,
+prob_470,E,,
+prob_2752,B,1000.0,"brute force,constructive algorithms,greedy,strings"
+prob_5066,K,,
+prob_4180,B,,
+prob_5174,A,500.0,implementation
+prob_4658,A,500.0,"combinatorics,math"
+prob_872,,,
+prob_1936,K,,
+prob_5870,A,,
+prob_5318,E,2500.0,"divide and conquer,dp"
+prob_4624,E,,
+prob_4611,E,,
+prob_3467,L,,
+prob_5698,C,,data structures
+prob_6477,G,3250.0,"bitmasks,combinatorics,dp"
+prob_3375,A,,
+prob_3436,F,,
+prob_6365,B,,"*special,implementation"
+prob_6483,E,2500.0,"brute force,graphs,math,meet-in-the-middle"
+prob_4859,A,500.0,implementation
+prob_552,E,2500.0,"constructive algorithms,greedy"
+prob_1178,A,,implementation
+prob_2232,J,,"hashing,implementation,strings"
+prob_3559,D,2000.0,"data structures,hashing,trees"
+prob_4327,B,1000.0,"brute force,greedy,implementation"
+prob_2211,D,,
+prob_5018,E,2500.0,dp
+prob_3941,C,2000.0,"binary search,brute force,greedy,math"
+prob_4342,G,,
+prob_1271,B,,
+prob_5825,F,,
+prob_5593,D,2000.0,"greedy,implementation"
+prob_1585,B,,*special
+prob_481,E,2500.0,"data structures,dp,greedy,hashing,math"
+prob_2551,F,,
+prob_3414,D,2000.0,"math,sortings"
+prob_2705,F,,
+prob_5934,A,500.0,implementation
+prob_165,E,,
+prob_4279,C,1500.0,"binary search,geometry"
+prob_5308,D,2000.0,"dp,number theory"
+prob_4626,C,1500.0,"binary search,data structures"
+prob_1708,E,2500.0,"combinatorics,constructive algorithms,graphs"
+prob_3073,J,,
+prob_4623,C,1500.0,"binary search,number theory"
+prob_5000,C,1500.0,"brute force,dp"
+prob_4282,G,,
+prob_118,E,,
+prob_2955,H,,
+prob_3379,C,1500.0,"chinese remainder theorem,geometry"
+prob_3996,E,2500.0,"dp,math,probabilities"
+prob_2723,C,1500.0,games
+prob_3445,B,1000.0,"binary search,bitmasks,constructive algorithms,implementation"
+prob_5622,D,2000.0,"data structures,flows"
+prob_3590,G,,
+prob_6032,B,1000.0,"brute force,greedy,implementation,sortings"
+prob_1267,A,,
+prob_1852,A,,
+prob_1598,C,1500.0,"dp,implementation"
+prob_3629,F,,
+prob_4678,E,,
+prob_886,E,2500.0,"dsu,graphs,shortest paths"
+prob_278,D,2000.0,"dp,strings"
+prob_2568,C,,
+prob_2248,E,3000.0,"math,number theory"
+prob_1795,K,,
+prob_5827,D,1750.0,"dp,math,probabilities"
+prob_4652,A,250.0,"geometry,math"
+prob_2480,F,,"*special,implementation"
+prob_223,B,,
+prob_4047,B,,"greedy,implementation,sortings"
+prob_1734,B,1000.0,"brute force,math"
+prob_5919,J,,
+prob_2868,A,500.0,math
+prob_3076,I,,
+prob_310,I,,
+prob_5991,E,,
+prob_657,D,,
+prob_3904,,,
+prob_4048,C,1000.0,"greedy,math"
+prob_1769,H,,
+prob_4409,D,,
+prob_3153,C,,
+prob_3478,C,,
+prob_327,C,,
+prob_3950,K,,
+prob_3730,F,,
+prob_4783,A,500.0,"greedy,implementation"
+prob_2659,E,,
+prob_1405,G,,
+prob_5488,B,1500.0,"brute force,implementation"
+prob_4532,E,,
+prob_3905,C,1000.0,"brute force,dp,math"
+prob_4219,I,,
+prob_3226,D,2500.0,dp
+prob_1720,L,,
+prob_740,A,500.0,"binary search,brute force,dp,greedy,sortings"
+prob_4032,B,1000.0,"dp,math,probabilities"
+prob_2675,A,,
+prob_731,I,,
+prob_3001,A,,brute force
+prob_319,A,,"brute force,implementation"
+prob_5617,C,,
+prob_5207,A,500.0,implementation
+prob_4509,B,,
+prob_698,D,2000.0,"dfs and similar,graphs,implementation"
+prob_4477,K,,
+prob_6527,E,,
+prob_2620,B,1000.0,implementation
+prob_3791,A,,
+prob_429,C,1500.0,"greedy,implementation"
+prob_5839,B,1000.0,"brute force,constructive algorithms,greedy,math"
+prob_5896,D,2250.0,binary search
+prob_5480,D,2000.0,"2-sat,dfs and similar,dsu,graphs"
+prob_2943,E,2500.0,"dp,math,number theory"
+prob_37,C,1500.0,"math,strings"
+prob_6256,F,,
+prob_5103,C,1750.0,"brute force,dp,two pointers"
+prob_6306,B,1000.0,"binary search,implementation"
+prob_4890,I,,
+prob_6062,A,500.0,"implementation,math"
+prob_4339,E,2500.0,"data structures,sortings,strings"
+prob_1670,G,,
+prob_6047,B,,
+prob_6133,B,1000.0,"greedy,implementation,sortings"
+prob_3114,D,2000.0,"bitmasks,dfs and similar,dp"
+prob_5345,C,,
+prob_2937,G,2750.0,data structures
+prob_4687,D,2000.0,data structures
+prob_5577,F,3000.0,"brute force,math,number theory"
+prob_940,C,2000.0,"constructive algorithms,dfs and similar,dsu,greedy,number theory,sortings,strings"
+prob_4642,B,1000.0,"bitmasks,constructive algorithms,graphs,implementation,math"
+prob_1002,A,500.0,"greedy,implementation"
+prob_5398,J,,
+prob_3405,H,,
+prob_5379,C,,
+prob_3660,D,,
+prob_406,L,,
+prob_4087,C,1500.0,"brute force,constructive algorithms,implementation,number theory"
+prob_4966,C,,
+prob_5278,F,,
+prob_3741,J,,
+prob_2418,E,,
+prob_331,D,,
+prob_5003,A,,
+prob_5251,A,,
+prob_4728,A,,
+prob_4155,D,,
+prob_2069,,,
+prob_3934,J,,
+prob_2134,D,,
+prob_798,B,,
+prob_1473,E,3000.0,"brute force,dp,greedy"
+prob_5272,E,2000.0,"binary search,dp"
+prob_1027,D,2000.0,"brute force,math"
+prob_3402,D,,
+prob_5024,E,,
+prob_4356,I,,
+prob_5603,H,,
+prob_2293,F,,
+prob_2701,A,,"implementation,math"
+prob_5925,D,,geometry
+prob_6215,E,2500.0,data structures
+prob_5468,D,2000.0,"constructive algorithms,geometry"
+prob_5343,A,,"*special,constructive algorithms"
+prob_4875,B,,
+prob_1106,F,,
+prob_1731,D,,
+prob_3389,A,500.0,brute force
+prob_4205,F,,
+prob_2689,B,1000.0,"greedy,implementation"
+prob_3313,B,,
+prob_1844,C,1500.0,"data structures,implementation"
+prob_2677,B,,
+prob_629,E,,
+prob_2681,E,2500.0,"dfs and similar,dp,trees"
+prob_6220,K,,
+prob_2147,,,geometry
+prob_5221,E,3000.0,"flows,graphs,shortest paths"
+prob_337,M,,
+prob_2678,I,,data structures
+prob_4112,B,500.0,"games,greedy,implementation"
+prob_6050,C,1500.0,"binary search,brute force,data structures,strings"
+prob_5712,F,,
+prob_1229,B,,
+prob_2019,C,2000.0,"constructive algorithms,greedy"
+prob_966,E,2500.0,"geometry,ternary search"
+prob_3070,A,500.0,"implementation,math"
+prob_1880,A,500.0,"implementation,math"
+prob_2041,D,,
+prob_175,I,,
+prob_3633,D,,
+prob_684,B,1000.0,"binary search,implementation"
+prob_5305,A,500.0,"brute force,strings"
+prob_1337,D,2000.0,"brute force,data structures,greedy,sortings"
+prob_6539,B,1000.0,"brute force,dfs and similar"
+prob_734,G,,
+prob_6172,D,,
+prob_2065,B,1000.0,"implementation,math"
+prob_2362,C,1500.0,"greedy,implementation"
+prob_3922,B,,
+prob_546,I,,
+prob_5005,D,2000.0,"binary search,data structures"
+prob_449,A,500.0,implementation
+prob_2383,B,1000.0,"greedy,sortings"
+prob_1029,D,,
+prob_160,G,,data structures
+prob_4697,A,,
+prob_4525,A,,
+prob_4984,D,,
+prob_3507,G,,
+prob_2407,D,,
+prob_4054,A,500.0,"brute force,dfs and similar,dsu,graphs"
+prob_4463,C,2500.0,math
+prob_1564,G,,
+prob_5874,C,,
+prob_416,,,
+prob_2663,C,1500.0,"dfs and similar,graphs,trees"
+prob_3962,A,,*special
+prob_4648,K,,
+prob_4188,D,1500.0,"binary search,brute force,expression parsing,implementation"
+prob_3512,L,,
+prob_4482,I,,
+prob_5526,F,,
+prob_3085,B,1000.0,"constructive algorithms,dp"
+prob_679,E,,
+prob_5951,E,,
+prob_5533,L,,
+prob_3814,I,,
+prob_719,A,500.0,implementation
+prob_2528,C,1250.0,"binary search,dp,greedy,two pointers"
+prob_645,G,,
+prob_4544,A,500.0,"greedy,implementation"
+prob_4416,C,1250.0,"brute force,greedy,math"
+prob_4668,E,2000.0,"bitmasks,brute force,fft,math"
+prob_3531,C,,
+prob_3150,L,,
+prob_527,D,2000.0,"data structures,implementation"
+prob_5970,A,500.0,"implementation,sortings"
+prob_1664,H,,
+prob_3020,C,1500.0,"dp,matrices"
+prob_1643,E,,
+prob_1969,A,,
+prob_3316,E,,
+prob_3397,A,500.0,implementation
+prob_1939,F,,
+prob_104,J,,
+prob_2863,A,500.0,
+prob_1097,E,,
+prob_5976,C,,
+prob_1062,H,,
+prob_372,D,,
+prob_2201,B,,
+prob_6046,E,,
+prob_6473,C,,
+prob_1687,B,1000.0,"implementation,strings"
+prob_2984,D,,
+prob_1004,L,,
+prob_1349,A,,
+prob_222,B,,
+prob_3896,B,,
+prob_4462,E,,
+prob_5566,A,,
+prob_1840,K,,
+prob_1678,F,,
+prob_17,E,2500.0,dfs and similar
+prob_5201,H,,
+prob_2258,E,,
+prob_6425,B,,
+prob_1896,A,500.0,implementation
+prob_2018,B,1000.0,"greedy,sortings"
+prob_2686,B,1000.0,"binary search,brute force,math,number theory"
+prob_857,C,1500.0,greedy
+prob_632,B,1000.0,"binary search,greedy,implementation,sortings"
+prob_4869,F,,
+prob_3546,L,,
+prob_4377,F,,combinatorics
+prob_4944,E,2500.0,"dp,matrices"
+prob_3011,D,2000.0,data structures
+prob_4695,H,,
+prob_3396,K,,
+prob_5670,,11.0,
+prob_1333,F,,
+prob_4995,C,1500.0,"greedy,sortings"
+prob_5388,F,,
+prob_1519,C,1500.0,constructive algorithms
+prob_3834,F,,
+prob_4637,E,2000.0,data structures
+prob_4333,A,,
+prob_2788,C,1500.0,"brute force,constructive algorithms"
+prob_2640,C,1500.0,"brute force,dp,strings"
+prob_2607,E,,
+prob_694,A,500.0,"data structures,implementation"
+prob_5779,E,,
+prob_3630,A,500.0,implementation
+prob_1237,B,1000.0,implementation
+prob_2687,,,trees
+prob_1510,B,1000.0,geometry
+prob_1149,D,1750.0,"binary search,constructive algorithms,greedy"
+prob_6389,D,,
+prob_1932,D,2000.0,"combinatorics,dfs and similar,graphs,math"
+prob_1207,D,2000.0,"binary search,data structures,dfs and similar,trees,two pointers"
+prob_3374,G,,
+prob_2346,F,,
+prob_963,B,1000.0,sortings
+prob_1865,A,,
+prob_4145,B,,
+prob_949,H,,
+prob_1752,I,,
+prob_4258,D,,
+prob_5386,H,,
+prob_1448,E,,
+prob_3548,A,500.0,implementation
+prob_5448,B,,
+prob_3176,F,,
+prob_3102,D,,
+prob_3339,B,,
+prob_4437,I,,
+prob_4093,A,500.0,"binary search,brute force,math"
+prob_3637,B,,
+prob_5300,C,2000.0,"brute force,combinatorics"
+prob_3935,C,1000.0,"greedy,sortings"
+prob_5852,D,2000.0,"dp,implementation"
+prob_3382,D,,"*special,implementation"
+prob_5551,E,2500.0,data structures
+prob_3145,A,,
+prob_1610,G,,
+prob_2709,A,,
+prob_6171,C,,"binary search,dp,two pointers"
+prob_3914,F,3000.0,dp
+prob_1807,A,500.0,implementation
+prob_2449,B,,
+prob_386,H,,
+prob_5897,A,,
+prob_147,C,1750.0,"bitmasks,dp"
+prob_4559,C,1500.0,"expression parsing,implementation"
+prob_2299,A,,
+prob_6238,F,,
+prob_3201,L,,
+prob_1531,I,,
+prob_853,C,1500.0,dp
+prob_5985,B,1000.0,"binary search,data structures,greedy,sortings"
+prob_3990,E,2500.0,"data structures,greedy,sortings"
+prob_2979,C,1000.0,"greedy,implementation"
+prob_3526,B,1000.0,"bitmasks,brute force"
+prob_4381,D,2000.0,"geometry,math,probabilities,two pointers"
+prob_4627,L,,
+prob_590,D,,"dfs and similar,dsu"
+prob_3650,B,500.0,"dp,greedy"
+prob_1387,C,1000.0,"constructive algorithms,dsu,graphs,greedy"
+prob_5818,G,,
+prob_1614,I,,
+prob_512,A,,
+prob_962,D,,
+prob_5913,H,,
+prob_542,C,1500.0,greedy
+prob_303,D,,
+prob_4761,D,,
+prob_4550,C,1500.0,"combinatorics,divide and conquer,dp"
+prob_5519,A,500.0,"greedy,implementation"
+prob_119,E,,
+prob_29,A,,"implementation,sortings"
+prob_509,F,,
+prob_5597,C,,
+prob_340,E,2500.0,"combinatorics,graphs,matrices"
+prob_1826,M,,
+prob_4037,D,2000.0,"bitmasks,combinatorics,dp,implementation,meet-in-the-middle"
+prob_621,E,2500.0,"binary search,data structures"
+prob_4828,B,,
+prob_2058,C,1500.0,"data structures,implementation"
+prob_3223,C,,
+prob_3338,H,,
+prob_3841,C,,
+prob_560,K,,
+prob_2197,G,,
+prob_529,B,,"brute force,constructive algorithms"
+prob_6406,D,2500.0,"dp,matrices"
+prob_4010,E,,"*special,brute force"
+prob_4762,D,2000.0,"data structures,implementation"
+prob_3949,K,,
+prob_2605,A,500.0,"brute force,graphs,math"
+prob_3053,G,,
+prob_2302,D,,
+prob_5205,A,500.0,"bitmasks,brute force,implementation"
+prob_5668,D,,
+prob_345,J,,
+prob_1777,C,1500.0,dp
+prob_2467,A,,
+prob_6101,B,1000.0,"brute force,strings"
+prob_4389,C,1500.0,"dfs and similar,dp,trees"
+prob_5504,A,,strings
+prob_5360,I,,
+prob_1831,N,,
+prob_5544,C,1500.0,"dfs and similar,graphs"
+prob_2365,K,,
+prob_2107,E,2500.0,"dfs and similar,graphs,hashing,shortest paths"
+prob_5871,A,500.0,"brute force,implementation"
+prob_6443,C,2000.0,"binary search,geometry"
+prob_1522,K,,
+prob_2424,D,2000.0,"geometry,graphs,shortest paths,sortings"
+prob_5724,D,,
+prob_4517,C,,
+prob_4242,C,1500.0,"implementation,math"
+prob_5443,E,2000.0,"games,greedy"
+prob_1354,D,2000.0,
+prob_6019,E,2500.0,"geometry,shortest paths"
+prob_4813,I,,
+prob_5277,C,1500.0,"brute force,geometry,math"
+prob_4718,G,,
+prob_2452,C,1500.0,"brute force,constructive algorithms,greedy"
+prob_2410,D,,*special
+prob_381,A,500.0,"brute force,implementation"
+prob_6408,E,3000.0,"data structures,math"
+prob_216,A,500.0,implementation
+prob_6023,A,500.0,"brute force,implementation"
+prob_129,N,,
+prob_4023,A,,
+prob_1605,C,,"brute force,implementation"
+prob_3566,C,1500.0,"binary search,brute force,number theory"
+prob_2227,C,1500.0,"brute force,implementation"
+prob_6499,D,,"data structures,sortings"
+prob_2506,G,,"dfs and similar,math"
+prob_5725,B,1000.0,"binary search,implementation"
+prob_934,F,,*special
+prob_5623,A,500.0,implementation
+prob_2755,E,2500.0,"brute force,implementation,math"
+prob_4705,D,2000.0,"hashing,trees"
+prob_4769,D,2500.0,graphs
+prob_5659,A,,
+prob_2632,D,,
+prob_2587,C,,
+prob_3819,C,1500.0,"bitmasks,dp,probabilities"
+prob_5315,D,2000.0,"dfs and similar,dp,dsu,implementation,sortings,trees"
+prob_506,B,1000.0,"data structures,implementation,math"
+prob_1604,B,,
+prob_3161,B,,
+prob_3930,B,,
+prob_5627,H,,
+prob_1992,B,1000.0,"dp,greedy,number theory"
+prob_3172,H,,"*special,implementation"
+prob_1266,D,2000.0,"binary search,data structures"
+prob_3131,A,500.0,implementation
+prob_2703,E,2500.0,"data structures,sortings"
+prob_4074,A,,
+prob_4466,C,1500.0,"combinatorics,dp,math,number theory"
+prob_5215,A,500.0,"greedy,math"
+prob_4994,D,2000.0,greedy
+prob_3815,A,500.0,"implementation,sortings"
+prob_6206,E,2250.0,"combinatorics,math,number theory"
+prob_793,D,,
+prob_571,K,,
+prob_230,A,,
+prob_5109,D,,
+prob_6112,G,,
+prob_3915,D,1750.0,"dp,greedy,strings"
+prob_780,A,500.0,brute force
+prob_5687,D,2500.0,"data structures,greedy"
+prob_624,A,,*special
+prob_2,G,,
+prob_3631,B,,
+prob_1906,B,1000.0,"binary search,data structures,number theory"
+prob_2036,I,,
+prob_1851,B,,
+prob_176,G,,
+prob_4843,B,,
+prob_5403,D,2000.0,"data structures,divide and conquer,geometry"
+prob_3832,E,2000.0,"binary search,brute force,greedy,implementation"
+prob_648,E,,*special
+prob_3715,C,,
+prob_6030,B,2500.0,"binary search,math"
+prob_6359,C,,
+prob_306,H,,
+prob_4221,A,,
+prob_6502,C,,
+prob_5020,C,1500.0,"data structures,dfs and similar,sortings"
+prob_972,B,1000.0,"data structures,dp"
+prob_2970,B,,
+prob_535,K,,
+prob_5713,A,500.0,implementation
+prob_401,B,1000.0,"geometry,sortings"
+prob_199,D,1500.0,implementation
+prob_5576,B,1000.0,geometry
+prob_588,D,2500.0,data structures
+prob_842,C,1500.0,"constructive algorithms,dfs and similar,graphs"
+prob_4983,H,,
+prob_2327,G,,
+prob_4956,B,,
+prob_2028,F,,
+prob_6221,E,2500.0,"data structures,flows,graphs,trees"
+prob_5701,F,,
+prob_1422,C,,
+prob_1243,C,,
+prob_5369,B,1500.0,"combinatorics,dp"
+prob_6345,A,500.0,dfs and similar
+prob_1816,I,,
+prob_6487,D,1500.0,"dp,games"
+prob_2729,E,,
+prob_2282,B,1000.0,greedy
+prob_1567,B,,
+prob_2150,I,,
+prob_3049,E,,
+prob_4797,B,1000.0,"dp,probabilities"
+prob_829,G,,
+prob_1280,C,,
+prob_229,D,1500.0,
+prob_5822,L,,
+prob_412,E,,
+prob_3391,F,,
+prob_505,E,2500.0,"2-sat,dfs and similar,dsu,graphs"
+prob_5910,H,,
+prob_4000,D,,
+prob_6056,A,500.0,"brute force,implementation"
+prob_6119,B,500.0,strings
+prob_3736,K,,
+prob_5887,I,,
+prob_364,I,,
+prob_4942,D,2000.0,"bitmasks,dp"
+prob_1498,D,2000.0,math
+prob_5993,E,,
+prob_1909,B,1000.0,"brute force,implementation,math"
+prob_3152,B,,
+prob_1985,I,,
+prob_4655,A,,
+prob_3789,H,,
+prob_1455,F,,
+prob_2259,D,,
+prob_803,I,,
+prob_305,D,2000.0,"data structures,dp,greedy,implementation,math,trees"
+prob_2163,B,500.0,"binary search,data structures,shortest paths"
+prob_996,M,,
+prob_6469,E,2500.0,"binary search,dp,two pointers"
+prob_61,E,,
+prob_5064,E,2750.0,
+prob_4663,E,3000.0,"constructive algorithms,dfs and similar,geometry"
+prob_1108,B,500.0,two pointers
+prob_3180,C,,
+prob_102,A,,
+prob_133,D,1750.0,"constructive algorithms,greedy,trees"
+prob_4192,C,1500.0,"bitmasks,constructive algorithms,dp,greedy,trees"
+prob_2807,,,
+prob_344,C,,
+prob_6008,E,2500.0,"binary search,dsu,geometry,graphs,sortings"
+prob_5268,E,2500.0,"combinatorics,dfs and similar,trees"
+prob_2315,I,,
+prob_3538,A,,
+prob_5755,E,3000.0,"data structures,string suffix structures"
+prob_5914,E,2500.0,"data structures,implementation"
+prob_5243,A,,
+prob_3094,F,,
+prob_436,B,,
+prob_162,C,1500.0,"brute force,dfs and similar"
+prob_768,K,,
+prob_5355,B,1000.0,"brute force,greedy,implementation"
+prob_1087,E,2250.0,"dp,sortings"
+prob_6045,D,2000.0,"math,number theory,probabilities"
+prob_5555,C,1500.0,"implementation,math"
+prob_1499,A,,
+prob_6520,C,,
+prob_5604,B,1000.0,"brute force,dfs and similar,graphs"
+prob_6262,E,,
+prob_1426,B,1000.0,implementation
+prob_5454,C,1500.0,"brute force,dp,greedy"
+prob_5138,A,,greedy
+prob_2878,G,,
+prob_3473,L,,
+prob_4450,J,,
+prob_5252,D,,
+prob_2989,E,2500.0,"dfs and similar,hashing,strings"
+prob_4084,F,,*special
+prob_4524,C,,
+prob_5371,L,,
+prob_732,G,3500.0,"combinatorics,divide and conquer,dp,fft,math,number theory"
+prob_717,A,500.0,"implementation,math"
+prob_5121,C,1500.0,"data structures,divide and conquer"
+prob_5301,A,,
+prob_4686,K,,
+prob_1234,E,2500.0,"dfs and similar,graphs"
+prob_3939,A,,
+prob_6228,A,500.0,"implementation,strings"
+prob_4313,A,500.0,"implementation,strings"
+prob_2395,D,,
+prob_39,E,2500.0,combinatorics
+prob_6292,A,500.0,"dp,implementation"
+prob_3008,G,,
+prob_3067,B,1250.0,"combinatorics,data structures,dp,two pointers"
+prob_2462,A,,
+prob_2517,H,,
+prob_3037,B,1000.0,"binary search,math"
+prob_2268,D,2000.0,dp
+prob_2820,C,,
+prob_1729,G,3000.0,"constructive algorithms,math,sortings"
+prob_1577,C,1500.0,"dfs and similar,graphs,two pointers"
+prob_4246,I,,
+prob_387,C,1500.0,flows
+prob_5256,G,,
+prob_3959,J,,math
+prob_6354,D,,
+prob_1684,A,500.0,"constructive algorithms,sortings"
+prob_1113,C,1500.0,"dfs and similar,dp,graphs,implementation"
+prob_3734,D,2000.0,"constructive algorithms,dfs and similar,graphs"
+prob_599,C,1000.0,"greedy,implementation,sortings"
+prob_2316,E,2750.0,data structures
+prob_5618,B,,
+prob_6334,C,1500.0,combinatorics
+prob_5037,D,,
+prob_6518,C,,geometry
+prob_606,B,,
+prob_217,E,2500.0,"data structures,trees"
+prob_2785,A,,implementation
+prob_1244,A,,"*special,implementation"
+prob_4925,D,,
+prob_1025,M,,
+prob_778,C,1500.0,math
+prob_6495,A,500.0,"dp,math"
+prob_2655,A,,
+prob_1751,G,,
+prob_439,A,500.0,implementation
+prob_3982,,,
+prob_455,I,,
+prob_1675,B,1000.0,"greedy,math,number theory"
+prob_3760,A,500.0,"brute force,implementation,math"
+prob_3830,A,500.0,math
+prob_2866,A,500.0,implementation
+prob_254,B,750.0,"constructive algorithms,graphs,trees"
+prob_3250,E,2500.0,"data structures,string suffix structures"
+prob_2303,E,,
+prob_2175,F,,
+prob_4583,C,1500.0,math
+prob_5998,C,1750.0,"geometry,implementation"
+prob_827,E,,
+prob_6132,I,,
+prob_5282,E,2500.0,"bitmasks,dfs and similar,dp,games,implementation"
+prob_5558,B,,brute force
+prob_3246,A,,
+prob_4640,J,,
+prob_4088,B,,
+prob_541,J,,
+prob_2676,C,2500.0,"dfs and similar,implementation"
+prob_1748,,,
+prob_797,J,,
+prob_458,A,,
+prob_3755,J,,
+prob_2188,E,,
+prob_5860,C,1500.0,data structures
+prob_2537,F,,
+prob_5440,D,,
+prob_3674,B,1000.0,"implementation,math"
+prob_2239,C,1500.0,number theory
+prob_6442,B,,
+prob_2122,E,3000.0,"binary search,dfs and similar,hashing,string suffix structures,trees"
+prob_558,C,1750.0,"binary search,implementation,math"
+prob_2253,D,,
+prob_967,C,,
+prob_1509,E,2500.0,"bitmasks,dp"
+prob_6260,D,,
+prob_3968,H,,
+prob_1174,B,,
+prob_6162,A,,
+prob_5421,I,,
+prob_3245,L,,
+prob_4373,A,,
+prob_4949,C,,
+prob_3673,D,2000.0,"constructive algorithms,graphs,implementation"
+prob_1071,E,,
+prob_6304,A,500.0,"implementation,math,number theory"
+prob_1690,G,,
+prob_3287,E,2500.0,"data structures,divide and conquer,trees"
+prob_2950,B,1000.0,implementation
+prob_4304,E,,"data structures,dsu"
+prob_4207,E,,
+prob_849,G,,implementation
+prob_2522,L,,
+prob_1746,B,,
+prob_2911,D,1500.0,"geometry,ternary search,two pointers"
+prob_2374,C,1500.0,"binary search,brute force,data structures,dp,two pointers"
+prob_4162,E,,
+prob_3278,D,,
+prob_2216,A,500.0,"implementation,strings"
+prob_4488,C,1500.0,"combinatorics,number theory"
+prob_5492,B,1000.0,greedy
+prob_2445,E,2500.0,"data structures,dfs and similar,trees"
+prob_521,H,,
+prob_4960,H,,
+prob_3802,G,,data structures
+prob_2930,D,,
+prob_6085,B,,
+prob_4129,I,,
+prob_65,G,,*special
+prob_5083,B,1000.0,greedy
+prob_1622,F,3000.0,"binary search,geometry,two pointers"
+prob_5387,B,,
+prob_4924,L,,
+prob_33,B,,
+prob_4452,A,500.0,implementation
+prob_2083,C,1500.0,"binary search,number theory,two pointers"
+prob_4046,E,2500.0,geometry
+prob_5578,B,500.0,"brute force,strings"
+prob_6513,B,,
+prob_2888,E,,
+prob_1907,B,1000.0,"implementation,math"
+prob_4307,J,,
+prob_1741,A,500.0,implementation
+prob_6529,A,,
+prob_3850,A,,"*special,brute force,ternary search"
+prob_3208,H,,
+prob_5804,A,500.0,implementation
+prob_725,F,,
+prob_1927,A,500.0,implementation
+prob_5944,,,
+prob_3164,A,,
+prob_5982,C,1250.0,data structures
+prob_1603,E,2500.0,"combinatorics,dp,fft,math"
+prob_1345,J,,
+prob_1215,F,2500.0,"brute force,data structures,math,sortings"
+prob_2824,A,500.0,math
+prob_5582,C,,
+prob_6541,D,,
+prob_834,F,,"bitmasks,combinatorics,number theory"
+prob_330,A,500.0,implementation
+prob_1404,F,,
+prob_1764,D,2000.0,"dp,graphs"
+prob_5905,D,2000.0,data structures
+prob_3901,E,750.0,
+prob_267,B,,
+prob_5467,A,,
+prob_1871,H,,
+prob_5027,B,1000.0,implementation
+prob_5052,F,,
+prob_3670,B,1250.0,"dp,graphs,greedy"
+prob_2692,J,,
+prob_2014,A,,
+prob_4022,E,2500.0,"constructive algorithms,graphs"
+prob_2668,E,,"bitmasks,dp,probabilities"
+prob_995,A,,
+prob_1328,B,,
+prob_3685,C,1500.0,"constructive algorithms,dfs and similar,graphs"
+prob_1232,D,,
+prob_5410,B,1250.0,"dp,matrices"
+prob_214,E,2500.0,"math,matrices"
+prob_3492,B,,
+prob_4792,G,,
+prob_2717,B,,
+prob_929,B,1000.0,implementation
+prob_4099,D,2000.0,"constructive algorithms,math"
+prob_3368,A,,
+prob_6485,K,,
+prob_1081,D,2500.0,"data structures,graphs,trees"
+prob_192,G,,
+prob_6525,H,,
+prob_4020,B,1500.0,"data structures,greedy,implementation"
+prob_6370,B,1000.0,math
+prob_3218,B,,
+prob_6377,G,,
+prob_5060,G,,
+prob_2103,D,2500.0,math
+prob_5192,C,,*special
+prob_484,B,,
+prob_5236,C,,
+prob_3387,F,,
+prob_47,A,,
+prob_2433,C,1500.0,"binary search,dp,greedy,implementation"
+prob_4986,A,1000.0,"greedy,math"
+prob_5656,B,1000.0,"combinatorics,dp,math"
+prob_4280,A,500.0,implementation
+prob_6342,E,,
+prob_3931,,,
+prob_6320,J,,
+prob_3919,H,,
+prob_1832,D,,
+prob_2990,F,,
+prob_5321,K,,
+prob_4142,C,1500.0,"brute force,two pointers"
+prob_5217,C,1500.0,
+prob_371,D,,"brute force,implementation"
+prob_4802,B,1500.0,implementation
+prob_4649,A,,
+prob_1800,E,,dp
+prob_1078,B,1000.0,"implementation,sortings"
+prob_5101,E,2500.0,"combinatorics,data structures,math"
+prob_2499,A,500.0,"brute force,implementation"
+prob_4547,B,1000.0,constructive algorithms
+prob_1949,B,1000.0,
+prob_2837,H,,
+prob_2137,E,2500.0,"constructive algorithms,dp,dsu,graphs"
+prob_3849,A,,
+prob_1362,E,2500.0,"data structures,divide and conquer,dp"
+prob_1183,A,500.0,"data structures,implementation,trees"
+prob_1176,B,,"math,number theory"
+prob_2947,B,,
+prob_4571,D,,
+prob_5947,B,,
+prob_4961,C,,"binary search,two pointers"
+prob_2055,G,,
+prob_3971,A,500.0,math
+prob_5102,C,,
+prob_5513,B,1000.0,math
+prob_5737,B,1000.0,"data structures,implementation"
+prob_2457,F,,
+prob_4570,A,,implementation
+prob_4732,B,,
+prob_4887,B,,*special
+prob_5988,E,2250.0,"dp,math,probabilities,trees"
+prob_5120,H,,
+prob_2573,A,,
+prob_3607,A,500.0,"implementation,math"
+prob_4600,I,,
+prob_4105,A,500.0,"binary search,brute force"
+prob_490,B,1000.0,constructive algorithms
+prob_1166,C,1500.0,"dp,probabilities"
+prob_469,B,1000.0,math
+prob_801,E,2500.0,geometry
+prob_3775,A,,
+prob_5786,H,,
+prob_461,B,1000.0,"expression parsing,greedy,strings"
+prob_5674,I,,
+prob_2756,A,500.0,implementation
+prob_2222,F,,
+prob_3828,A,500.0,implementation
+prob_5424,H,,
+prob_1056,F,,
+prob_5841,M,,
+prob_3909,K,,
+prob_2501,A,500.0,"constructive algorithms,number theory"
+prob_5813,K,,
+prob_3845,I,,
+prob_1723,C,,
+prob_5030,C,,"brute force,games,implementation"
+prob_5750,B,,"brute force,math"
+prob_4109,K,,
+prob_156,E,2500.0,"dfs and similar,dp,graphs"
+prob_3812,,,
+prob_92,D,,
+prob_4943,F,,
+prob_3013,A,,
+prob_5973,J,,
+prob_2747,B,1000.0,greedy
+prob_5393,B,1000.0,greedy
+prob_5958,B,1000.0,"brute force,constructive algorithms,implementation"
+prob_2542,E,2250.0,"binary search,dp,hashing,string suffix structures"
+prob_700,E,,
+prob_4746,E,,
+prob_1491,B,1000.0,implementation
+prob_2561,H,,
+prob_2508,D,1750.0,dp
+prob_4383,B,,
+prob_1189,F,3000.0,"bitmasks,dp,hashing,meet-in-the-middle"
+prob_2430,D,,
+prob_3648,B,,
+prob_727,B,,
+prob_1386,I,,
+prob_4412,I,,
+prob_266,B,,
+prob_782,D,,
+prob_1303,D,,
+prob_3835,C,1500.0,"dfs and similar,graphs"
+prob_138,C,,
+prob_3733,D,2000.0,"dfs and similar,graphs,greedy,sortings"
+prob_706,F,,
+prob_3321,G,,
+prob_6124,D,,
+prob_5391,A,500.0,"brute force,math"
+prob_3,B,1000.0,binary search
+prob_6440,C,1500.0,games
+prob_4460,B,1500.0,"greedy,math,probabilities"
+prob_3140,F,2750.0,data structures
+prob_545,C,1500.0,"dp,greedy,implementation"
+prob_5684,C,1500.0,"data structures,dp"
+prob_105,G,,
+prob_2425,G,,
+prob_6188,B,,
+prob_1245,H,,
+prob_5537,J,,
+prob_701,C,1500.0,"implementation,sortings"
+prob_2341,D,,
+prob_5098,K,,"brute force,math"
+prob_2900,E,2500.0,constructive algorithms
+prob_5741,C,,dfs and similar
+prob_2056,D,2000.0,"brute force,dfs and similar,implementation"
+prob_1815,A,500.0,"greedy,implementation"
+prob_4157,J,,
+prob_54,B,1000.0,implementation
+prob_2193,,,
+prob_4856,C,1500.0,data structures
+prob_2611,A,500.0,"greedy,implementation,two pointers"
+prob_1260,E,,
+prob_6514,D,2000.0,"bitmasks,combinatorics,dp"
+prob_2109,C,,two pointers
+prob_2827,F,,
+prob_2804,B,1000.0,implementation
+prob_294,G,,
+prob_6151,G,,
+prob_351,D,2000.0,"geometry,probabilities"
+prob_5777,C,,
+prob_3296,B,,
+prob_5564,E,2500.0,data structures
+prob_4646,C,,
+prob_5884,D,2500.0,"binary search,brute force,data structures,math,two pointers"
+prob_4005,C,1500.0,"constructive algorithms,greedy"
+prob_3770,B,1000.0,"binary search,graphs,matrices"
+prob_3596,B,,
+prob_5385,E,,
+prob_6353,A,,
+prob_2902,C,,
+prob_6409,D,,"binary search,two pointers"
+prob_5505,I,,
+prob_3577,F,,"constructive algorithms,math"
+prob_4846,A,,
+prob_4772,D,3000.0,"data structures,greedy,hashing,strings"
+prob_3075,D,,
+prob_4252,L,,
+prob_4589,F,,
+prob_538,C,,
+prob_4001,B,1000.0,"brute force,dp,implementation"
+prob_4474,A,,
+prob_3763,E,2500.0,"dp,matrices"
+prob_1726,E,2500.0,greedy
+prob_5092,A,,
+prob_4439,A,,
+prob_1860,A,,implementation
+prob_3906,G,,
+prob_1226,D,,
+prob_1996,E,3000.0,"combinatorics,dp,probabilities"
+prob_5556,B,,
+prob_4179,H,,"*special,expression parsing,implementation"
+prob_4244,B,,
+prob_3765,A,,
+prob_150,E,,
+prob_6356,E,,
+prob_41,E,2500.0,dfs and similar
+prob_3119,J,,
+prob_3023,E,2500.0,graphs
+prob_1828,J,,
+prob_566,E,2000.0,greedy
+prob_1447,A,500.0,implementation
+prob_4700,F,3000.0,"data structures,divide and conquer"
+prob_1781,I,,
+prob_3769,H,,
+prob_5487,C,1500.0,constructive algorithms
+prob_1218,A,500.0,"greedy,sortings"
+prob_3687,C,,
+prob_262,H,,
+prob_4165,K,,
+prob_835,B,,
+prob_5858,B,,sortings
+prob_4853,C,1500.0,"constructive algorithms,math"
+prob_5662,I,,
+prob_446,D,2000.0,"combinatorics,math,sortings"
+prob_2643,K,,
+prob_68,A,500.0,"implementation,strings"
+prob_6415,J,,
+prob_913,F,,
+prob_2072,F,,
+prob_2707,I,,
+prob_2819,E,2500.0,"dp,matrices"
+prob_6089,D,2000.0,"binary search,data structures,trees"
+prob_5142,M,,
+prob_975,A,,"brute force,implementation,strings"
+prob_4650,G,,
+prob_2436,L,,
+prob_3078,C,1500.0,"brute force,math"
+prob_1487,B,,
+prob_3384,G,,
+prob_1806,H,,
+prob_2576,D,,
+prob_3306,D,2000.0,"bitmasks,brute force,dp"
+prob_3091,K,,
+prob_5752,B,,"games,greedy"
+prob_3599,G,,
+prob_2319,A,,
+prob_935,E,1500.0,dp
+prob_5202,J,,
+prob_3272,D,2000.0,"binary search,data structures,greedy,sortings,two pointers"
+prob_3087,E,2500.0,games
+prob_2618,M,,
+prob_251,E,3000.0,"binary search,constructive algorithms,data structures"
+prob_5230,G,,
+prob_3753,C,1500.0,greedy
+prob_5136,D,,
+prob_901,C,1500.0,dp
+prob_3319,L,,
+prob_833,G,,
+prob_1794,A,,
+prob_2286,F,,
+prob_867,G,3000.0,"bitmasks,data structures,dfs and similar"
+prob_4102,E,2250.0,"constructive algorithms,divide and conquer"
+prob_2485,,30.0,"brute force,dfs and similar"
+prob_2484,D,2000.0,constructive algorithms
+prob_507,B,,
+prob_931,D,2000.0,"dp,math,matrices"
+prob_5164,L,,
+prob_4551,J,,
+prob_2529,D,2000.0,number theory
+prob_5677,D,2000.0,math
+prob_1203,I,,
+prob_639,G,,
+prob_4531,B,500.0,"binary search,combinatorics,constructive algorithms,implementation,math"
+prob_2359,D,2000.0,"dp,implementation"
+prob_2313,B,,
+prob_3019,C,,"dp,greedy,math,number theory"
+prob_3474,B,1000.0,"constructive algorithms,implementation,sortings"
+prob_2235,A,,*special
+prob_2976,E,2500.0,"graphs,shortest paths"
+prob_6257,J,,
+prob_4400,A,500.0,implementation
+prob_4404,D,2000.0,"binary search,flows"
+prob_6136,B,1000.0,"combinatorics,math"
+prob_2823,B,1000.0,shortest paths
+prob_358,D,2000.0,"dp,math,probabilities"
+prob_1524,B,,"brute force,implementation,math"
+prob_5997,A,,
+prob_3134,E,2500.0,"dp,flows"
+prob_5974,C,1500.0,"brute force,implementation,math"
+prob_6137,I,,
+prob_6464,A,,
+prob_4094,D,,"dp,sortings"
+prob_2342,D,2000.0,greedy
+prob_6332,D,2000.0,"binary search,data structures,dfs and similar,graph matchings,graphs"
+prob_296,E,,
+prob_6333,J,,
+prob_2826,G,,implementation
+prob_1638,G,,
+prob_3719,I,,
+prob_1126,A,500.0,implementation
+prob_5395,A,,
+prob_2380,G,,
+prob_3731,E,,"dfs and similar,dsu,trees"
+prob_2657,D,,
+prob_1576,A,,
+prob_928,B,,"brute force,geometry,implementation"
+prob_2627,C,2000.0,constructive algorithms
+prob_1804,C,1500.0,"brute force,implementation"
+prob_6011,A,,
+prob_4724,A,500.0,"greedy,sortings"
+prob_3739,A,500.0,"brute force,implementation"
+prob_2603,A,,
+prob_3183,C,,
+prob_3100,G,,
+prob_5894,G,,*special
+prob_712,A,,
+prob_2208,C,,
+prob_4902,B,1000.0,data structures
+prob_301,B,,implementation
+prob_6399,A,500.0,implementation
+prob_6373,E,2250.0,"constructive algorithms,implementation,math,trees"
+prob_1607,M,,"greedy,sortings"
+prob_3227,A,,
+prob_4511,I,,
+prob_3888,B,1000.0,"brute force,math"
+prob_3593,C,,
+prob_1990,A,500.0,"implementation,math"
+prob_4734,B,1000.0,"binary search,data structures,games,greedy,sortings"
+prob_2082,C,1500.0,"data structures,greedy,sortings"
+prob_6117,E,2250.0,flows
+prob_3790,A,500.0,"brute force,greedy,implementation"
+prob_355,B,1000.0,strings
+prob_5363,A,500.0,geometry
+prob_854,B,1000.0,"constructive algorithms,implementation"
+prob_1656,D,2000.0,"binary search,dp,two pointers"
+prob_1618,A,500.0,implementation
+prob_2088,C,,
+prob_4003,K,,
+prob_5726,B,750.0,"constructive algorithms,strings"
+prob_5614,,,
+prob_543,D,,
+prob_2870,C,,
+prob_1263,A,500.0,"implementation,strings"
+prob_2821,F,,
+prob_4295,B,1000.0,"brute force,greedy,implementation,math,strings"
+prob_6146,D,2000.0,data structures
+prob_5411,B,1000.0,"brute force,strings"
+prob_3215,A,500.0,"implementation,strings"
+prob_840,A,500.0,"implementation,strings"
+prob_5208,A,500.0,implementation
+prob_5459,B,1500.0,"binary search,implementation,sortings,two pointers"
+prob_1212,B,,
+prob_2044,H,,
+prob_155,E,,
+prob_3271,B,,
+prob_3251,F,,"binary search,flows,greedy"
+prob_2656,E,1500.0,"data structures,dfs and similar,dsu,graphs,greedy"
+prob_82,D,2000.0,"data structures,trees"
+prob_2323,D,,
+prob_1933,G,3500.0,"bitmasks,data structures,fft"
+prob_2334,A,500.0,"brute force,implementation"
+prob_5061,B,,
+prob_2435,I,,
+prob_4894,B,,
+prob_5961,D,1500.0,"brute force,dp,hashing,strings"
+prob_2535,C,,
+prob_5170,D,2000.0,"combinatorics,dp,probabilities"
+prob_4061,B,,
+prob_4735,C,,
+prob_1513,B,,
+prob_3347,B,1000.0,"data structures,dp,implementation,sortings"
+prob_4916,C,1500.0,dp
+prob_6350,A,,
+prob_2133,A,,
+prob_607,A,500.0,implementation
+prob_195,C,,implementation
+prob_3743,E,,
+prob_6512,E,3000.0,"string suffix structures,strings"
+prob_2368,C,,
+prob_5560,F,,
+prob_5416,H,,
+prob_6391,B,,
+prob_2091,D,,
+prob_3694,H,,
+prob_3641,A,500.0,implementation
+prob_2509,A,,
+prob_3354,A,,sortings
+prob_4050,B,,
+prob_2521,I,,
+prob_5114,C,3000.0,"brute force,implementation"
+prob_5774,D,,
+prob_5950,I,,
+prob_2727,A,,
+prob_794,J,,
+prob_6241,B,1000.0,"graphs,shortest paths"
+prob_5012,G,,
+prob_1282,B,1000.0,"dp,greedy"
+prob_4294,B,,
+prob_241,C,,
+prob_1935,A,500.0,implementation
+prob_5916,F,2750.0,"binary search,geometry,two pointers"
+prob_2382,E,,"data structures,graphs,greedy"
+prob_202,B,1000.0,"dp,expression parsing,graphs,implementation"
+prob_5866,B,1000.0,"brute force,two pointers"
+prob_2497,C,1500.0,"binary search,brute force,dp,math,strings,two pointers"
+prob_574,A,500.0,"brute force,geometry,implementation"
+prob_4921,D,,
+prob_6411,J,,
+prob_3869,E,,"binary search,data structures"
+prob_1545,F,,
+prob_2354,C,,
+prob_1627,F,,
+prob_1762,E,2500.0,"constructive algorithms,flows,greedy"
+prob_5173,D,2000.0,"dp,math"
+prob_2737,G,,
+prob_4158,C,,
+prob_4328,D,2000.0,"bitmasks,dp,geometry"
+prob_5907,C,1250.0,number theory
+prob_1760,H,,
+prob_253,E,2500.0,"dfs and similar,dsu,graphs"
+prob_1787,A,500.0,"brute force,implementation"
+prob_285,H,,
+prob_923,C,,
+prob_2263,E,2500.0,"dp,implementation,math"
+prob_1161,,70.0,implementation
+prob_5872,D,2000.0,"brute force,implementation,math"
+prob_3839,F,,
+prob_1341,F,,
+prob_4863,A,500.0,"implementation,math"
+prob_3065,D,2250.0,"implementation,shortest paths"
+prob_3221,E,,
+prob_2899,J,,
+prob_4480,J,,
+prob_4067,K,,
+prob_5933,,,
+prob_4809,D,2000.0,brute force
+prob_5033,B,,
+prob_6015,,,
+prob_2094,A,500.0,number theory
+prob_421,A,500.0,"implementation,strings"
+prob_4696,G,,
+prob_3754,B,500.0,"constructive algorithms,graph matchings,implementation,shortest paths"
+prob_1193,B,,
+prob_2267,I,,
+prob_32,B,500.0,"constructive algorithms,greedy"
+prob_1038,F,,
+prob_6278,I,,
+prob_2291,A,500.0,"constructive algorithms,greedy"
+prob_2886,E,2500.0,
+prob_3108,G,,
+prob_5333,A,500.0,"brute force,dp"
+prob_2441,F,,
+prob_1034,A,,
+prob_1242,C,,
+prob_1321,,,
+prob_2651,F,,
+prob_4740,H,,
+prob_5219,H,,
+prob_3394,G,,
+prob_4555,C,1500.0,"constructive algorithms,greedy,sortings"
+prob_2763,G,,
+prob_1350,B,,
+prob_4764,C,1500.0,"math,sortings"
+prob_5781,A,500.0,"implementation,math"
+prob_4795,B,,
+prob_4031,I,,
+prob_5801,B,1000.0,"dp,greedy"
+prob_5573,E,2500.0,"dp,matrices"
+prob_5882,F,,
+prob_3341,E,,
+prob_3315,I,,
+prob_5836,A,500.0,"implementation,math"
+prob_3617,C,1250.0,"constructive algorithms,divide and conquer,geometry,greedy,sortings"
+prob_800,,,
+prob_6210,C,1500.0,shortest paths
+prob_4578,C,1500.0,"dsu,graphs,greedy,trees"
+prob_5545,E,2500.0,"data structures,dp,greedy"
+prob_2765,G,,
+prob_2466,D,2000.0,"data structures,strings"
+prob_5462,C,3000.0,"data structures,greedy"
+prob_2093,C,,"geometry,implementation,math"
+prob_3151,E,,
+prob_5790,C,,
+prob_2363,A,500.0,implementation
+prob_2700,H,,
+prob_100,B,,
+prob_2531,D,2000.0,data structures
+prob_141,A,500.0,math
+prob_1546,L,,
+prob_4286,B,1000.0,"bitmasks,brute force,dp"
+prob_5859,B,1000.0,"dfs and similar,shortest paths"
+prob_2555,C,,
+prob_1685,E,,
+prob_153,A,,
+prob_3779,J,,
+prob_3310,D,,
+prob_2210,D,,
+prob_3689,I,,
+prob_1848,B,1000.0,"brute force,greedy,two pointers"
+prob_751,I,,
+prob_4408,C,1500.0,"implementation,math,sortings"
+prob_3784,A,,
+prob_3536,I,,
+prob_2427,L,,
+prob_2470,B,1000.0,"math,number theory"
+prob_257,E,2500.0,
+prob_3092,B,1250.0,"dp,graphs"
+prob_762,H,,
+prob_5731,A,,"implementation,math,number theory"
+prob_299,B,,
+prob_6181,C,,
+prob_2855,B,500.0,implementation
+prob_3423,G,,
+prob_3260,D,3000.0,"data structures,dfs and similar,dsu,graphs,greedy"
+prob_6488,D,2000.0,dp
+prob_4057,K,,
+prob_635,N,,
+prob_4291,D,1500.0,"constructive algorithms,flows,greedy"
+prob_6437,G,,
+prob_2200,E,2500.0,"dfs and similar,dsu,graphs,trees"
+prob_4132,B,1000.0,"games,math"
+prob_3010,C,,
+prob_1652,H,,
+prob_2431,E,,
+prob_4215,E,,
+prob_6267,D,2000.0,"string suffix structures,strings"
+prob_84,K,,
+prob_1539,A,,
+prob_1982,F,,
+prob_1583,B,1000.0,"binary search,greedy"
+prob_3057,,,
+prob_369,G,,
+prob_4185,I,,
+prob_1297,E,,dp
+prob_1272,A,500.0,"binary search,combinatorics,two pointers"
+prob_1956,K,,
+prob_6471,E,3000.0,"constructive algorithms,greedy,implementation"
+prob_6190,A,500.0,"constructive algorithms,implementation"
+prob_5987,E,,
+prob_2560,H,,
+prob_4574,C,1500.0,"combinatorics,math"
+prob_2277,H,,
+prob_3891,E,,constructive algorithms
+prob_2748,B,,
+prob_3292,H,,
+prob_5407,H,,
+prob_3058,F,,
+prob_3711,I,,greedy
+prob_938,A,500.0,"brute force,math"
+prob_3557,E,,math
+prob_5118,A,,
+prob_4825,B,1000.0,greedy
+prob_4401,E,,
+prob_4874,C,1500.0,"expression parsing,implementation,sortings,strings"
+prob_2245,A,500.0,implementation
+prob_5765,D,1750.0,"hashing,string suffix structures,strings"
+prob_4226,F,,"data structures,geometry"
+prob_4366,F,2750.0,"data structures,graphs,shortest paths"
+prob_377,I,,
+prob_2963,I,,
+prob_5979,C,1500.0,"games,greedy,sortings"
+prob_5241,E,,
+prob_321,B,,
+prob_4712,J,,
+prob_1601,B,,
+prob_3327,K,,
+prob_3163,I,,"*special,dp"
+prob_1369,B,,
+prob_6077,L,,
+prob_3404,D,1250.0,"greedy,two pointers"
+prob_53,C,1500.0,"binary search,data structures,math"
+prob_1592,A,500.0,"brute force,number theory"
+prob_3157,E,2500.0,"data structures,dfs and similar,trees"
+prob_2564,D,,
+prob_2257,A,1000.0,implementation
+prob_5319,,1000.0,
+prob_6252,E,2500.0,math
+prob_2089,E,,
+prob_5328,E,2500.0,"dfs and similar,greedy,trees"
+prob_761,B,1000.0,"dfs and similar,dp,trees"
+prob_1296,C,,
+prob_612,A,,math
+prob_200,I,,"*special,implementation"
+prob_360,C,1500.0,sortings
+prob_6194,I,,
+prob_1040,D,,
+prob_2387,E,2500.0,"graph matchings,strings"
+prob_2307,E,3000.0,dfs and similar
+prob_2526,B,1000.0,"implementation,math"
+prob_6016,C,1500.0,"brute force,implementation"
+prob_3640,A,,implementation
+prob_1846,B,1000.0,"binary search,data structures,dp"
+prob_2760,F,,
+prob_3932,C,,
+prob_4399,E,2000.0,"graph matchings,graphs,greedy,schedules"
+prob_3863,A,,
+prob_4632,E,,
+prob_2178,A,,
+prob_6299,A,,
+prob_1107,A,,
+prob_885,A,,*special
+prob_881,D,2000.0,"bitmasks,dp"
+prob_5006,J,,
+prob_2477,A,,
+prob_3366,E,2000.0,"dp,sortings"
+prob_6374,E,,"dfs and similar,dsu,graphs,trees"
+prob_3489,C,,
+prob_1330,G,,
+prob_1072,B,,
+prob_5502,G,,
+prob_925,A,,
+prob_1878,A,500.0,brute force
+prob_5715,C,,
+prob_6022,A,,
+prob_3149,A,500.0,"combinatorics,math"
+prob_5401,B,,
+prob_5458,B,,
+prob_4388,E,,
+prob_379,A,,"greedy,implementation,sortings"
+prob_3286,A,500.0,"implementation,sortings"
+prob_5229,C,,
+prob_120,C,,
+prob_2141,E,,
+prob_4616,C,,"dp,implementation"
+prob_1784,C,1500.0,greedy
+prob_3129,B,500.0,math
+prob_3807,J,,
+prob_3621,E,2500.0,"dfs and similar,implementation"
+prob_4276,F,,
+prob_397,C,1500.0,"brute force,dp"
+prob_1158,B,,
+prob_3539,C,,
+prob_4661,B,1000.0,"constructive algorithms,implementation"
+prob_5408,F,,
+prob_5816,B,,
+prob_4278,A,500.0,"implementation,math"
+prob_1817,B,1000.0,"geometry,math"
+prob_576,D,,
+prob_122,G,,
+prob_3337,F,,
+prob_5986,J,,
+prob_6361,A,,
+prob_988,B,1000.0,constructive algorithms
+prob_3388,D,2000.0,"data structures,dfs and similar,implementation"
+prob_3798,L,,
+prob_1231,E,,implementation
+prob_5631,A,,"brute force,constructive algorithms"
+prob_494,C,1500.0,"constructive algorithms,dp,math"
+prob_5175,A,500.0,"binary search,greedy,strings"
+prob_6070,C,1500.0,"brute force,greedy,sortings,strings"
+prob_4364,B,,"brute force,greedy"
+prob_2422,E,2500.0,"data structures,dp"
+prob_5307,E,,
+prob_4501,A,500.0,strings
+prob_742,A,500.0,sortings
+prob_6240,F,,
+prob_6526,C,,
+prob_6145,B,,
+prob_575,H,,
+prob_3495,I,,"brute force,dfs and similar,graphs,trees"
+prob_112,A,500.0,greedy
+prob_6161,B,,
+prob_5635,A,500.0,implementation
+prob_4204,C,,
+prob_856,H,,
+prob_6013,J,,
+prob_272,B,,"dfs and similar,flows"
+prob_3147,J,,
+prob_95,A,500.0,implementation
+prob_4260,B,750.0,implementation
+prob_1469,E,,"dp,expression parsing,implementation"
+prob_3533,J,,
+prob_2073,B,,
+prob_889,A,1000.0,math
+prob_1838,D,2000.0,"greedy,sortings"
+prob_198,D,,
+prob_194,E,2500.0,"binary search,data structures"
+prob_3411,D,2000.0,dfs and similar
+prob_1496,J,,
+prob_688,D,2000.0,"data structures,greedy,hashing,strings"
+prob_52,D,,
+prob_876,I,,
+prob_4704,E,3000.0,"brute force,data structures,dp"
+prob_2469,F,,
+prob_4526,G,,combinatorics
+prob_4039,A,,implementation
+prob_3916,E,,math
+prob_2967,H,,
+prob_1779,C,,
+prob_277,L,,
+prob_2505,A,,
+prob_402,C,1500.0,"graphs,greedy,shortest paths"
+prob_4548,C,,
+prob_875,J,,
+prob_1559,A,500.0,"implementation,strings"
+prob_4081,E,,
+prob_6051,B,,
+prob_4562,B,1000.0,implementation
+prob_3572,D,,
+prob_6330,J,,
+prob_2548,,,
+prob_154,H,,*special
+prob_107,E,,
+prob_1836,B,1000.0,"greedy,hashing,implementation"
+prob_669,B,,
+prob_6251,B,,
+prob_5007,C,,
+prob_1198,E,2500.0,"geometry,schedules,sortings"
+prob_4360,C,1500.0,"binary search,geometry"
+prob_1790,C,,*special
+prob_2119,E,2500.0,"data structures,graphs,shortest paths"
+prob_1032,B,,
+prob_4502,B,1000.0,"binary search,brute force,implementation,two pointers"
+prob_5929,B,1000.0,implementation
+prob_6160,A,1000.0,"constructive algorithms,implementation,math"
+prob_4182,C,,
+prob_4689,A,500.0,"brute force,implementation"
+prob_4245,A,500.0,"brute force,constructive algorithms"
+prob_1965,F,2500.0,dp
+prob_1629,H,,
+prob_51,B,1000.0,"dfs and similar,graphs,greedy,implementation,math,shortest paths"
+prob_1269,F,,
+prob_1465,E,2500.0,"binary search,brute force,data structures"
+prob_563,E,,
+prob_5062,A,500.0,implementation
+prob_3190,E,,
+prob_2002,A,500.0,implementation
+prob_5639,J,,
+prob_2593,A,500.0,"constructive algorithms,implementation,math"
+prob_5438,D,2000.0,"dp,matrices"
+prob_5812,F,2500.0,"bitmasks,data structures,greedy"
+prob_3276,C,1750.0,
+prob_1336,E,2750.0,data structures
+prob_813,A,,
+prob_1862,H,,implementation
+prob_3291,E,2500.0,"bitmasks,data structures"
+prob_3409,C,,brute force
+prob_5546,A,,
+prob_1132,B,,
+prob_5727,E,,
+prob_4478,I,,
+prob_274,J,,
+prob_5002,A,,
+prob_4266,D,2000.0,"dfs and similar,dp,math,trees"
+prob_6061,B,,
+prob_3312,E,,
+prob_5633,K,,
+prob_5517,B,,greedy
+prob_2918,D,2000.0,"binary search,dp,trees"
+prob_2403,C,1500.0,"dfs and similar,graphs,greedy,trees"
+prob_1895,A,,
+prob_2118,F,2500.0,trees
+prob_997,B,1000.0,"bitmasks,brute force,implementation"
+prob_4281,E,,constructive algorithms
+prob_802,A,500.0,implementation
+prob_908,D,,
+prob_5073,D,2000.0,"binary search,brute force,dfs and similar,dp,sortings,trees"
+prob_1343,B,,
+prob_353,E,1000.0,dp
+prob_4148,A,,
+prob_3710,A,500.0,"greedy,math"
+prob_5766,K,,
+prob_3072,D,,
+prob_5169,E,,
+prob_2494,D,2000.0,"brute force,dp,meet-in-the-middle"
+prob_894,D,1500.0,data structures
+prob_6358,N,,
+prob_4476,E,2000.0,"combinatorics,dp"
+prob_233,J,,
+prob_5323,F,,
+prob_1868,A,500.0,"implementation,strings"
+prob_5798,H,,
+prob_5512,J,,
+prob_4950,E,2500.0,"binary search,data structures,probabilities,two pointers"
+prob_4475,B,1000.0,"brute force,dfs and similar,graphs,hashing"
+prob_668,A,500.0,"brute force,constructive algorithms,math"
+prob_186,D,,"dp,implementation"
+prob_3418,B,,
+prob_404,E,2500.0,"brute force,math,matrices"
+prob_3468,B,1500.0,"dp,implementation,sortings"
+prob_3167,G,,
+prob_5465,I,,
+prob_88,B,1000.0,"binary search,data structures,sortings"
+prob_5347,J,,
+prob_2811,A,,
+prob_5322,H,,
+prob_2997,D,,
+prob_4594,A,500.0,"implementation,math,number theory"
+prob_4257,J,,
+prob_3044,A,,
+prob_3646,A,500.0,"constructive algorithms,implementation"
+prob_625,I,,
+prob_1030,D,2000.0,flows
+prob_1383,B,1000.0,"dfs and similar,dsu,graphs,greedy,math,sortings"
+prob_2511,,,
+prob_3797,B,,implementation
+prob_4446,J,,
+prob_5720,B,1000.0,shortest paths
+prob_5045,A,500.0,implementation
+prob_2242,K,,
+prob_4135,B,1000.0,"math,probabilities"
+prob_2209,I,,
+prob_6261,F,,
+prob_2166,D,2000.0,"matrices,probabilities"
+prob_907,I,,
+prob_1219,A,,
+prob_5273,E,2500.0,"greedy,implementation"
+prob_5040,E,2250.0,"binary search,constructive algorithms"
+prob_6503,B,1000.0,"brute force,implementation"
+prob_8,E,,
+prob_5966,B,1000.0,implementation
+prob_468,F,2750.0,"dfs and similar,dp,trees"
+prob_309,B,,
+prob_2023,E,2500.0,"bitmasks,dp"
+prob_492,E,2500.0,"constructive algorithms,graphs,greedy"
+prob_3816,A,,
+prob_212,C,,
+prob_643,B,1000.0,"binary search,implementation,math"
+prob_161,F,,
+prob_918,E,2500.0,"brute force,data structures,dp,greedy,sortings"
+prob_4083,B,1000.0,"geometry,math"
+prob_3344,C,1000.0,"binary search,bitmasks,greedy"
+prob_5672,B,1000.0,"brute force,geometry"
+prob_2356,B,1000.0,"brute force,implementation"
+prob_5271,J,,
+prob_4422,D,2000.0,brute force
+prob_3050,A,500.0,"implementation,math"
+prob_2992,E,2500.0,"combinatorics,divide and conquer,dp"
+prob_3501,D,,
+prob_6470,B,1000.0,math
+prob_6479,A,,*special
+prob_5238,H,,
+prob_3838,D,,"greedy,strings"
+prob_5046,G,,
+prob_2486,D,2000.0,"data structures,number theory"
+prob_5220,D,,
+prob_2048,C,1500.0,constructive algorithms
+prob_2388,J,,
+prob_5581,G,,
+prob_764,G,,
+prob_2079,D,,
+prob_4147,A,,implementation
+prob_6404,F,,data structures
+prob_4507,B,,"dfs and similar,trees"
+prob_6397,B,1000.0,implementation
+prob_1744,D,,
+prob_2292,C,,
+prob_1173,E,2500.0,"brute force,dp,expression parsing,greedy,implementation"
+prob_1017,D,,
+prob_4737,B,,
+prob_135,A,,
+prob_3624,H,,
+prob_3609,B,1000.0,implementation
+prob_747,E,,
+prob_1534,G,,*special
+prob_874,G,,
+prob_6383,D,,
+prob_637,K,,
+prob_830,D,,
+prob_674,B,,math
+prob_3393,E,3000.0,"dfs and similar,graphs,trees"
+prob_4577,E,,
+prob_3454,D,,
+prob_136,M,,
+prob_6196,B,1000.0,"math,number theory"
+prob_3759,H,,
+prob_3552,K,,
+prob_3462,A,500.0,math
+prob_713,A,250.0,"dfs and similar,dsu,graphs"
+prob_1187,F,,
+prob_3081,H,,
+prob_5857,F,,
+prob_1118,D,,
+prob_4385,K,,
+prob_796,B,,
+prob_1612,E,2500.0,"data structures,greedy,two pointers"
+prob_2638,A,500.0,implementation
+prob_137,B,1000.0,implementation
+prob_1344,E,,
+prob_1322,B,1000.0,"dfs and similar,shortest paths"
+prob_342,D,2000.0,"dp,string suffix structures,strings"
+prob_250,E,,
+prob_2289,H,,
+prob_1006,H,,
+prob_6516,D,,
+prob_4097,F,,"*special,brute force,number theory"
+prob_665,D,,
+prob_4776,A,,
+prob_4909,D,2000.0,"binary search,data structures,dp"
+prob_1776,C,1500.0,"brute force,geometry,greedy"
+prob_4928,C,1500.0,dp
+prob_804,B,,
+prob_4744,L,,
+prob_1092,B,,
+prob_2127,J,,
+prob_4656,B,1000.0,"implementation,number theory"
+prob_6507,B,1000.0,strings
+prob_1011,,,
+prob_4036,D,2000.0,data structures
+prob_3958,B,,
+prob_2156,F,3250.0,data structures
+prob_4837,C,2000.0,greedy
+prob_4625,C,1500.0,implementation
+prob_2204,A,,
+prob_4076,B,1000.0,"binary search,dp,greedy,two pointers"
+prob_4448,E,,
+prob_5168,,30.0,"constructive algorithms,dfs and similar,implementation"
+prob_4699,J,,
+prob_5455,G,,
+prob_5851,H,,
+prob_90,B,1000.0,"binary search,greedy,math"
+prob_708,I,,
+prob_2419,C,,
+prob_3452,E,,
+prob_4891,A,1000.0,dp
+prob_1,A,,
+prob_489,A,500.0,"brute force,implementation"
+prob_4977,A,500.0,"binary search,constructive algorithms,greedy"
+prob_5969,C,1500.0,"brute force,data structures,dfs and similar,trees"
+prob_6310,E,2500.0,"data structures,hashing,string suffix structures,strings"
+prob_773,N,,"binary search,flows"
+prob_615,B,,
+prob_2423,G,,
+prob_298,E,2500.0,brute force
+prob_231,A,500.0,"brute force,number theory,sortings"
+prob_4755,B,3000.0,data structures
+prob_870,E,2250.0,"dp,number theory"
+prob_6250,C,1500.0,greedy
+prob_5150,C,1500.0,greedy
+prob_3480,D,1750.0,"greedy,implementation,sortings"
+prob_1574,D,2000.0,"data structures,dp"
+prob_2016,F,,
+prob_5482,D,1000.0,"brute force,hashing,implementation,math,strings"
+prob_2280,G,,
+prob_3894,A,500.0,implementation
+prob_1959,E,,
+prob_91,I,,
+prob_4456,D,2000.0,"data structures,hashing,string suffix structures,strings"
+prob_2115,F,,
+prob_883,B,1000.0,"brute force,constructive algorithms,geometry,trees"
+prob_1575,M,,
+prob_2279,J,,
+prob_5350,D,,"binary search,geometry"
+prob_1492,A,,
+prob_6177,D,,
+prob_3831,C,,
+prob_5362,C,1500.0,"implementation,math"
+prob_2146,C,,greedy
+prob_5054,A,,"math,matrices"
+prob_3104,L,,"dfs and similar,dp,math,trees"
+prob_6175,C,1500.0,"brute force,number theory"
+prob_3263,G,,
+prob_1532,B,1000.0,"greedy,implementation,sortings,two pointers"
+prob_499,J,,
+prob_5010,F,,"binary search,brute force,combinatorics,math,matrices"
+prob_2738,F,,
+prob_2269,C,1000.0,"implementation,sortings"
+prob_4644,C,,
+prob_3444,F,,
+prob_4664,E,,
+prob_2377,B,1000.0,implementation
+prob_6444,I,,
+prob_4127,E,,
+prob_314,B,,implementation
+prob_4539,H,,
+prob_2132,B,,implementation
+prob_5055,K,,
+prob_1704,C,1500.0,brute force
+prob_5197,C,,
+prob_1456,A,,"brute force,implementation"
+prob_2406,G,,
+prob_114,A,500.0,greedy
+prob_4169,J,,
+prob_4314,C,,
+prob_1698,B,,"combinatorics,sortings"
+prob_4285,A,,
+prob_2372,B,1000.0,"binary search,implementation"
+prob_4935,K,,
+prob_4193,D,1750.0,"binary search,dp"
+prob_5179,B,1000.0,"dp,shortest paths"
+prob_3785,G,,
+prob_5470,F,,
+prob_1041,D,2000.0,"binary search,implementation,math,sortings"
+prob_1415,F,,
+prob_2634,A,,
+prob_6185,B,,
+prob_3574,B,1000.0,"dp,number theory"
+prob_3786,F,,
+prob_4872,F,,
+prob_1461,,4.0,greedy
+prob_3256,I,,
+prob_769,G,,
+prob_3933,B,,"*special,implementation"
+prob_5483,I,,
+prob_1689,A,,"brute force,math"
+prob_4844,L,,
+prob_3193,A,,
+prob_4014,B,1000.0,"implementation,strings"
+prob_5721,A,500.0,math
+prob_771,F,,
+prob_4967,C,,"constructive algorithms,greedy"
+prob_1377,N,,math
+prob_4748,B,1000.0,"brute force,data structures,hashing,strings"
+prob_5233,H,,
+prob_6476,F,,
+prob_851,I,,
+prob_5011,B,,
+prob_5664,B,1500.0,"combinatorics,constructive algorithms,greedy,implementation,math,sortings"
+prob_1399,H,,
+prob_3781,B,1000.0,implementation
+prob_5303,F,,"binary search,data structures,trees"
+prob_293,K,,
+prob_2887,J,,
+prob_3450,H,,
+prob_2347,C,,
+prob_3898,A,,
+prob_6329,E,2500.0,"brute force,math"
+prob_5796,B,1000.0,math
+prob_1991,C,1500.0,"binary search,brute force,greedy,implementation,math"
+prob_1841,A,,
+prob_3921,I,,
+prob_4021,D,2000.0,"dp,hashing"
+prob_3729,D,,
+prob_3855,C,,
+prob_3691,C,,
+prob_2708,G,3500.0,"data structures,divide and conquer,graphs,trees"
+prob_5939,K,,
+prob_3608,A,500.0,"brute force,greedy,implementation"
+prob_6005,C,,
+prob_2961,B,,"*special,implementation,strings"
+prob_4483,G,,
+prob_6167,E,2500.0,data structures
+prob_998,H,,
+prob_394,E,2500.0,"dp,dsu,graphs"
+prob_2986,D,,
+prob_710,A,,
+prob_4923,C,,
+prob_2534,E,2500.0,"bitmasks,data structures,trees"
+prob_2650,G,,
+prob_772,H,,
+prob_3030,G,,
+prob_6197,B,1000.0,"brute force,implementation"
+prob_5601,B,1000.0,implementation
+prob_2832,F,,
+prob_428,A,,
+prob_2021,D,,
+prob_1116,G,,"dfs and similar,shortest paths"
+prob_3938,G,,
+prob_3159,G,,
+prob_1814,I,,
+prob_356,D,2000.0,"dfs and similar,trees"
+prob_110,D,2500.0,"math,number theory"
+prob_196,B,1000.0,games
+prob_1888,K,,
+prob_4807,L,,
+prob_823,C,,
+prob_3787,E,3000.0,math
+prob_437,D,2000.0,games
+prob_3399,C,1500.0,"dfs and similar,divide and conquer"
+prob_791,B,1000.0,"binary search,dp,two pointers"
+prob_6216,G,,
+prob_3117,F,,
+prob_1882,A,,
+prob_3783,L,,
+prob_2772,B,1000.0,brute force
+prob_3504,K,,
+prob_6297,A,500.0,implementation
+prob_3912,C,,
+prob_4004,D,,
+prob_4006,L,,
+prob_2565,B,1000.0,"dfs and similar,strings"
+prob_6020,J,,
+prob_3605,I,,
+prob_3124,G,,*special
+prob_5893,J,,
+prob_6059,F,,
+prob_3307,I,,
+prob_814,A,,
+prob_4077,I,,
+prob_5212,B,500.0,"combinatorics,dfs and similar,math"
+prob_4621,K,,
+prob_1626,B,,
+prob_6447,A,,
+prob_5491,A,500.0,"greedy,implementation"
+prob_602,A,500.0,implementation
+prob_300,E,2500.0,sortings
+prob_3497,I,,
+prob_1820,D,,
+prob_3882,A,500.0,implementation
+prob_2951,F,,
+prob_4056,,,
+prob_3956,G,3500.0,"combinatorics,dp,math"
+prob_5014,D,1000.0,"greedy,implementation"
+prob_1802,G,,
+prob_6187,H,,
+prob_3616,B,1000.0,"brute force,dfs and similar,graphs,implementation"
+prob_4674,J,,
+prob_4002,B,,
+prob_5316,K,,
+prob_745,,8.0,"constructive algorithms,data structures"
+prob_1580,C,1500.0,"binary search,greedy,math,matrices,number theory"
+prob_1694,D,,
+prob_2825,E,,
+prob_2516,J,,
+prob_1346,G,,
+prob_3752,C,1500.0,"graphs,greedy"
+prob_2468,I,,
+prob_1600,B,1000.0,"greedy,implementation"
+prob_1018,B,1000.0,implementation
+prob_5247,A,,
+prob_4767,F,,
+prob_3320,H,,
+prob_824,E,,
+prob_5023,B,,
+prob_5137,D,,
+prob_5499,B,,"dp,strings"
+prob_5266,C,1500.0,"dfs and similar,math"
+prob_1630,C,,
+prob_1261,F,,
+prob_4486,K,,
+prob_1707,E,3000.0,"binary search,data structures,divide and conquer,trees"
+prob_178,A,500.0,"greedy,implementation,sortings"
+prob_4680,E,,
+prob_2296,C,1500.0,"games,graph matchings,greedy"
+prob_5661,C,1750.0,"games,greedy,sortings"
+prob_4789,I,,
+prob_5276,F,,
+prob_5376,I,,
+prob_5331,C,,greedy
+prob_2051,B,,
+prob_4786,B,,dp
+prob_4753,C,1000.0,"constructive algorithms,greedy"
+prob_2968,B,1000.0,"greedy,sortings"
+prob_2570,E,,
+prob_2491,C,,"greedy,strings"
+prob_6472,E,,
+prob_5128,A,,
+prob_1044,A,,
+prob_4352,A,,
+prob_5931,C,,
+prob_1979,E,,
+prob_2176,I,,
+prob_533,B,,
+prob_3494,B,,
+prob_35,G,,
+prob_3675,C,,
+prob_5094,D,2500.0,"binary search,brute force,constructive algorithms,data structures,dp"
+prob_4417,B,,
+prob_792,G,,
+prob_4249,A,500.0,"brute force,implementation"
+prob_6318,A,500.0,constructive algorithms
+prob_282,C,1500.0,"binary search,data structures"
+prob_5374,D,2000.0,"dfs and similar,graphs"
+prob_3810,D,,
+prob_3027,E,3000.0,"bitmasks,combinatorics,number theory"
+prob_5748,A,,
+prob_2031,G,,
+prob_4255,I,,
+prob_5600,B,1000.0,"brute force,dp"
+prob_4556,A,500.0,"implementation,math"
+prob_1916,K,,"dp,trees"
+prob_6219,B,1000.0,"binary search,greedy,sortings"
+prob_6393,D,2000.0,"constructive algorithms,greedy"
+prob_1917,C,,
+prob_6293,C,1500.0,math
+prob_959,B,1000.0,implementation
+prob_5849,A,,
+prob_953,C,500.0,"greedy,implementation,sortings"
+prob_4007,A,,
+prob_5691,B,1500.0,"binary search,math"
+prob_187,H,,
+prob_3028,E,2500.0,"graphs,greedy,shortest paths"
+prob_81,B,1000.0,"math,number theory"
+prob_4154,D,,
+prob_3747,B,,
+prob_960,A,,
+prob_1093,C,,"implementation,math,number theory"
+prob_3540,C,,"greedy,implementation"
+prob_2670,C,,"*special,implementation"
+prob_5776,B,500.0,"implementation,sortings"
+prob_2784,A,,
+prob_1277,D,2000.0,"data structures,math"
+prob_2202,F,2250.0,"brute force,combinatorics,number theory,probabilities"
+prob_5723,C,1500.0,number theory
+prob_5451,G,,
+prob_2344,B,,
+prob_795,C,,
+prob_1216,B,,
+prob_2049,B,,
+prob_1915,D,2000.0,"dfs and similar,graphs,greedy,shortest paths,trees"
+prob_956,B,500.0,"binary search,data structures,math"
+prob_6351,L,,
+prob_1301,E,,
+prob_4071,A,,"math,number theory"
+prob_34,D,,"implementation,strings"
+prob_5148,A,,
+prob_3994,D,3000.0,"graphs,math,shortest paths"
+prob_4310,D,2000.0,"dsu,graphs,shortest paths"
+prob_45,G,,
+prob_3803,G,,
+prob_1462,H,,*special
+prob_1680,D,1500.0,"greedy,math,sortings"
+prob_5198,M,,
+prob_6303,A,,
+prob_4354,D,2000.0,"constructive algorithms,sortings"
+prob_4330,D,2500.0,"data structures,implementation,math,two pointers"
+prob_1063,K,,
+prob_6083,H,,"dp,geometry"
+prob_2971,I,,
+prob_2579,E,,
+prob_2704,E,,"binary search,data structures"
+prob_4425,A,500.0,implementation
+prob_6421,A,250.0,bitmasks
+prob_2629,H,,
+prob_1849,E,2750.0,"constructive algorithms,greedy"
+prob_3127,J,,
+prob_3826,E,,
+prob_1220,F,2500.0,"brute force,combinatorics,dp"
+prob_3544,C,,
+prob_4829,G,,
+prob_383,E,2500.0,"data structures,probabilities"
+prob_1796,D,1750.0,"brute force,hashing,implementation,math"
+prob_1090,A,,
+prob_3665,F,,
+prob_4306,D,2000.0,"dp,matrices"
+prob_3051,D,,
+prob_3406,F,,
+prob_6284,D,2000.0,
+prob_2297,J,,
+prob_4662,H,,
+prob_4720,D,,
+prob_72,H,,
+prob_5185,F,,
+prob_4756,K,,
+prob_1736,A,500.0,implementation
+prob_2164,F,,
+prob_1533,A,250.0,"greedy,hashing"
+prob_450,I,,
+prob_5269,D,,
+prob_3205,A,,
+prob_986,E,2500.0,"data structures,dp"
+prob_1561,B,1000.0,"brute force,dsu,meet-in-the-middle,number theory"
+prob_2001,C,,greedy
+prob_5936,F,3000.0,"dp,implementation,strings"
+prob_4287,C,1500.0,"combinatorics,math"
+prob_1526,E,,
+prob_4711,G,,
+prob_5702,B,,
+prob_5149,E,2250.0,constructive algorithms
+prob_954,M,,
+prob_2432,D,2000.0,"math,matrices,probabilities"
+prob_4759,B,,"greedy,sortings"
+prob_168,B,,
+prob_6105,D,2000.0,"dp,greedy"
+prob_4888,B,1000.0,"greedy,sortings"
+prob_7,D,,
+prob_958,E,,
+prob_3988,E,,
+prob_2394,H,,
+prob_454,A,500.0,"implementation,math"
+prob_2903,A,,"brute force,constructive algorithms"
+prob_4717,E,,
+prob_6088,C,,
+prob_2833,B,1000.0,brute force
+prob_1660,A,500.0,constructive algorithms
+prob_2053,H,,
+prob_1284,B,,
+prob_5456,A,500.0,"implementation,math"
+prob_4126,E,,matrices
+prob_5595,F,,
+prob_1858,L,,
+prob_3283,F,,dp
+prob_3240,C,1500.0,"binary search,math"
+prob_619,E,2500.0,shortest paths
+prob_2554,E,2500.0,data structures
+prob_2631,K,,
+prob_4864,A,,
+prob_5264,F,,
+prob_1452,F,,
+prob_6158,E,2500.0,"data structures,implementation"
+prob_1671,B,500.0,"implementation,strings,two pointers"
+prob_3820,A,,
+prob_3918,I,,
+prob_1385,I,,
+prob_3398,E,2500.0,"constructive algorithms,graphs,shortest paths"
+prob_1516,A,,brute force
+prob_5430,D,2000.0,sortings
+prob_225,J,,
+prob_1070,F,,
+prob_1094,C,1500.0,"math,number theory"
+prob_2898,G,,
+prob_581,C,1000.0,"binary search,two pointers"
+prob_5589,C,,
+prob_3185,C,,*special
+prob_1943,C,,greedy
+prob_2732,C,1500.0,"implementation,strings"
+prob_2981,B,1000.0,"expression parsing,implementation,strings"
+prob_5433,K,,
+prob_1887,D,2000.0,"bitmasks,dp"
+prob_1394,B,1000.0,implementation
+prob_2612,E,2500.0,"data structures,dp"
+prob_5654,D,1500.0,"brute force,combinatorics,probabilities"
+prob_4361,A,,
+prob_1650,C,,
+prob_5141,C,1500.0,greedy
+prob_4139,A,,
+prob_2774,A,,
+prob_3534,K,,
+prob_3298,A,500.0,"brute force,math"
+prob_5086,L,,
+prob_5660,G,,
+prob_2719,D,2000.0,"data structures,dp,greedy"
+prob_6063,M,,
+prob_4780,A,500.0,"implementation,math"
+prob_4038,A,500.0,"constructive algorithms,greedy,implementation"
+prob_3868,E,,
+prob_1468,D,2000.0,dp
+prob_422,E,2500.0,"combinatorics,dp,math"
+prob_2944,B,,
+prob_3203,A,,
+prob_4464,,,
+prob_5567,,,
+prob_3943,D,,"binary search,greedy"
+prob_5718,L,,
+prob_3141,E,2250.0,"binary search,brute force,dp,implementation"
+prob_1396,C,1750.0,"greedy,math"
+prob_291,C,1500.0,"dfs and similar,graphs,implementation,matrices,strings"
+prob_2864,C,,"bitmasks,dp"
+prob_1252,K,,
+prob_2994,C,1500.0,"brute force,dp"
+prob_2473,E,2500.0,"binary search,implementation,math"
+prob_1912,F,3000.0,
+prob_1655,C,1500.0,data structures
+prob_1715,A,,
+prob_5285,A,,
+prob_348,D,,
+prob_3964,D,2000.0,"data structures,dsu,implementation,trees"
+prob_4264,C,1500.0,"dp,games,number theory"
+prob_3642,B,1000.0,"greedy,implementation"
+prob_1737,B,1000.0,combinatorics
+prob_2606,F,,
+prob_4513,H,,
+prob_3380,B,1000.0,"bitmasks,brute force,constructive algorithms,implementation"
+prob_4469,B,1000.0,"graphs,implementation"
+prob_403,E,2500.0,"binary search,bitmasks,brute force,geometry,sortings"
+prob_6270,C,,
+prob_6532,F,,
+prob_9,B,1250.0,"dp,greedy,sortings"
+prob_1076,D,2250.0,"combinatorics,math,number theory"
+prob_116,J,,
+prob_5309,B,1000.0,"greedy,implementation,math"
+prob_1175,E,,
+prob_3628,,,
+prob_453,I,,
+prob_1738,A,500.0,"brute force,implementation,math"
+prob_363,D,,
+prob_4561,B,,
+prob_50,B,,
+prob_3773,C,,"binary search,brute force,dp,math"
+prob_1348,G,,
+prob_1875,D,3000.0,"constructive algorithms,greedy"
+prob_5375,A,500.0,"brute force,implementation"
+prob_2066,E,2500.0,"data structures,greedy"
+prob_2080,D,,
+prob_2273,E,,
+prob_2731,H,,
+prob_4963,A,,
+prob_1157,C,1500.0,"constructive algorithms,dp,math"
+prob_6402,C,1500.0,dp
+prob_3818,D,2000.0,"dfs and similar,dp,graphs,hashing,strings"
+prob_5714,H,,
+prob_6120,,,
+prob_3806,F,,
+prob_2104,C,,
+prob_1578,B,,*special
+prob_1700,C,,
+prob_3984,D,,
+prob_981,D,,
+prob_5298,I,,
+prob_578,D,2000.0,"dfs and similar,graphs"
+prob_5995,B,1000.0,constructive algorithms
+prob_2304,H,,"*special,brute force,constructive algorithms,dsu,implementation"
+prob_2011,,10.0,
+prob_6452,D,2000.0,"brute force,math"
+prob_562,E,2750.0,"binary search,dp"
+prob_1682,F,,
+prob_4580,B,,
+prob_3521,B,,
+prob_2195,B,1000.0,implementation
+prob_3655,D,,"constructive algorithms,greedy"
+prob_5475,E,,
+prob_5158,L,,
+prob_185,H,,
+prob_4494,D,,
+prob_3169,F,,
+prob_4598,B,1000.0,"constructive algorithms,dfs and similar,divide and conquer"
+prob_4595,A,500.0,implementation
+prob_4130,A,500.0,"greedy,strings"
+prob_2285,A,500.0,"brute force,implementation"
+prob_1911,B,750.0,"implementation,math"
+prob_4423,,,
+prob_3584,C,,
+prob_5508,J,,
+prob_4868,E,2500.0,data structures
+prob_6328,B,,
+prob_2275,E,,
+prob_4332,C,2000.0,"constructive algorithms,data structures,dp"
+prob_3155,C,1500.0,"greedy,hashing,implementation,math,number theory"
+prob_121,A,500.0,implementation
+prob_3847,A,500.0,"implementation,math"
+prob_3612,A,500.0,"implementation,number theory"
+prob_754,I,,
+prob_3048,A,1500.0,
+prob_10,I,,
+prob_3620,C,1500.0,"greedy,sortings"
+prob_4234,F,,
+prob_3419,I,,
+prob_5641,I,,"dp,flows,greedy"
+prob_1565,A,,
+prob_1375,H,,
+prob_3422,C,,"*special,math"
+prob_6344,A,500.0,sortings
+prob_4027,F,,
+prob_6012,G,,
+prob_6134,B,,
+prob_1376,D,2000.0,"binary search,dp,probabilities"
+prob_1594,M,,
+prob_556,D,2000.0,"brute force,dp,greedy"
+prob_1471,D,2000.0,data structures
+prob_941,B,1000.0,"implementation,strings"
+prob_1111,J,,
+prob_1335,I,,
+prob_4897,C,1000.0,"brute force,data structures,implementation"
+prob_4359,H,,"*special,constructive algorithms"
+prob_1485,G,,
+prob_820,B,,
+prob_79,A,500.0,math
+prob_1920,D,2000.0,number theory
+prob_1754,I,,
+prob_5125,E,2500.0,"dp,greedy"
+prob_583,B,1000.0,"geometry,math"
+prob_2905,H,,
+prob_3121,A,750.0,
+prob_5625,C,,
+prob_1020,C,,
+prob_2515,I,,
+prob_1520,B,1000.0,"constructive algorithms,implementation"
+prob_139,A,500.0,"implementation,strings"
+prob_2791,A,500.0,implementation
+prob_5611,E,2500.0,"dp,graphs,shortest paths"
+prob_263,C,,
+prob_5384,E,,
+prob_3345,D,,
+prob_909,J,,
+prob_5789,H,,
+prob_4095,C,1500.0,"data structures,dfs and similar,trees"
+prob_2859,,3.0,"brute force,dfs and similar,dp,meet-in-the-middle"
+prob_4858,E,,
+prob_3439,D,2000.0,"graphs,shortest paths"
+prob_5050,A,,
+prob_2617,A,,
+prob_2835,G,,
+prob_1323,I,,
+prob_3623,B,1000.0,"divide and conquer,hashing,sortings,strings"
+prob_5115,C,1500.0,"brute force,dfs and similar,dsu,hashing,trees"
+prob_5794,A,500.0,"math,number theory"
+prob_4545,B,1000.0,"brute force,implementation"
+prob_2231,F,,*special
+prob_4017,E,2500.0,"data structures,greedy"
+prob_1980,A,500.0,implementation
+prob_312,F,3000.0,"combinatorics,number theory"
+prob_5248,E,,"dfs and similar,dp"
+prob_5518,C,1500.0,"dfs and similar,math,trees"
+prob_4719,C,1250.0,"brute force,dp,implementation,sortings"
+prob_5043,B,1000.0,"implementation,strings"
+prob_1475,C,,
+prob_3486,D,,
+prob_5151,C,,
+prob_4263,,50.0,
+prob_670,D,,
+prob_5580,C,,
+prob_1127,D,2000.0,"dfs and similar,geometry,trees"
+prob_4177,C,2000.0,"brute force,implementation,math"
+prob_564,C,1500.0,"brute force,dp"
+prob_2844,B,1000.0,"greedy,sortings"
+prob_2591,I,,
+prob_243,C,1500.0,"dfs and similar,greedy,trees"
+prob_457,I,,
+prob_5154,C,1500.0,"dp,greedy,implementation"
+prob_4636,B,1000.0,"greedy,implementation"
+prob_4729,G,,
+prob_2348,C,1500.0,"brute force,math"
+prob_1420,,,trees
+prob_1993,J,,
+prob_4272,E,,
+prob_1287,K,,
+prob_1805,H,,"dp,hashing,strings"
+prob_3666,E,3000.0,graphs
+prob_4932,B,1000.0,"constructive algorithms,data structures,geometry,sortings"
+prob_3333,E,,
+prob_511,A,,
+prob_5113,,,
+prob_6092,C,,
+prob_4472,I,,
+prob_1084,D,2000.0,"dfs and similar,dp"
+prob_1023,C,,*special
+prob_961,M,,
+prob_2630,B,1500.0,"bitmasks,brute force,combinatorics,dp,math,probabilities"
+prob_5826,L,,
+prob_2795,D,,
+prob_1424,J,,
+prob_2157,C,,
+prob_1408,A,,
+prob_5144,B,1000.0,"combinatorics,implementation"
+prob_6511,D,,
+prob_3018,B,,
+prob_6431,C,1500.0,"constructive algorithms,dfs and similar,dp,greedy"
+prob_1358,D,2000.0,
+prob_1572,D,,
+prob_638,B,,
+prob_950,C,,
+prob_389,F,,
+prob_2746,B,1000.0,"brute force,greedy"
+prob_3135,H,,
+prob_1681,D,,
+prob_4248,B,1000.0,"binary search,data structures,dp,dsu"
+prob_491,B,,
+prob_2413,B,,
+prob_5493,F,2500.0,"chinese remainder theorem,implementation,number theory,two pointers"
+prob_4775,K,,
+prob_1444,E,,
+prob_6211,D,2000.0,"dfs and similar,dp,graphs"
+prob_3234,E,,
+prob_3987,E,,
+prob_6287,B,,implementation
+prob_2062,B,1000.0,"data structures,implementation"
+prob_5612,C,1500.0,"dfs and similar,graphs,sortings"
+prob_1977,A,,
+prob_2645,G,,
+prob_3772,G,,
+prob_3842,D,,
+prob_2830,C,,
+prob_5162,D,2250.0,geometry
+prob_1727,D,2000.0,implementation
+prob_2171,C,1500.0,"dfs and similar,dp,probabilities,trees"
+prob_5409,A,500.0,greedy
+prob_191,A,500.0,"implementation,sortings"
+prob_2339,A,500.0,"constructive algorithms,math"
+prob_4329,C,1750.0,"bitmasks,brute force,dp"
+prob_735,G,,
+prob_2022,A,500.0,"greedy,math"
+prob_3594,D,,dfs and similar
+prob_359,D,,
+prob_979,C,,
+prob_5358,G,,
+prob_1255,D,,
+prob_5854,A,,
+prob_5592,E,2750.0,data structures
+prob_5471,E,2250.0,data structures
+prob_2636,F,,
+prob_1514,D,,"constructive algorithms,math"
+prob_2440,H,,
+prob_753,G,,
+prob_4152,C,1500.0,"data structures,greedy"
+prob_2960,A,,
+prob_737,C,,
+prob_2801,G,,
+prob_6375,D,2000.0,"binary search,constructive algorithms,data structures,greedy"
+prob_6486,H,,combinatorics
+prob_722,D,,
+prob_2465,A,500.0,implementation
+prob_788,B,,
+prob_6428,L,,
+prob_1313,D,,
+prob_5885,B,,
+prob_6457,B,1250.0,"brute force,constructive algorithms,implementation,strings"
+prob_5823,G,,
+prob_5249,L,,
+prob_2602,A,500.0,"constructive algorithms,implementation"
+prob_3012,M,,
+prob_6271,D,1500.0,"data structures,greedy,sortings"
+prob_6441,D,2000.0,"binary search,constructive algorithms,dfs and similar,trees"
+prob_1950,A,500.0,implementation
+prob_945,A,,
+prob_2333,A,,
+prob_3652,B,,
+prob_3682,A,,
+prob_912,C,,
+prob_2609,D,2000.0,dp
+prob_3105,D,,"binary search,data structures,two pointers"
+prob_1941,A,500.0,implementation
+prob_1620,G,,
+prob_3872,A,1000.0,"brute force,implementation"
+prob_5106,G,,
+prob_4671,C,1500.0,"combinatorics,dp"
+prob_2404,E,3000.0,"binary search,bitmasks,brute force,dp,meet-in-the-middle"
+prob_5422,B,,
+prob_2003,A,500.0,"greedy,implementation"
+prob_4184,E,,strings
+prob_4434,C,,
+prob_4471,L,,"*special,binary search"
+prob_3573,I,,
+prob_1934,D,2000.0,"binary search,implementation,math"
+prob_5283,C,,
+prob_3309,H,,
+prob_3758,E,3000.0,"binary search,data structures,dp,sortings,trees"
+prob_5800,A,,
+prob_4196,C,,
+prob_544,B,,
+prob_3748,C,1500.0,dp
+prob_548,C,,
+prob_6071,A,,
+prob_3253,H,,
+prob_3684,K,,
+prob_3252,A,,
+prob_3156,C,1500.0,"graphs,shortest paths"
+prob_3965,F,,
+prob_6233,B,,*special
+prob_743,C,1500.0,"binary search,constructive algorithms,math"
+prob_3615,E,,
+prob_166,F,,
+prob_398,K,,
+prob_4614,C,1500.0,"dfs and similar,graphs"
+prob_3947,D,,data structures
+prob_6468,F,,
+prob_6142,K,,
+prob_6014,C,,
+prob_1637,E,,
+prob_5352,J,,
+prob_1873,E,,
+prob_3220,C,,
+prob_4836,A,,implementation
+prob_497,D,,"greedy,sortings"
+prob_5367,C,,"data structures,divide and conquer,dp"
+prob_850,F,,"combinatorics,math,number theory"
+prob_1430,F,,
+prob_2942,B,,
+prob_1445,E,,
+prob_4033,L,,
+prob_4424,E,2500.0,math
+prob_4254,,,
+prob_1228,A,,greedy
+prob_5231,D,2000.0,"constructive algorithms,greedy"
+prob_4156,D,,
+prob_1517,I,,
+prob_6028,E,2000.0,flows
+prob_3859,E,2500.0,"binary search,data structures,implementation,sortings,trees"
+prob_206,D,,
+prob_6164,B,1000.0,"constructive algorithms,implementation"
+prob_4292,C,1500.0,"constructive algorithms,dfs and similar"
+prob_5814,B,,
+prob_6382,D,,
+prob_4941,G,,"brute force,graphs"
+prob_5082,C,1500.0,"data structures,dp,hashing,implementation,sortings,string suffix structures,strings"
+prob_173,B,1000.0,"constructive algorithms,implementation"
+prob_4701,K,,
+prob_5764,E,2500.0,"divide and conquer,math,trees"
+prob_4739,B,,
+prob_5095,D,2000.0,"binary search,greedy,implementation"
+prob_3170,E,2500.0,games
+prob_3200,D,,
+prob_415,C,1250.0,"constructive algorithms,dfs and similar"
+prob_1225,I,,
+prob_6281,E,,"*special,brute force,implementation"
+prob_2796,C,1500.0,"dp,hashing"
+prob_2217,E,,
+prob_2077,E,2500.0,"combinatorics,data structures,implementation"
+prob_5550,D,,
+prob_3197,A,500.0,"implementation,sortings"
+prob_2849,B,1000.0,greedy
+prob_5111,A,500.0,"constructive algorithms,implementation"
+prob_143,B,,
+prob_3853,B,,*special
+prob_5009,,,"dfs and similar,graphs,trees"
+prob_848,K,,
+prob_2599,D,2250.0,
+prob_5429,J,,
+prob_5139,G,,
+prob_6266,A,500.0,math
+prob_623,H,,
+prob_4552,E,,
+prob_1128,D,1500.0,"binary search,data structures,dfs and similar,greedy"
+prob_5295,B,1000.0,implementation
+prob_1259,B,1000.0,combinatorics
+prob_2131,B,1000.0,"math,sortings"
+prob_4125,B,1000.0,"greedy,sortings"
+prob_2923,B,,
+prob_866,A,500.0,implementation
+prob_3833,F,,
+prob_5232,F,,
+prob_3217,F,,
+prob_4889,A,,
+prob_3619,I,,
+prob_5676,K,,
+prob_4830,B,1000.0,implementation
+prob_6054,E,,
+prob_6230,H,,
+prob_4075,F,,
+prob_2301,E,2500.0,"binary search,data structures,ternary search"
+prob_1058,H,,
+prob_2490,F,,
+prob_1710,A,3.0,"constructive algorithms,math"
+prob_1717,F,,dp
+prob_1926,C,,
+prob_2779,B,,
+prob_4398,E,3000.0,"binary search,geometry,two pointers"
+prob_5044,C,1250.0,"dp,implementation"
+prob_3980,A,500.0,"brute force,implementation"
+prob_6017,B,1000.0,"binary search,ternary search"
+prob_1701,G,,
+prob_5899,B,1000.0,"geometry,sortings"
+prob_4118,B,1000.0,"brute force,implementation"
+prob_2996,D,2000.0,constructive algorithms
+prob_1709,A,,
+prob_5598,B,500.0,implementation
+prob_1317,C,1500.0,dfs and similar
+prob_1318,,1000.0,"binary search,brute force"
+prob_893,B,1000.0,implementation
+prob_2688,K,,
+prob_48,,30.0,number theory
+prob_3362,I,,
+prob_5621,C,,
+prob_1457,B,1000.0,"brute force,constructive algorithms,math"
+prob_4750,C,1500.0,"data structures,dp,greedy,hashing,strings,two pointers"
+prob_5628,E,2500.0,"math,number theory,probabilities"
+prob_204,C,1750.0,"brute force,constructive algorithms,implementation"
+prob_651,E,2500.0,graphs
+prob_3449,L,,
+prob_2624,A,500.0,implementation
+prob_2814,I,,
+prob_4660,H,,
+prob_4988,A,500.0,sortings
+prob_6123,B,,
+prob_3788,A,,
+prob_2927,D,2000.0,two pointers
+prob_5941,A,500.0,"greedy,math"
+prob_1945,E,2500.0,"data structures,dsu,string suffix structures,strings"
+prob_3401,C,,
+prob_2661,K,,
+prob_1098,A,500.0,"brute force,implementation"
+prob_2145,J,,
+prob_2278,E,2500.0,geometry
+prob_1808,D,,
+prob_3720,B,1000.0,"combinatorics,dp"
+prob_6449,I,,
+prob_5806,D,2000.0,"brute force,two pointers"
+prob_4607,E,,
+prob_3613,E,,
+prob_1883,A,,
+prob_3876,M,,"geometry,math"
+prob_3614,G,,"*special,implementation"
+prob_1304,A,500.0,implementation
+prob_4428,C,,
+prob_695,C,,*special
+prob_1908,G,,
+prob_1913,E,2500.0,"brute force,dp,number theory"
+prob_2856,B,1000.0,"binary search,math,sortings"
+prob_5093,A,,implementation
+prob_3335,A,500.0,"implementation,math"
+prob_1972,C,,
+prob_921,A,,implementation
+prob_3285,D,,
+prob_4743,E,2500.0,"binary search,constructive algorithms,data structures,greedy,hashing,strings"
+prob_275,C,1000.0,"brute force,constructive algorithms,implementation"
+prob_6451,C,,
+prob_858,A,,
+prob_5877,I,,
+prob_1673,A,,*special
+prob_6291,D,1500.0,"dp,games"
+prob_5538,B,,
+prob_106,C,1500.0,"greedy,sortings"
+prob_2973,B,2000.0,"dp,probabilities,two pointers"
+prob_1863,B,500.0,implementation
+prob_3146,K,,
+prob_5536,A,,
+prob_4810,E,2500.0,matrices
+prob_1227,F,,
+prob_5481,A,500.0,"greedy,implementation"
+prob_715,C,1500.0,"binary search,combinatorics,dp,math"
+prob_2750,E,,
+prob_756,B,1000.0,"greedy,math,number theory"
+prob_2941,C,,
+prob_4653,B,1000.0,implementation
+prob_3955,A,,greedy
+prob_4230,A,,
+prob_5903,A,,implementation
+prob_6152,A,500.0,"greedy,implementation"
+prob_5739,C,1500.0,brute force
+prob_1683,A,,
+prob_4164,A,,"*special,implementation"
+prob_3801,D,,
+prob_4227,D,,"constructive algorithms,greedy"
+prob_5690,C,,dp
+prob_6537,C,,
+prob_13,A,500.0,implementation
+prob_2184,H,,
+prob_1312,C,1500.0,"brute force,math"
+prob_495,E,2500.0,"bitmasks,divide and conquer,dp"
+prob_4782,B,1000.0,"data structures,greedy,implementation,sortings"
+prob_5091,B,1000.0,"bitmasks,brute force,dp"
+prob_2060,B,1000.0,dp
+prob_5189,C,,
+prob_1946,F,,"binary search,math,ternary search"
+prob_4824,E,,
+prob_5552,E,,
+prob_1288,A,,
+prob_2544,H,,
+prob_3644,L,,
+prob_6540,B,750.0,"data structures,greedy,sortings"
+prob_4406,E,,
+prob_5312,E,3000.0,"data structures,greedy"
+prob_480,C,,
+prob_3808,E,2750.0,"binary search,data structures"
+prob_6280,E,,
+prob_1121,D,,math
+prob_4610,A,,implementation
+prob_896,H,,
+prob_3535,C,,
+prob_6141,C,,
+prob_689,I,,combinatorics
+prob_3530,B,1000.0,"dfs and similar,dp,dsu,graphs"
+prob_4573,C,,
+prob_4716,A,,"dp,greedy,implementation"
+prob_5830,E,,
+prob_3241,C,1500.0,"binary search,math"
+prob_1365,E,,
+prob_593,E,,
+prob_1730,B,,"*special,combinatorics"
+prob_2913,I,,
+prob_4790,H,,
+prob_6122,A,,
+prob_3471,A,500.0,implementation
+prob_5270,C,,
+prob_2527,C,1500.0,dp
+prob_6,E,2500.0,"flows,graphs"
+prob_4938,D,2000.0,"binary search,brute force,data structures,implementation"
+prob_779,C,1250.0,"binary search,greedy,sortings"
+prob_6090,B,1000.0,implementation
+prob_6010,D,,
+prob_3222,C,,"binary search,hashing,two pointers"
+prob_3721,C,,
+prob_2290,A,500.0,implementation
+prob_5747,A,500.0,implementation
+prob_19,G,,
+prob_504,I,,
+prob_3545,B,1000.0,greedy
+prob_1747,I,,
+prob_650,A,500.0,"brute force,geometry,implementation"
+prob_4171,D,2000.0,"data structures,dp,greedy"
+prob_368,F,,
+prob_5036,K,,
+prob_6168,A,,
+prob_2792,C,1000.0,"greedy,math,sortings"
+prob_728,G,,
+prob_3373,C,1500.0,implementation
+prob_1505,F,,
+prob_5015,D,1500.0,"constructive algorithms,dp,math,number theory"
+prob_4635,,,"binary search,flows"
+prob_6538,G,,
+prob_3672,,,
+prob_5049,E,3000.0,"dp,matrices"
+prob_1788,F,,
+prob_3192,B,,
+prob_4951,A,500.0,"implementation,strings"
+prob_4217,E,,
+prob_2349,D,,
+prob_242,C,1500.0,"constructive algorithms,greedy"
+prob_6367,L,,
+prob_4568,A,,implementation
+prob_5773,D,2000.0,"bitmasks,brute force,dp,math"
+prob_5161,E,,
+prob_1562,D,1500.0,"data structures,dp,math,sortings"
+prob_378,H,,
+prob_4128,J,,
+prob_4895,C,1500.0,"brute force,constructive algorithms,greedy"
+prob_770,C,1500.0,"binary search,sortings,two pointers"
+prob_6096,E,2250.0,"dp,implementation"
+prob_5754,B,1000.0,implementation
+prob_3567,C,,
+prob_3848,F,,
+prob_284,,,
+prob_4628,K,,
+prob_3562,K,,
+prob_2246,B,,
+prob_6037,B,1000.0,"constructive algorithms,math,number theory"
+prob_4197,A,500.0,"dp,greedy"
+prob_1413,D,2000.0,"data structures,dp,two pointers"
+prob_673,C,,
+prob_2378,D,2000.0,"dp,games"
+prob_5864,C,,
+prob_295,B,1000.0,"brute force,geometry,math"
+prob_4085,B,,
+prob_5127,E,,"dfs and similar,greedy,trees"
+prob_2142,A,500.0,"implementation,strings"
+prob_4438,G,,
+prob_2889,I,,
+prob_2720,G,,
+prob_1236,A,500.0,math
+prob_888,I,,
+prob_3699,D,2000.0,"brute force,combinatorics,data structures,geometry,math,sortings"
+prob_1211,A,,
+prob_2669,A,500.0,implementation
+prob_5096,D,2000.0,"constructive algorithms,dsu,graphs,greedy,trees"
+prob_4567,C,1500.0,math
+prob_1065,C,1750.0,"divide and conquer,dp"
+prob_4808,D,2000.0,"binary search,geometry,math,two pointers"
+prob_2126,H,,
+prob_4612,C,,dfs and similar
+prob_6025,M,,
+prob_3032,A,500.0,implementation
+prob_1478,A,500.0,implementation
+prob_3453,C,1500.0,"greedy,implementation,two pointers"
+prob_4394,E,,"dp,games,graphs"
+prob_1964,E,3000.0,"brute force,constructive algorithms,dfs and similar,graphs"
+prob_4172,F,,
+prob_5132,B,1000.0,"binary search,math"
+prob_6386,A,,
+prob_1049,I,,
+prob_4930,E,2750.0,"dp,trees"
+prob_6390,B,,
+prob_884,D,,
+prob_5400,A,500.0,implementation
+prob_1276,A,,
+prob_2472,C,1500.0,"dfs and similar,dsu,graphs"
+prob_4051,I,,
+prob_2644,C,2500.0,"dp,graphs,shortest paths"
+prob_1486,C,,
+prob_4122,E,,
+prob_4882,F,,
+prob_3553,G,,
+prob_6076,E,,
+prob_2008,E,,
+prob_549,C,1500.0,math
+prob_3688,F,3000.0,"dp,trees,two pointers"
+prob_5542,G,,
+prob_660,B,1000.0,"implementation,strings"
+prob_1725,H,,
+prob_6343,B,,
+prob_6508,L,,
+prob_3115,B,,
+prob_5364,E,,*special
+prob_1940,C,1500.0,"implementation,sortings"
+prob_3469,C,1500.0,"combinatorics,divide and conquer"
+prob_1676,B,,
+prob_1428,B,1000.0,"constructive algorithms,implementation,math"
+prob_2343,A,500.0,math
+prob_5353,E,3000.0,math
+prob_6079,D,2000.0,"dp,math"
+prob_6110,D,,
+prob_5361,G,,
+prob_2437,G,,
+prob_5881,C,1500.0,"constructive algorithms,dfs and similar,implementation"
+prob_774,D,2000.0,"constructive algorithms,dsu,math"
+prob_6042,B,,
+prob_553,C,,
+prob_4045,D,1750.0,"bitmasks,brute force,dp,matrices"
+prob_3235,G,,
+prob_1554,F,,
+prob_4999,B,,
+prob_5953,E,2500.0,"dp,implementation"
+prob_3181,E,,"data structures,divide and conquer"
+prob_2063,J,,
+prob_3895,E,,
+prob_5223,H,,
+prob_4533,D,2000.0,dfs and similar
+prob_2205,A,,
+prob_2375,H,,
+prob_6466,C,,
+prob_1451,G,,
+prob_60,I,,
+prob_4055,H,,
+prob_611,C,,constructive algorithms
+prob_5206,A,500.0,"constructive algorithms,sortings"
+prob_4605,E,,
+prob_5632,E,,*special
+prob_2464,,,
+prob_375,F,,
+prob_891,C,,
+prob_4060,A,500.0,implementation
+prob_482,F,,data structures
+prob_4499,,30.0,implementation
+prob_2206,B,1750.0,"constructive algorithms,dfs and similar,greedy"
+prob_3792,A,,
+prob_2853,D,,
+prob_1224,C,1500.0,"dfs and similar,implementation"
+prob_5728,G,,
+prob_1772,A,500.0,"implementation,sortings"
+prob_2054,G,,
+prob_2520,E,2500.0,"bitmasks,dp,graphs,trees"
+prob_201,A,,
+prob_6066,I,,
+prob_1570,A,500.0,"constructive algorithms,implementation"
+prob_4990,,,
+prob_911,H,,
+prob_5945,B,1000.0,constructive algorithms
+prob_6179,,,
+prob_1639,E,,
+prob_1307,F,,
+prob_1508,H,,
+prob_1289,C,,
+prob_919,A,,
+prob_2101,E,2500.0,implementation
+prob_2873,A,,
+prob_2148,F,,
+prob_784,E,,
+prob_2247,C,,
+prob_3926,C,1500.0,"dfs and similar,graphs,shortest paths"
+prob_573,A,,
+prob_3862,E,,
+prob_4861,C,2000.0,"dfs and similar,shortest paths"
+prob_1551,C,,
+prob_5450,G,,
+prob_2174,B,1000.0,"bitmasks,dp,sortings"
+prob_488,C,1000.0,"greedy,sortings"
+prob_6087,A,500.0,brute force
+prob_3657,D,2000.0,"greedy,sortings"
+prob_1925,F,,"dp,greedy"
+prob_3880,D,,
+prob_1302,A,,
+prob_5344,J,,
+prob_2243,I,,
+prob_1436,B,,
+prob_1435,E,,
+prob_2478,J,,
+prob_4973,A,,
+prob_2274,C,1500.0,"dp,math,probabilities"
+prob_3995,E,,
+prob_517,I,,
+prob_4284,A,500.0,geometry
+prob_2371,C,,greedy
+prob_6279,A,500.0,"brute force,implementation"
+prob_2287,G,,
+prob_3281,C,,
+prob_5485,A,3000.0,"geometry,graphs,implementation,shortest paths"
+prob_5404,D,,"math,number theory"
+prob_2842,F,,
+prob_3481,E,,
+prob_930,B,,
+prob_2456,C,,
+prob_4929,F,,
+prob_58,I,,
+prob_3125,D,2000.0,"data structures,geometry"
+prob_1438,E,,
+prob_3626,B,1000.0,"implementation,strings"
+prob_3532,D,2000.0,
+prob_1347,A,500.0,strings
+prob_4823,A,3.0,"implementation,two pointers"
+prob_6341,D,2000.0,dp
+prob_1290,C,,
+prob_3951,A,500.0,implementation
+prob_1892,H,,
+prob_6086,B,1250.0,dp
+prob_3793,A,500.0,implementation
+prob_3079,A,500.0,implementation
+prob_3925,E,,greedy
+prob_2173,E,2500.0,geometry
+prob_947,H,,
+prob_3143,B,1000.0,"constructive algorithms,implementation"
+prob_705,B,,
+prob_2113,B,1000.0,"data structures,implementation,two pointers"
+prob_31,C,,
+prob_3563,G,,
+prob_341,,70.0,
+prob_6528,D,,
+prob_2124,D,,
+prob_2026,G,,
+prob_2185,D,2000.0,data structures
+prob_1550,A,1000.0,"brute force,dfs and similar"
+prob_873,E,,
+prob_3194,B,1000.0,implementation
+prob_777,B,1000.0,"hashing,string suffix structures,strings"
+prob_1999,G,,
+prob_3693,E,2500.0,"bitmasks,divide and conquer,dp"
+prob_4670,B,1000.0,"constructive algorithms,implementation,sortings"
+prob_6325,A,,
+prob_1338,A,500.0,"constructive algorithms,greedy"
+prob_2198,A,500.0,"brute force,constructive algorithms,implementation"
+prob_5479,A,,implementation
+prob_3488,E,2250.0,"dp,sortings"
+prob_3224,A,,
+prob_3777,G,,
+prob_2236,D,,
+prob_3983,K,,
+prob_3618,F,,
+prob_3854,E,2500.0,data structures
+prob_5671,J,,
+prob_1221,,,
+prob_3998,D,2000.0,graph matchings
+prob_5908,B,1000.0,"constructive algorithms,implementation"
+prob_6426,D,2000.0,"binary search,data structures,two pointers"
+prob_4708,C,1500.0,"games,math"
+prob_3510,B,1000.0,"implementation,sortings"
+prob_4919,C,,
+prob_6392,D,2000.0,"data structures,dp"
+prob_3179,K,,"*special,implementation,strings"
+prob_1316,H,,
+prob_6225,A,500.0,"dfs and similar,graphs,trees"
+prob_125,J,,
+prob_2557,D,2000.0,"binary search,data structures,sortings"
+prob_6060,G,,
+prob_4453,A,,
+prob_3206,E,,
+prob_1213,J,,
+prob_4271,A,500.0,implementation
+prob_4803,C,1500.0,"dp,geometry"
+prob_3587,D,2000.0,data structures
+prob_5473,G,3000.0,"constructive algorithms,trees"
+prob_5069,B,1000.0,"implementation,math"
+prob_1722,H,,
+prob_6322,D,2000.0,"games,math"
+prob_3257,G,,"*special,number theory"
+prob_4078,H,,
+prob_2033,F,,
+prob_926,D,,"brute force,math,number theory"
+prob_990,E,2500.0,flows
+prob_1320,D,,
+prob_877,C,,
+prob_4771,J,,
+prob_4713,D,,
+prob_5337,B,1000.0,"constructive algorithms,geometry"
+prob_2726,A,,
+prob_3556,B,1000.0,"brute force,implementation,math"
+prob_5016,B,,
+prob_1872,C,1000.0,"constructive algorithms,implementation"
+prob_3017,B,1000.0,"binary search,brute force"
+prob_1434,I,,
+prob_5647,B,,
+prob_3358,F,,
+prob_6207,D,2000.0,"dp,math"
+prob_5134,E,2500.0,"data structures,dfs and similar,graphs,trees"
+prob_3645,B,,"brute force,data structures,implementation"
+prob_4344,J,,
+prob_984,C,,
+prob_1557,K,,
+prob_6131,B,1250.0,"binary search,brute force,two pointers"
+prob_2754,B,1000.0,"implementation,strings"
+prob_473,G,3500.0,combinatorics
+prob_5373,L,,
+prob_3726,C,,
+prob_2876,F,,
+prob_1719,B,,
+prob_6412,C,,
+prob_2879,G,,
+prob_970,B,1000.0,"brute force,implementation"
+prob_6355,I,,
+prob_5325,E,2500.0,data structures
+prob_2939,A,,greedy
+prob_3864,A,500.0,implementation
+prob_4203,E,2500.0,"dp,strings"
+prob_3035,E,2500.0,"data structures,trees"
+prob_2895,A,,
+prob_6467,,,combinatorics
+prob_4096,H,,
+prob_115,G,,
+prob_939,L,,
+prob_1789,D,,constructive algorithms
+prob_5494,F,,
+prob_2740,D,2500.0,data structures
+prob_1488,A,,
+prob_2980,B,,
+prob_4979,E,2500.0,"data structures,dfs and similar,graphs,trees"
+prob_3811,D,2000.0,"dp,two pointers"
+prob_2733,B,1000.0,"brute force,greedy,implementation"
+prob_5655,L,,
+prob_5297,B,1000.0,"brute force,math"
+prob_5890,B,1000.0,"expression parsing,implementation"
+prob_3126,C,1500.0,"2-sat,greedy"
+prob_3999,E,2500.0,"data structures,trees"
+prob_1382,B,,implementation
+prob_4560,D,1750.0,"dfs and similar,dp,graph matchings,trees"
+prob_6173,B,1000.0,"implementation,sortings"
+prob_540,K,,math
+prob_73,F,,
+prob_1864,F,,
+prob_2845,D,2000.0,"dfs and similar,graphs,greedy"
+prob_174,C,,"*special,graph matchings,implementation,trees"
+prob_555,A,500.0,implementation
+prob_5785,B,,
+prob_5838,C,,
+prob_5619,D,2000.0,"dp,greedy,math"
+prob_5051,I,,
+prob_6326,C,,"geometry,implementation"
+prob_2925,E,2500.0,"dp,matrices"
+prob_5146,E,,dp
+prob_3920,D,,
+prob_4587,D,,
+prob_4121,F,,*special
+prob_3742,F,,
+prob_4432,F,2750.0,"data structures,strings"
+prob_1186,M,,
+prob_1105,B,,
+prob_5257,E,2500.0,"data structures,hashing,strings"
+prob_43,D,2000.0,"2-sat,binary search"
+prob_1881,A,,
+prob_3503,C,1500.0,"binary search,dfs and similar,probabilities,sortings,trees"
+prob_5658,A,,implementation
+prob_1905,G,,
+prob_3361,D,2500.0,implementation
+prob_5810,C,,
+prob_1393,E,2500.0,"bitmasks,brute force,fft"
+prob_758,C,,
+prob_5549,C,1500.0,constructive algorithms
+prob_5112,C,1500.0,"constructive algorithms,greedy"
+prob_5227,A,500.0,implementation
+prob_1197,D,,
+prob_5673,A,,
+prob_1606,C,1750.0,data structures
+prob_6300,M,,
+prob_1686,K,,
+prob_4058,B,,"brute force,greedy"
+prob_707,E,2500.0,"binary search,data structures,dfs and similar,dp,trees"
+prob_5892,F,,
+prob_1904,F,,geometry
+prob_4787,A,1000.0,"constructive algorithms,games,math"
+prob_766,L,,
+prob_5104,H,,
+prob_2298,D,,"data structures,dp,greedy"
+prob_2265,B,,
+prob_5239,F,,"brute force,divide and conquer,graphs,trees"
+prob_427,H,,
+prob_4268,E,3000.0,"brute force,dsu,graphs,implementation"
+prob_5959,F,,
+prob_2381,K,,
+prob_3005,A,500.0,"brute force,implementation"
+prob_4297,C,,
+prob_15,L,,
+prob_5983,C,,"*special,implementation"
+prob_435,E,2500.0,"probabilities,shortest paths"
+prob_1196,E,3000.0,"binary search,divide and conquer,sortings,trees"
+prob_1697,D,,
+prob_2454,A,500.0,"data structures,math"
+prob_6422,B,1000.0,"geometry,math"
+prob_1973,D,2000.0,"data structures,dsu,trees"
+prob_5736,A,250.0,implementation
+prob_2695,D,,
+prob_3776,D,,
+prob_4362,B,750.0,"greedy,sortings,two pointers"
+prob_3308,B,1000.0,implementation
+prob_2361,F,,
+prob_4546,E,2500.0,"binary search,dp"
+prob_4489,B,1000.0,constructive algorithms
+prob_4173,E,,dp
+prob_4765,F,,
+prob_1743,E,3000.0,"binary search,math"
+prob_2155,H,,
+prob_6002,E,,
+prob_438,E,,
+prob_475,G,,
+prob_1874,A,,
+prob_3055,C,,
+prob_2170,E,,
+prob_3651,D,,
+prob_5821,B,,
+prob_6418,H,,
+prob_1016,A,,
+prob_4457,J,,
+prob_2949,A,500.0,brute force
+prob_3133,A,,implementation
+prob_5562,B,1000.0,"combinatorics,dp"
+prob_2958,L,,
+prob_2123,E,2750.0,math
+prob_4106,G,,
+prob_4913,E,,
+prob_4945,F,,"data structures,dp,greedy,sortings"
+prob_3303,B,1000.0,"sortings,strings"
+prob_652,I,,
+prob_2335,C,1500.0,"greedy,sortings"
+prob_2117,D,,
+prob_1885,G,,
+prob_1291,A,500.0,implementation
+prob_5105,A,,implementation
+prob_1238,H,,*special
+prob_2696,E,,
+prob_2308,B,,
+prob_3718,B,1000.0,brute force
+prob_246,B,1000.0,"dfs and similar,shortest paths"
+prob_5279,E,,games
+prob_946,H,,
+prob_393,F,3000.0,math
+prob_5932,B,1000.0,"greedy,implementation"
+prob_2169,E,,
+prob_676,C,,
+prob_1611,J,,
+prob_1657,D,2000.0,"combinatorics,dfs and similar,graphs,math"
+prob_3570,G,,
+prob_789,H,,
+prob_1334,B,1000.0,dfs and similar
+prob_2635,J,,
+prob_6376,G,2500.0,geometry
+prob_3764,B,1250.0,"brute force,constructive algorithms,math"
+prob_6490,D,,
+prob_3728,F,,
+prob_3686,H,,
+prob_5461,E,2500.0,"greedy,sortings,two pointers"
+prob_239,F,,
+prob_5943,G,,
+prob_6044,A,500.0,"implementation,strings"
+prob_4090,B,1000.0,"brute force,number theory"
+prob_608,J,,
+prob_6295,H,,
+prob_6453,D,,
+prob_2212,B,1000.0,"dp,flows,greedy"
+prob_1998,A,500.0,games
+prob_6379,C,,
+prob_5160,C,,
+prob_193,D,,
+prob_2597,D,,
+prob_5699,G,,
+prob_1803,E,2500.0,"data structures,dsu,graphs"
+prob_332,A,500.0,"brute force,implementation"
+prob_5235,B,1250.0,"bitmasks,divide and conquer"
+prob_6491,H,,
+prob_5722,D,2000.0,"dp,strings"
+prob_6034,E,2500.0,"dp,graph matchings,math,meet-in-the-middle"
+prob_1584,B,1000.0,"brute force,dp,implementation,sortings,ternary search"
+prob_2191,I,,
+prob_1327,E,,
+prob_6213,A,,
+prob_130,H,,
+prob_1150,A,,implementation
+prob_20,A,,
+prob_2389,A,500.0,"binary search,brute force"
+prob_6249,E,,
+prob_2596,G,,
+prob_5531,H,,
+prob_5432,J,,
+prob_924,A,,
+prob_1165,J,,
+prob_3290,A,500.0,implementation
+prob_1653,C,,"data structures,implementation"
+prob_5645,E,,
+prob_1293,C,,implementation
+prob_596,D,,
+prob_3761,D,,
+prob_3301,A,,
+prob_3514,D,1750.0,
+prob_1861,D,,"binary search,data structures"
+prob_5624,E,2500.0,flows
+prob_452,D,2250.0,"binary search,combinatorics,data structures,geometry"
+prob_6459,B,,
+prob_1621,A,500.0,implementation
+prob_3446,A,500.0,implementation
+prob_430,F,,"binary search,data structures,dp"
+prob_733,E,,
+prob_5771,D,,
+prob_1156,A,500.0,implementation
+prob_144,H,,
+prob_5895,K,,
+prob_4273,H,,
+prob_3122,D,2000.0,"data structures,dp,greedy,implementation,sortings"
+prob_1133,C,2000.0,data structures
+prob_4296,E,,
+prob_4815,A,500.0,"greedy,implementation"
+prob_973,A,500.0,implementation
+prob_4694,G,,
+prob_1409,E,,
+prob_1869,B,1000.0,"binary search,implementation,two pointers"
+prob_3118,C,,"brute force,implementation,math"
+prob_4908,D,,
+prob_6138,D,2000.0,"binary search,data structures,dfs and similar,dsu,shortest paths,two pointers"
+prob_5643,M,,
+prob_6413,A,,
+prob_486,A,500.0,"implementation,math"
+prob_748,B,,
+prob_476,G,,
+prob_3656,J,,
+prob_559,D,,
+prob_1398,A,,
+prob_3069,B,1000.0,greedy
+prob_4992,F,3000.0,"brute force,data structures,dp"
+prob_1425,C,1500.0,
+prob_3456,E,2500.0,"dfs and similar,dsu,graphs,trees"
+prob_5070,A,500.0,implementation
+prob_4730,C,1500.0,greedy
+prob_3299,B,,
+prob_4243,B,1000.0,math
+prob_2828,H,,
+prob_5077,E,,
+prob_2237,A,,
+prob_23,A,500.0,"dp,greedy"
+prob_2329,I,,
+prob_2816,H,,
+prob_1662,C,,
+prob_1099,J,,
+prob_3529,H,,
+prob_4506,G,,
+prob_5719,B,,
+prob_1131,E,3000.0,
+prob_4558,K,,
+prob_3499,I,,
+prob_4592,B,,
+prob_4012,E,3000.0,"string suffix structures,strings"
+prob_1088,A,,
+prob_3610,I,,
+prob_4368,B,500.0,"implementation,math"
+prob_864,D,,math
+prob_1608,K,,
+prob_62,B,1000.0,dfs and similar
+prob_964,D,2000.0,"data structures,dfs and similar,dsu,graphs"
+prob_2806,A,500.0,"brute force,constructive algorithms,implementation"
+prob_2496,B,1000.0,"data structures,implementation"
+prob_2189,A,,
+prob_1168,J,,
+prob_4814,B,,
+prob_218,D,,
+prob_4978,E,2250.0,"dfs and similar,graphs,shortest paths"
+prob_2458,C,,
+prob_1274,K,,
+prob_5441,A,500.0,"constructive algorithms,implementation"
+prob_3600,A,,
+prob_1206,F,,
+prob_3547,A,,
+prob_6166,H,,
+prob_2893,E,,
+prob_1929,B,1000.0,"binary search,constructive algorithms,graphs,shortest paths"
+prob_259,C,1500.0,"dfs and similar,implementation"
+prob_3561,D,2000.0,"binary search,data structures,dp,trees"
+prob_4068,B,1000.0,constructive algorithms
+prob_5650,C,,
+prob_16,F,2500.0,"constructive algorithms,strings"
+prob_844,C,,
+prob_6073,B,1000.0,"implementation,math"
+prob_6040,D,,
+prob_6127,A,500.0,"data structures,dsu"
+prob_1005,B,1000.0,brute force
+prob_3952,C,1000.0,"bitmasks,dp,games"
+prob_4229,C,1500.0,"greedy,math,sortings"
+prob_6035,J,,
+prob_4393,C,,
+prob_3554,E,,
+prob_1893,E,2250.0,"combinatorics,dp,fft"
+prob_3970,E,,
+prob_3442,F,,
+prob_2623,K,,
+prob_6223,C,,
+prob_167,L,,
+prob_3099,H,,
+prob_304,D,2000.0,
+prob_1623,C,2000.0,"combinatorics,implementation,math"
+prob_5906,D,2250.0,"bitmasks,dp"
+prob_4866,B,,
+prob_847,G,,
+prob_4812,E,2500.0,"data structures,dp,string suffix structures,strings,trees"
+prob_5630,D,2000.0,"bitmasks,dp,greedy,implementation,math"
+prob_5001,K,,
+prob_4593,D,3000.0,"constructive algorithms,greedy"
+prob_5222,H,,
+prob_4683,A,,
+prob_6178,A,500.0,"binary search,implementation,math"
+prob_2010,C,,
+prob_2330,B,,
+prob_4622,A,500.0,implementation
+prob_111,D,2000.0,"brute force,implementation"
+prob_1590,A,500.0,"greedy,implementation,math"
+prob_3627,C,,
+prob_5377,B,,
+prob_1901,M,,
+prob_4225,H,,
+prob_3595,E,2500.0,"dp,implementation,math"
+prob_2854,C,1500.0,
+prob_140,A,500.0,implementation
+prob_1057,I,,
+prob_3796,A,500.0,implementation
+prob_4971,A,500.0,"implementation,strings"
+prob_4581,A,750.0,"binary search,geometry,ternary search"
+prob_2414,B,,
+prob_1169,E,,
+prob_1586,D,1000.0,"dp,games,math,probabilities"
+prob_1086,A,500.0,greedy
+prob_1645,J,,dp
+prob_5200,E,3000.0,data structures
+prob_5211,A,,
+prob_4907,F,,"dp,hashing,string suffix structures,strings"
+prob_431,B,1000.0,"brute force,implementation"
+prob_775,F,,
+prob_6064,C,2000.0,"dp,string suffix structures,trees"
+prob_5734,K,,
+prob_1310,E,,
+prob_4876,F,,math
+prob_6218,B,,
+prob_5397,C,1500.0,"combinatorics,dp,implementation,math,matrices"
+prob_3948,A,,"expression parsing,greedy"
+prob_3825,B,,"dp,implementation"
+prob_220,C,1500.0,"data structures,dfs and similar,graphs,implementation"
+prob_3550,A,,
+prob_1938,B,,implementation
+prob_3597,L,,
+prob_1616,A,,*special
+prob_525,A,,
+prob_4141,C,,
+prob_4239,A,,
+prob_2029,E,2500.0,"binary search,data structures,sortings"
+prob_3978,C,2500.0,"divide and conquer,dp,greedy"
+prob_3723,C,1500.0,"implementation,strings"
+prob_1918,A,500.0,implementation
+prob_1797,H,,
+prob_2230,E,,
+prob_932,G,,
+prob_2264,A,500.0,"brute force,greedy"
+prob_6346,H,,
+prob_5861,H,,
+prob_2702,,,
+prob_2946,C,1250.0,"brute force,constructive algorithms,math,number theory"
+prob_6307,D,,
+prob_4681,F,,
+prob_6157,B,,
+prob_362,A,,
+prob_4572,E,,
+prob_977,A,,
+prob_2935,D,,
+prob_3966,B,1000.0,"dp,math,probabilities"
+prob_937,A,500.0,"greedy,strings"
+prob_5792,E,,
+prob_5414,B,,"greedy,sortings,two pointers"
+prob_4519,A,,
+prob_5469,G,,
+prob_3279,E,2500.0,"binary search,two pointers"
+prob_2959,G,,
+prob_170,A,,
+prob_1262,C,,
+prob_2869,E,,"bitmasks,dp"
+prob_2012,E,2500.0,"combinatorics,dp"
+prob_661,B,,
+prob_208,C,1500.0,"combinatorics,constructive algorithms,greedy,implementation"
+prob_859,C,1500.0,math
+prob_3324,I,,
+prob_4955,C,,
+prob_500,C,1750.0,"binary search,greedy"
+prob_4784,B,1000.0,
+prob_1693,H,,
+prob_2641,D,1500.0,dp
+prob_236,J,,
+prob_765,D,1500.0,
+prob_4231,E,2500.0,"data structures,greedy"
+prob_3592,C,1500.0,"binary search,brute force"
+prob_6493,E,,
+prob_936,J,,
+prob_5056,D,,geometry
+prob_1750,E,2250.0,"flows,math"
+prob_5856,B,1000.0,implementation
+prob_4082,C,,
+prob_6111,L,,
+prob_1579,B,,"constructive algorithms,greedy"
+prob_1372,C,,
+prob_2271,L,,
+prob_3985,A,,
+prob_4848,A,500.0,implementation
+prob_280,I,,
+prob_3219,C,,
+prob_5182,A,500.0,"brute force,implementation"
+prob_2336,C,1500.0,"constructive algorithms,greedy,implementation,sortings"
+prob_1834,C,1250.0,constructive algorithms
+prob_1051,B,1250.0,"combinatorics,dfs and similar,dsu,graphs"
+prob_528,H,,
+prob_3727,C,1500.0,"graphs,greedy,sortings"
+prob_2716,E,2000.0,dp
+prob_5224,F,,
+prob_4402,A,500.0,implementation
+prob_1967,J,,
+prob_5434,J,,
+prob_3248,I,,
+prob_3873,C,1500.0,"data structures,expression parsing,implementation"
+prob_4880,E,,
+prob_1446,G,,
+prob_1900,D,,
+prob_6407,B,750.0,implementation
+prob_4998,G,,*special
+prob_2223,E,2500.0,"brute force,number theory,trees"
+prob_4794,J,,
+prob_1501,L,,
+prob_6357,C,,"data structures,hashing,implementation"
+prob_6366,G,,
+prob_5967,D,1500.0,number theory
+prob_2908,A,,
+prob_4335,E,,
+prob_3264,F,,
+prob_6150,E,,
+prob_586,C,,
+prob_5710,D,,
+prob_2376,D,2000.0,math
+prob_568,E,2500.0,divide and conquer
+prob_2226,E,2500.0,"data structures,two pointers"
+prob_5965,A,,
+prob_4210,D,,"data structures,implementation"
+prob_4554,E,2500.0,trees
+prob_2397,G,,
+prob_1366,J,,
+prob_4608,B,1000.0,geometry
+prob_400,L,,
+prob_5547,L,,
+prob_1877,C,1250.0,dfs and similar
+prob_1100,H,,
+prob_5876,H,,
+prob_5665,H,,
+prob_4631,E,,
+prob_6184,J,,
+prob_1028,K,,
+prob_3767,B,,
+prob_2251,F,,
+prob_2850,E,,
+prob_2622,A,500.0,brute force
+prob_5880,E,3000.0,"dp,sortings"
+prob_5302,C,1000.0,brute force
+prob_5599,I,,
+prob_3579,B,,
+prob_6522,E,2000.0,"dfs and similar,dp,math,trees"
+prob_2276,H,,
+prob_2034,A,,
+prob_407,J,,
+prob_6039,C,,
+prob_686,,1000.0,
+prob_3033,E,,
+prob_6339,H,,
+prob_3913,F,,
+prob_880,H,,
+prob_5078,B,1000.0,"data structures,implementation,sortings"
+prob_2871,G,,
+prob_6217,B,,
+prob_335,E,,
+prob_5399,G,,
+prob_2577,,,
+prob_1210,F,,
+prob_1556,I,,
+prob_5521,C,1500.0,"hashing,strings"
+prob_3582,I,,
+prob_3195,D,,
+prob_2594,A,500.0,"math,number theory"
+prob_5657,J,,
+prob_6128,G,,
+prob_4870,C,1500.0,"greedy,implementation"
+prob_109,E,,
+prob_4512,D,,"data structures,implementation,sortings"
+prob_2152,A,500.0,"math,number theory"
+prob_6202,I,,
+prob_6192,C,,
+prob_4405,A,500.0,greedy
+prob_6232,N,,
+prob_5620,D,,
+prob_2317,G,,
+prob_1047,C,,brute force
+prob_5072,B,,
+prob_441,E,,
+prob_631,B,1000.0,"constructive algorithms,implementation"
+prob_2896,J,,
+prob_2390,J,,
+prob_3160,B,1000.0,"binary search,geometry"
+prob_933,D,,
+prob_1311,B,1000.0,"constructive algorithms,geometry,greedy,sortings"
+prob_2482,E,,
+prob_3989,K,,
+prob_2710,A,500.0,"dfs and similar,dsu"
+prob_3269,C,1500.0,"brute force,number theory"
+prob_5071,A,500.0,implementation
+prob_1124,B,,
