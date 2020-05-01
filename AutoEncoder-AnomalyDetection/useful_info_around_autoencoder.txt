@@ -1,0 +1,47 @@
+
+Very Useful blog on Auto Encoder and Anomaly Detection:
+a.	Auto Encoder with deep learning:  https://www.pyimagesearch.com/2020/02/17/autoencoders-with-keras-tensorflow-and-deep-learning/
+b.	Noise Reduction: https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
+c.	Anomaly detection using deep learning:  https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
+d.	Anomaly detection using sk-learn (Isolation Forest) : https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/
+
+Auto Encoder:
+a.	https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f
+b.	https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+c.	https://towardsdatascience.com/deep-autoencoders-using-tensorflow-c68f075fd1a3
+d.	https://github.com/nathanhubens/Autoencoders
+
+Auto Encoder Architecture:
+a.	Feed Forward Network
+b.	LSTM Network
+c.	Convolutional Neural Network
+
+Type of Encoder:
+a.	Vanilla Encoder – one hidden layer
+b.	Multilayer encoder – multi hidden layer
+c.	Convolutional encoder – use CNN model 
+d.	Regularized encoder – 
+a.	Sparse encoder
+b.	Denoising encoder 
+
+Use Cases:
+a.	Anomaly detection
+b.	Image/audio Denoising (noise reduction)
+c.	Dimensionality reduction in data visualization 
+
+
+Anomaly Detection:
+
+https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623
+https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/random_cut_forest/random_cut_forest.ipynb
+
+Outlier Detection: when input contains both standard and outlier without output label (unsupervised learning). Aim is to group input data into two buckets (standard and outlier data) 
+
+Novelty detection: when input contains only standard (normal) data along with output label (supervised learning) and trained model has to identify any outlier item during testing
+
+Identify Anomaly in data by:
+a.	Standard deviataion
+b.	Box plot for continuous attributes
+c.	Isolation Forest
+d.	Amazon Robust Random Cut forest algorithm 
+e.	DBScan Clustering, K-means, hierarchal clustering etc
