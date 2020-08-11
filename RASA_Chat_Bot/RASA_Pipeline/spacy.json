@@ -1,0 +1,446 @@
+{
+	"language": "en",
+	"pipeline": "spacy_sklearn",
+	"data": {
+		"rasa_nlu_data": {
+			"regex_features": [
+				{
+					"name": "overview",
+					"pattern": "what is (([A-Za-z])+ ){1,2}testing"
+				},
+				{
+					"name": "overview",
+					"pattern": "define (([A-Za-z])+ ){1,2}testing"
+				},
+				{
+					"name": "activities",
+					"pattern": "([A-Za-z]* )*activities( [A-Za-z]*)*"
+				},
+				{
+					"name": "activities",
+					"pattern": "([A-Za-z]* )*activity( [A-Za-z]*)*"
+				},
+				{
+					"name": "benefits",
+					"pattern": "([A-Za-z]* )*benefits{0,1}( [A-Za-z]*)*"
+				}
+			],
+			"common_examples": [
+				{
+					"text": "what is global testing",
+					"intent": "overview",
+					"entities": [
+						{
+							"start": 8,
+							"end": 22,
+							"value": "global_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "define functional testing",
+					"intent": "overview",
+					"entities": [
+						{
+							"start": 7,
+							"end": 25,
+							"value": "functional_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "explain performance engineering",
+					"intent": "overview",
+					"entities": [
+						{
+							"start": 8,
+							"end": 31,
+							"value": "performance_engineering",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "tell me about mobility testing",
+					"intent": "overview",
+					"entities": [
+						{
+							"start": 14,
+							"end": 30,
+							"value": "mobility_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "understand about security testing",
+					"intent": "overview",
+					"entities": [
+						{
+							"start": 17,
+							"end": 27,
+							"value": "security_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "tools associated with deployment validation testing",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 22,
+							"end": 51,
+							"value": "deployment_validation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "what are the tools for security testing",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 28,
+							"end": 44,
+							"value": "security_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "list of tools used for performance testing",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 23,
+							"end": 42,
+							"value": "performance_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "certified automation testing tool",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 10,
+							"end": 28,
+							"value": "automation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "licensed test enironment management tools approved by global testing",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 9,
+							"end": 35,
+							"value": "test_environment_management",
+							"entity": "category"
+						},
+						{
+							"start": 54,
+							"end": 68,
+							"value": "global_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "the tools of ort",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 13,
+							"end": 26,
+							"value": "operational_readiness_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "is there any tool available in accessibility testing",
+					"intent": "tools",
+					"entities": [
+						{
+							"start": 31,
+							"end": 52,
+							"value": "accessibility_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "cost associated with ort",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 21,
+							"end": 24,
+							"value": "operational_readiness_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "performance engineering tools that are free of cost",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 0,
+							"end": 23,
+							"value": "performance_engineering",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "what is the cost of deployment validation testing",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 20,
+							"end": 49,
+							"value": "deployment_validation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "list of free tools available in functional testing",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 32,
+							"end": 50,
+							"value": "functional_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "is performance testing costly",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 3,
+							"end": 19,
+							"value": "performance_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "price of test automation",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 9,
+							"end": 24,
+							"value": "automation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "test management is pricy",
+					"intent": "cost",
+					"entities": [
+						{
+							"start": 0,
+							"end": 15,
+							"value": "test_management",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "activities of operational readiness testing",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 14,
+							"end": 43,
+							"value": "operational_readiness_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "steps followed in system testing",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 18,
+							"end": 32,
+							"value": "functional_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "does test management have any activities",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 20,
+							"end": 35,
+							"value": "test_management",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "accessibility testing activities",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 0,
+							"end": 21,
+							"value": "accessibility_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "test environment management deliverables",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 0,
+							"end": 27,
+							"value": "test_environment_management",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "different activities performed in dvt",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 34,
+							"end": 37,
+							"value": "deployment_validation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "deliverables in global testing",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 16,
+							"end": 30,
+							"value": "global_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "what are the phases of performance engineering",
+					"intent": "activities",
+					"entities": [
+						{
+							"start": 17,
+							"end": 31,
+							"value": "performance_engineering",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "applications of automation testing",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 16,
+							"end": 34,
+							"value": "automation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "advantages of global testing",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 14,
+							"end": 28,
+							"value": "global_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "benefits of mobility testing",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 12,
+							"end": 28,
+							"value": "mobility_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "efforts saved of ort",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 17,
+							"end": 20,
+							"value": "operational_readiness_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "outcome of security testing",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 11,
+							"end": 27,
+							"value": "security_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "what are the uses of dvt",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 21,
+							"end": 24,
+							"value": "deployment_validation_testing",
+							"entity": "category"
+						}
+					]
+				},
+				{
+					"text": "why should i do test management",
+					"intent": "benefits",
+					"entities": [
+						{
+							"start": 16,
+							"end": 31,
+							"value": "test_management",
+							"entity": "category"
+						}
+					]
+				}
+			]
+		}
+	}
+}
